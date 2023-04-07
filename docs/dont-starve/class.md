@@ -1,18 +1,5 @@
 # class.lua
 
-从 #\_\_index , #\_\_newindex , 和 @makereadonly 可以看出 class 的 instance 实现方式为:
-
-```js
-const obj = {
-  _: {
-    key1: [value1, setter1],
-    key2: [value2, setter2],
-  },
-  __index: getter,
-  __newindex: setter,
-};
-```
-
 ## makereadonly
 
 将 setter 设置为 #onreadonly
@@ -49,22 +36,26 @@ const obj = {
 - constructor
 - base
 
+通过 class 定义的方法会放到 class 里面, 定义的属性会 copy 到 obj 这样实现了 method 共享, data 独立
+
 ---
 
 <docs-expose>
 
-- base
-  - function: 说明是 constructor, 此时.\_ctor = base, .\_base = nil
-  - table: 此时才为基类, .\_base 指向 base, base 所有的值会浅拷贝到 class
-- \_ctor: function, constructor
-- props: 类的属性
-- return: class
+- base: base class
+- \_ctor: constructor function
+- props: 定义 setter, `{key: setter(t, v, old), ...}`
 
-class:
+注意:
+
+1. (func, nil, ?) == (nil, func, ?), 即说明 base 就是一个 constructor
+2. (func1, func2, ?) == (nil, func2, ?), \_ctor 的优先级高 base
+
+return: class
 
 - (self, ...): 构造函数
 - .is_a(self, klass): 是否是某个 klass
-- .\_ctor: constructor
+- .\_ctor: constructor function
 - .\_base: base class
 
 </docs-expose>
@@ -74,23 +65,60 @@ class:
 - class -> mt, mt 里面只是存放了一个\_\_call 方法
 - obj -> class
 
+没有 props, 只有 method 的类的 obj 的结构为:
+
+```js
+const Class = {
+  ...base,
+  method1: func1,
+  method2: func2,
+  __index: Class,
+  _ctor: constructor,
+  _base: base,
+};
+const obj = {
+  __meta: Class,
+};
+```
+
+有 props 的类的 obj 的结构为:
+
+```js
+const Class = {
+  ...base,
+  method1: func1,
+  method2: func2,
+  __index: __index,
+  __newIndex: __newIndex,
+  _ctor: constructor,
+  _base: base,
+};
+const obj = {
+  _: {
+    key1: [value1, setter1],
+    key2: [value2, setter2],
+  },
+  __meta: Class,
+};
+```
+
 ---
 
 .(self, ...):
 
-1. 把 props 的键值对 , 放入到 obj 中
+1. 先初始化属性, 把 props 的键值对 , 放入到 obj 中
 
    ```js
    {
      _: {
-       key1: [nil, value1],
-       key2: [nil, value2],
+       key1: [nil, setter1],
+       key2: [nil, setter2],
      },
    }
    ```
 
 2. obj -> class
-3. 调用 class.\_ctor(obj, ...), 即内部的 self = obj
+3. 调用构造函数 class.\_ctor(obj, ...), 即内部的 self = obj
 
 ---
 
@@ -113,7 +141,7 @@ class:
 
 ### \_\_index
 
-先读取当前 table 是否有属性, 没有就到 metatable 中找
+先读取当前 table 的 setter(即`_`)里面是否有属性, 没有就到 metatable 中找
 
 <docs-expose>
 
@@ -126,7 +154,7 @@ class:
 
 ### \_\_newindex
 
-写入的时候, 只与当前 table 有关, 则写入当前的 class, 如果存在, 则写入 value 当中,并且调用 setter
+写入的时候, 先找是否有 setter, 没有则写入当前的 table, 如果有, 则调用 setter
 
 <docs-expose>
 

@@ -1,3 +1,3 @@
-# dont starve
+# don't starve
 
 Death Defining Adventure.

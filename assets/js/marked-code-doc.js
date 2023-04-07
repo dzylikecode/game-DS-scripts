@@ -109,7 +109,7 @@
           });
         }
 
-        return marked.parse(`${name}: ${getLocation(location)}\n${content}`);
+        return marked.parse(`${name}: ${getLocation(location)}<br>${content}`);
 
         function getLocation(loc) {
           const href = `#/docs${loc}#${name.toLowerCase()}`;

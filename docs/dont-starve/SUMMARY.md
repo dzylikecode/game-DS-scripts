@@ -1,0 +1,1 @@
+- [class](/docs/dont-starve/class.md)

@@ -20,6 +20,13 @@ function inFolder(folder, filePath) {
   return relPath && !relPath.startsWith("..");
 }
 
+function isExcludedFile(filePath) {
+  const notMD = !filePath.endsWith(".md");
+  const readme = filePath.endsWith("README.md");
+  const summary = filePath.endsWith("SUMMARY.md");
+  return notMD || readme || summary;
+}
+
 /**
  *
  * @param {string} prefix
@@ -42,11 +49,18 @@ function activate(context) {
   extension.showOutputMessage('Congratulations, "dstutils" is now active!');
 
   vscode.workspace.onDidSaveTextDocument((document) => {
-    extension.onSave(document);
+    extension.onSave(document.uri);
   });
 
   vscode.workspace.onDidDeleteFiles((fileDeleteEvent) => {
-    extension.onDelete(fileDeleteEvent.files);
+    fileDeleteEvent.files.forEach((f) => extension.onDelete(f));
+  });
+
+  vscode.workspace.onDidRenameFiles((fileRenameEvent) => {
+    fileRenameEvent.files.forEach((f) => {
+      extension.onDelete(f.oldUri);
+      extension.onSave(f.newUri);
+    });
   });
 }
 
@@ -71,13 +85,13 @@ class DstUtilsExtension {
 
   /**
    *
-   * @param {vscode.TextDocument} document
+   * @param {readonly vscode.Uri} file
    */
-  async onSave(document) {
-    const filePath = document.fileName;
-    if (!filePath.endsWith(".md")) return;
+  async onSave(file) {
+    const filePath = file.fsPath;
+    if (isExcludedFile(filePath)) return;
 
-    const workspaceFolderPath = this._getWorkspaceFolderPath(document.uri);
+    const workspaceFolderPath = this._getWorkspaceFolderPath(file);
 
     const match = mdMaps.find(({ mdDir }) => inFolder(getDir(mdDir), filePath));
     if (match) {
@@ -98,33 +112,29 @@ class DstUtilsExtension {
   }
   /**
    *
-   * @param {readonly vscode.Uri[]} files
+   * @param {readonly vscode.Uri} file
    */
-  async onDelete(files) {
-    for (const file of files) {
-      const filePath = file.fsPath;
-      if (!filePath.endsWith(".md")) return;
+  async onDelete(file) {
+    const filePath = file.fsPath;
+    if (isExcludedFile(filePath)) return;
 
-      const workspaceFolderPath = this._getWorkspaceFolderPath(file);
+    const workspaceFolderPath = this._getWorkspaceFolderPath(file);
 
-      const match = mdMaps.find(({ mdDir }) =>
-        inFolder(getDir(mdDir), filePath)
-      );
-      if (match) {
-        const { mdDir, cacheDir, cbDeps } = match;
-        const mdDirFull = getDir(mdDir);
-        const cacheDirFull = getDir(cacheDir);
-        try {
-          await g.remove(mdDirFull, filePath, cacheDirFull);
-          this.showStatusMessage(`remove ${filePath}`);
-        } catch (err) {
-          this.showOutputMessage(err);
-        }
+    const match = mdMaps.find(({ mdDir }) => inFolder(getDir(mdDir), filePath));
+    if (match) {
+      const { mdDir, cacheDir, cbDeps } = match;
+      const mdDirFull = getDir(mdDir);
+      const cacheDirFull = getDir(cacheDir);
+      try {
+        await g.remove(mdDirFull, filePath, cacheDirFull);
+        this.showStatusMessage(`remove ${filePath}`);
+      } catch (err) {
+        this.showOutputMessage(err);
       }
+    }
 
-      function getDir(dir) {
-        return path.join(workspaceFolderPath, dir);
-      }
+    function getDir(dir) {
+      return path.join(workspaceFolderPath, dir);
     }
   }
   /**

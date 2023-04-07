@@ -4,3 +4,8 @@
 
 - local: `#localSymbol`
 - external: `@externalSymbol`
+
+extension 里面写了一个插件:
+
+- 保存文件的时候, 会生成相应的 json
+- 删除文件的时候, 会删除相应的 json

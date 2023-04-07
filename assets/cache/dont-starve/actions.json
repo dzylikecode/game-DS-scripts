@@ -1,1 +1,1 @@
-{"name":"actions","dependencies":["/dont-starve/class","/dont-starve/_G","/dont-starve/actions"],"local":[],"external":[]}
+{"name":"actions","dependencies":["/dont-starve/class","/dont-starve/bufferedaction","/dont-starve/_G","/dont-starve/actions"],"local":[],"external":[]}
