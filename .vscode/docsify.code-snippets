@@ -24,14 +24,14 @@
   "link repos": {
     "scope": "markdown",
     "prefix": "@linkpg",
-    "body": ["<a class=\"GitHub\" href=\"${1:path}\">${2:title}</a>", "$0"],
+    "body": ["<a class=\"Repos\" href=\"${1:path}\">${2:title}</a>", "$0"],
     "description": "link to github repository"
   },
   "link blank repos": {
     "scope": "markdown",
     "prefix": "@linkpg",
     "body": [
-      "<a class=\"GitHub\" target=\"_blank\" href=\"${1:path}\">${2:title}</a>",
+      "<a class=\"Repos\" target=\"_blank\" href=\"${1:path}\">${2:title}</a>",
       "$0"
     ],
     "description": "link to github repository, blank"

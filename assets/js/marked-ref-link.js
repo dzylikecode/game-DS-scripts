@@ -1,5 +1,7 @@
 (function () {
-  const textExtension = {
+  const markedPlugins = window.gMarkedPlugins;
+
+  const extension = {
     name: "wiki-ref-link",
     level: "inline",
     start(src) {
@@ -35,12 +37,14 @@
     },
   };
 
-  markedPlugins.push(textExtension);
+  markedPlugins.push(extension);
   return;
 })();
 
 (function () {
-  function main(hook, vm) {
+  const docsifyPlugins = window.gDocsifyPlugins;
+
+  function plugin(hook, vm) {
     /**
      * @type {HTMLElement}
      */
@@ -142,8 +146,9 @@
     if (link.parentElement.tagName == "LI") return link.parentElement;
     else return getParentLi(link.parentElement);
   }
+
   function install() {
-    docsifyPlugins.push(main);
+    docsifyPlugins.push(plugin);
   }
 
   install();

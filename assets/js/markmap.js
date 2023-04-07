@@ -9,7 +9,7 @@
   let markmapSvg = [];
   const transformer = new markmap.Transformer();
 
-  function renderCode(code) {
+  function render(code) {
     const { root: data } = transformer.transform(code);
     let currentNum = num;
     markmapSvg.push(function () {
@@ -28,7 +28,7 @@
     return `<svg class="markmap" id="markmap-svg-${num++}"></svg>`;
   }
 
-  function hack(hook, vm) {
+  function plugin(hook, vm) {
     hook.beforeEach(function (html) {
       num = 0;
       markmapSvg = [];
@@ -40,8 +40,8 @@
   }
 
   function install() {
-    docsifyRender.code[langId] = renderCode;
-    docsifyPlugins.push(hack);
+    window.gDocsifyRender.code[langId] = render;
+    window.gDocsifyPlugins.push(plugin);
   }
 
   install();

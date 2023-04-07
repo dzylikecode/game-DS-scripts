@@ -3,6 +3,8 @@
  */
 
 (function () {
+  const docsifyRender = window.gDocsifyRender;
+
   const langId = "js2flowchart";
 
   const theme = {
@@ -58,7 +60,7 @@
     }
   }
 
-  function main(code) {
+  function render(code) {
     // const svg = convertCodeToSvg(code);
     const { createSVGRender, convertCodeToFlowTree } = window.js2flowchart;
 
@@ -75,7 +77,7 @@
   }
 
   function install() {
-    docsifyRender.code[langId] = main;
+    docsifyRender.code[langId] = render;
   }
 
   install();

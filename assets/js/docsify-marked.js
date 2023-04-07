@@ -8,7 +8,7 @@
     const opts = mergeOptions();
 
     newMarked.setOptions(opts);
-    newMarked.use({ extensions: markedPlugins });
+    newMarked.use({ extensions: window.gMarkedPlugins });
 
     return newMarked.parse;
 

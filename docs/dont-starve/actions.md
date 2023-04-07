@@ -2,3 +2,5 @@
 
 - require "class"
 - require "bufferedaction"
+
+@Class

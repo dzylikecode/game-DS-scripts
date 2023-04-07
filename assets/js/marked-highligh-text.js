@@ -1,5 +1,7 @@
 (function () {
-  const textExtension = {
+  const markedPlugins = window.gMarkedPlugins;
+
+  const extension = {
     name: "hightlightText",
     level: "inline",
     start(src) {
@@ -22,6 +24,6 @@
     },
   };
 
-  markedPlugins.push(textExtension);
+  markedPlugins.push(extension);
   return;
 })();

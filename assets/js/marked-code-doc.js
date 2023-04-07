@@ -1,5 +1,7 @@
 (function () {
-  const textExtension = {
+  const markedPlugins = window.gMarkedPlugins;
+
+  const extension = {
     name: "code-doc",
     level: "inline",
     start(src) {
@@ -35,11 +37,13 @@
     },
   };
 
-  markedPlugins.push(textExtension);
+  markedPlugins.push(extension);
   return;
 })();
 
 (function () {
+  const docsifyPlugins = window.gDocsifyPlugins;
+
   let cacheFiles = {};
   let curVPath = "";
 
@@ -134,7 +138,7 @@
     }
   }
 
-  function main(hook, vm) {
+  function plugin(hook, vm) {
     let container = null;
     hook.beforeEach(function (html) {
       const curFile = vm.route.file;
@@ -184,7 +188,7 @@
   }
 
   function install() {
-    docsifyPlugins.push(main);
+    docsifyPlugins.push(plugin);
   }
 
   install();

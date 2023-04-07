@@ -1,7 +1,9 @@
 // import katex from "katex";
 // import marked from "marked";
 (function () {
-  const mathExtension = {
+  const markedPlugins = window.gMarkedPlugins;
+
+  const extension = {
     name: "math",
     level: "inline",
     start(src) {
@@ -43,6 +45,6 @@
     },
   };
 
-  markedPlugins.push(mathExtension);
+  markedPlugins.push(extension);
   return;
 })();

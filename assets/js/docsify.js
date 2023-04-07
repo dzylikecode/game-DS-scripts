@@ -1,6 +1,6 @@
 window.$docsify = {
   name: "Tree", // 目录的标题
-  repo: repoLink, // 右上角的挂件
+  repo: window.gReposLink, // 右上角的挂件
   loadNavbar: "NAVIGATION.md",
   loadSidebar: "SUMMARY.md",
   alias: {
@@ -11,12 +11,12 @@ window.$docsify = {
   markdown: {
     renderer: {
       code: function (code, lang) {
-        const trans = docsifyRender.code?.[lang];
+        const trans = window.gDocsifyRender.code?.[lang];
         return trans === undefined
           ? this.origin.code.apply(this, arguments)
           : trans(code);
       },
     },
   },
-  plugins: docsifyPlugins,
+  plugins: window.gDocsifyPlugins,
 };

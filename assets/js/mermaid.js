@@ -3,6 +3,9 @@
  */
 
 (function () {
+  const docsifyRender = window.gDocsifyRender;
+  const docsifyPlugins = window.gDocsifyPlugins;
+
   const langId = "mermaid";
   // 有一个副作用, 每次切换页面(不是刷新), 本来mermaid-svg-3可能会变成mermaid-svg-5
   // 要是在beforeEach里面, 初始化就不会出现这样的问题
@@ -19,12 +22,14 @@
       }
     }
   }
-
-  function initEachPage() {
-    num = 0;
+  function plugin(hook, vm) {
+    hook.beforeEach(function (html) {
+      num = 0;
+      return html;
+    });
   }
 
-  function main(code) {
+  function render(code) {
     return (
       '<pre class="mermaid">' +
       mermaid.render("mermaid-svg-" + num++, code) +
@@ -34,8 +39,8 @@
 
   function install() {
     init();
-    docsifyRender.code[langId] = main;
-    docsifyPlugins.push(initEachPage);
+    docsifyRender.code[langId] = render;
+    docsifyPlugins.push(plugin);
   }
 
   install();
