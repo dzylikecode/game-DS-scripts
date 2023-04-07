@@ -2,3 +2,6 @@
 temp
 node_modules
 code
+.vscode-test/
+*.vsix
+out/

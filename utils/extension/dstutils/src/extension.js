@@ -75,7 +75,7 @@ class DstUtilsExtension {
    */
   async onSave(document) {
     const filePath = document.fileName;
-    if (filePath.endsWith(".md")) return;
+    if (!filePath.endsWith(".md")) return;
 
     const workspaceFolderPath = this._getWorkspaceFolderPath(document.uri);
 
@@ -103,7 +103,7 @@ class DstUtilsExtension {
   async onDelete(files) {
     for (const file of files) {
       const filePath = file.fsPath;
-      if (filePath.endsWith(".md")) return;
+      if (!filePath.endsWith(".md")) return;
 
       const workspaceFolderPath = this._getWorkspaceFolderPath(file);
 

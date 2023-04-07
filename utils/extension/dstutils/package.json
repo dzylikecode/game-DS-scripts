@@ -9,7 +9,9 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onLanguage:markdown"
+  ],
   "main": "./src/extension.js",
   "contributes": {
     "commands": []
@@ -17,7 +19,7 @@
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",
-    "test": "node ./test/runTest.js"
+    "build": "vsce package --allow-missing-repository"
   },
   "devDependencies": {
     "@types/vscode": "^1.77.0",
