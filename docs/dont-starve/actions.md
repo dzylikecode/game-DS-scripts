@@ -1,4 +1,4 @@
-# Actions.lua
+# actions.lua
 
 - require "class"
 - require "bufferedaction"
