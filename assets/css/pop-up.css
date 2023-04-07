@@ -1,0 +1,19 @@
+.pop-up-container {
+  position: fixed;
+  background-color: #36444c;
+  z-index: 999;
+  width: auto;
+  height: auto;
+  padding: 0.1em 0.5em;
+  max-width: 60%;
+  max-height: 8em;
+  overflow: auto;
+  border: #465963 1px solid;
+}
+
+@media only screen and (min-width: 820px) {
+  .pop-up-container {
+    max-width: 50%;
+    max-height: 8em;
+  }
+}
