@@ -1,0 +1,2 @@
+# slotdetailsscreen.md
+

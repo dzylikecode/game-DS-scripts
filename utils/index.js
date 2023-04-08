@@ -19,7 +19,7 @@ function* getAllFiles(dir) {
 }
 
 function createMdFile(filePath) {
-  const mdPath = filePath.replace(/\.lua$/, ".md");
+  const mdPath = filePath;
   if (fs.existsSync(mdPath)) return;
   const mdDir = path.dirname(mdPath);
   if (!fs.existsSync(mdDir)) fs.mkdirSync(mdDir, { recursive: true });
@@ -49,10 +49,11 @@ function generate(mdDir, codeDir, root) {
       generateDocs(curMdDir, curCodeDir, tabs + 2);
     }
 
-    for (const mdFile of getCurSubFiles(mdDir)) {
-      const curMdPath = path.join(mdDir, mdFile);
+    for (const codeFile of getCurSubFiles(codeDir)) {
+      const mdName = codeFile.replace(".lua", ".md");
+      const curMdPath = path.join(mdDir, mdName);
       const curMdLink = getLink(curMdPath);
-      summary.write(`${" ".repeat(tabs)}  - [${mdFile}](${curMdLink})\n`);
+      summary.write(`${" ".repeat(tabs)}- [${mdName}](${curMdLink})\n`);
       createMdFile(curMdPath);
     }
 
@@ -76,8 +77,8 @@ function generate(mdDir, codeDir, root) {
   }
 
   function getLink(filePath) {
-    return path.relative(root, filePath).replace(/\\/g, "/");
+    return "/" + path.relative(root, filePath).replace(/\\/g, "/");
   }
 }
 
-generateDocs(dtDocsDir, dtCodeDir, "/docs/dont-starve");
+generate(dtDocsDir, dtCodeDir, rootPath);
