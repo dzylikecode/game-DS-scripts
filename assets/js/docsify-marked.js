@@ -1,6 +1,7 @@
 (function () {
   const originMarkdown = window.$docsify?.markdown || {};
   const newMarked = marked; // version above 2.1.0
+  window.gMarked = newMarked;
   window.$docsify.markdown = newMarkdown;
   return;
   function newMarkdown(originMarked, originRenderer) {

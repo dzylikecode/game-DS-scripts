@@ -91,7 +91,7 @@ function parseChunk(chunk, level, location, cbDeps) {
   const descriptions = [];
   const matches = chunk.content.matchAll(exposeRule);
   for (const match of matches) {
-    descriptions.push(match[1].trim());
+    descriptions.push(match[1]);
   }
   return {
     name: chunk.name,

@@ -43,6 +43,9 @@
 
 (function () {
   const docsifyPlugins = window.gDocsifyPlugins;
+  const pageLink = window.gPageLink;
+  const blobLink = window.gBlobLink;
+  // 引用 window.gMarked, 开始的时候是 null
 
   let cacheFiles = {};
   let curVPath = "";
@@ -53,6 +56,7 @@
       this.container.classList.add("pop-up-container");
       this.body = document.querySelector("body");
       const onMouseOut = (e) => {
+        // mouse out 不是进入自己, 则隐藏
         if (!this.container.contains(e.relatedTarget)) {
           this.hide();
         }
@@ -81,11 +85,14 @@
         const { left: elemLeft, top: elemTop } = elem.getBoundingClientRect();
         const description = getContent(elem);
         this.setContent(description);
+        // 需要先显示才能计算出 Client Rect
         this.show();
         const { height: containerHeight } =
           this.container.getBoundingClientRect();
+        // 显示在下面
         // this.container.style.top = `${elem.offsetTop + elem.offsetHeight}px`;
         this.container.style.left = `${elemLeft}px`;
+        // 显示在上面
         this.container.style.top = `${elemTop - containerHeight}px`;
       };
       elem.addEventListener("mouseover", onMouseOver);
@@ -103,28 +110,33 @@
             content = matchVal.description;
           }
         } else if (level === "external") {
-          Object.values(cacheFiles).forEach((cacheFile) => {
+          for (const cacheFile of Object.values(cacheFiles)) {
             const vals = cacheFile.external;
             const matchVal = vals.find((val) => val.name == name);
             if (matchVal) {
               location = matchVal.location;
               content = matchVal.description;
+              break;
             }
-          });
+          }
         }
 
-        return marked.parse(`${name}: ${getLocation(location)}<br>${content}`);
+        return window.gMarked.parse(
+          `${name}: ${getLocation(location, name)}<br>${content}`
+        );
+      }
 
-        function getLocation(loc) {
-          const href = `#/docs${loc}#${name.toLowerCase()}`;
-          const title = loc.split("/").slice(2).join("/");
-          return `<a href="${href}">${title}</a>`;
-        }
+      function getLocation(location, name) {
+        const docsHref = `#/docs${location}#${name.toLowerCase()}`;
+        const blobPath = `${blobLink}code${location}.lua`;
+        const title = location.split("/").slice(2).join("/");
+        return `<a class="docs" href="${docsHref}">${title}</a> <a class="code" href="${blobPath}">code</a>`;
       }
     }
 
     setMouseOut(elem) {
       const onMouseOut = (e) => {
+        // 如果进入的不是 container, 则隐藏
         if (!this.container.contains(e.relatedTarget)) {
           this.hide();
         }
@@ -141,43 +153,30 @@
   function plugin(hook, vm) {
     let container = null;
     hook.beforeEach(function (html) {
-      const curFile = vm.route.file;
-      curVPath = curFile.slice(4, -3);
-      const cacheFile = getCachePath(curVPath);
-      fetch(cacheFile)
-        .then((response) => {
-          if (response.ok) {
-            return response;
-          }
-          throw new Error(`${cacheFile} not found`);
-        })
-        .then(async (res) => {
-          cacheFiles = {};
-          const cacheFileObj = JSON.parse(await res.text());
-          cacheFiles[curVPath] = cacheFileObj;
-          const deps = cacheFileObj.dependencies.slice(0, -1);
-          // console.log(deps);
-          for (const dep of deps) {
-            const depCacheFile = getCachePath(dep);
-            fetch(depCacheFile)
-              .then((response) => {
-                if (response.ok) {
-                  return response;
-                }
-                throw new Error(`${depCacheFile} not found`);
-              })
-              .then(async (res) => {
-                const depCacheFileObj = JSON.parse(await res.text());
-                cacheFiles[dep] = depCacheFileObj;
-              })
-              .catch(async (err) => console.log(err));
-          }
-        })
-        .catch(async (err) => console.log(err));
+      const fileRoute = vm.route.file;
+      curVPath = fileRoute.slice(4, -3);
+      fetchCache(curVPath);
       return html;
       function getCachePath(vPath) {
-        const cacheDir = "/assets/cache";
-        return `${cacheDir}${vPath}.json`;
+        const cacheDir = "assets/cache";
+        return `${pageLink}${cacheDir}${vPath}.json`;
+      }
+
+      async function fetchCache(vPath) {
+        const cachePath = getCachePath(vPath);
+        const res = await fetch(cachePath);
+        if (!res.ok) return;
+        const cacheFile = JSON.parse(await res.text());
+        cacheFiles[vPath] = cacheFile;
+        const vDepsPathes = cacheFile.dependencies.slice(0, -1);
+        for (const vDepPath of vDepsPathes) {
+          // await fetchCache(vDepPath); // 这样会把所有的都包括进来
+          const depCacheFile = getCachePath(vDepPath);
+          const res = await fetch(depCacheFile);
+          if (!res.ok) continue;
+          const depCacheFileObj = JSON.parse(await res.text());
+          cacheFiles[vDepPath] = depCacheFileObj;
+        }
       }
     });
     hook.doneEach(function () {

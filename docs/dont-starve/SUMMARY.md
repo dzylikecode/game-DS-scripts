@@ -1,1 +1,2 @@
 - [class](/docs/dont-starve/class.md)
+- [actions](/docs/dont-starve/actions.md)
