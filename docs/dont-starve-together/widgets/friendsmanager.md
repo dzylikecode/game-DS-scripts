@@ -1,0 +1,2 @@
+# friendsmanager.md
+

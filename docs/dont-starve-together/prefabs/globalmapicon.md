@@ -1,0 +1,2 @@
+# globalmapicon.md
+

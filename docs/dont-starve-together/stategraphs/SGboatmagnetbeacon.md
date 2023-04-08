@@ -1,0 +1,2 @@
+# SGboatmagnetbeacon.md
+

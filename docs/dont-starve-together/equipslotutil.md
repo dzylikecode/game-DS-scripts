@@ -1,0 +1,2 @@
+# equipslotutil.md
+
