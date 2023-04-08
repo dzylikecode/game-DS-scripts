@@ -1,5 +1,7 @@
 # class.lua
 
+lua 没有 class, 需要自己设计. 构造 class 模型, 具体可见 @Class
+
 ## makereadonly
 
 将 setter 设置为 #onreadonly
@@ -44,7 +46,11 @@
 
 - base: base class
 - \_ctor: constructor function
-- props: 定义 setter, `{key: setter(t, v, old), ...}`
+- props: 定义 setter
+
+  ```js
+  {key1: setter1(t, v, old), ...}
+  ```
 
 注意:
 

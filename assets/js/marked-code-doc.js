@@ -49,6 +49,7 @@
 
   let cacheFiles = {};
   let curVPath = "";
+  let isLoaded = false;
 
   class Container {
     constructor() {
@@ -98,6 +99,7 @@
       elem.addEventListener("mouseover", onMouseOver);
 
       function getContent(elem) {
+        if (!isLoaded) return "Loading...<br> Try again";
         const name = elem.dataset.name;
         const level = elem.dataset.level;
         let content = "";
@@ -130,7 +132,7 @@
         const docsHref = `#/docs${location}#${name.toLowerCase()}`;
         const blobPath = `${blobLink}code${location}.lua`;
         const title = location.split("/").slice(2).join("/");
-        return `<a class="docs" href="${docsHref}">${title}</a> <a class="code" href="${blobPath}">code</a>`;
+        return `<a class="docs" href="${docsHref}">${title}</a> <a class="code" href="${blobPath}" target="_blank">code</a>`;
       }
     }
 
@@ -152,11 +154,21 @@
 
   function plugin(hook, vm) {
     let container = null;
+    const dependencyRule = /- require\s"(.+)"/g;
     hook.beforeEach(function (html) {
       const fileRoute = vm.route.file;
+      isLoaded = false;
       curVPath = fileRoute.slice(4, -3);
+      const prefix = `#/docs/${curVPath.split("/")[1]}/`;
       fetchCache(curVPath);
-      return html;
+      const viewCode = `[:rocket: VIEW CODE](${blobLink}code${curVPath}.lua)`;
+      return (
+        viewCode +
+        html.replace(dependencyRule, (match, p1) => {
+          const link = `${prefix}${p1}`;
+          return `- require <a href="${link}">"${p1}"</a>`;
+        })
+      );
       function getCachePath(vPath) {
         const cacheDir = "assets/cache";
         return `${pageLink}${cacheDir}${vPath}.json`;
@@ -177,6 +189,7 @@
           const depCacheFileObj = JSON.parse(await res.text());
           cacheFiles[vDepPath] = depCacheFileObj;
         }
+        isLoaded = true;
       }
     });
     hook.doneEach(function () {
