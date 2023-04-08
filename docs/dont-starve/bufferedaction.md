@@ -30,9 +30,23 @@ constructor:
 
 ## BufferedAction-IsValid
 
+## BufferedAction-\_\_tostring
+
 ## BufferedAction-AddFailAction
 
+<docs-expose>
+
+添加 action buffer
+
+</docs-expose>
+
 ## BufferedAction-AddSuccessAction
+
+<docs-expose>
+
+添加 action buffer
+
+</docs-expose>
 
 ## BufferedAction-Succeed
 

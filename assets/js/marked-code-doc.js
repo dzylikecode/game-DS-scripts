@@ -63,6 +63,7 @@
         }
       };
       this.container.addEventListener("mouseout", onMouseOut);
+      this.container.onwheel = (e) => e.stopPropagation();
     }
 
     setContent(content) {
@@ -83,18 +84,26 @@
      */
     setMouseOver(elem) {
       const onMouseOver = (e) => {
-        const { left: elemLeft, top: elemTop } = elem.getBoundingClientRect();
+        // see https://javascript.info/event-delegation#tooltip-behavior
+        const {
+          left: elemLeft,
+          top: elemTop,
+          height: elemHeight,
+        } = elem.getBoundingClientRect();
         const description = getContent(elem);
         this.setContent(description);
         // 需要先显示才能计算出 Client Rect
         this.show();
         const { height: containerHeight } =
           this.container.getBoundingClientRect();
-        // 显示在下面
-        // this.container.style.top = `${elem.offsetTop + elem.offsetHeight}px`;
         this.container.style.left = `${elemLeft}px`;
         // 显示在上面
-        this.container.style.top = `${elemTop - containerHeight}px`;
+        let top = elemTop - containerHeight;
+        if (top < 0) {
+          // 显示在下面
+          top = elemTop + elemHeight;
+        }
+        this.container.style.top = `${top}px`;
       };
       elem.addEventListener("mouseover", onMouseOver);
 
