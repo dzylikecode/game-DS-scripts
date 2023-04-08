@@ -4,12 +4,11 @@ lua 没有 class, 需要自己设计. 构造 class 模型, 具体可见 @Class
 
 ## makereadonly
 
-将 setter 设置为 #onreadonly
+将 #setter 设置为 #onreadonly
 
 <docs-expose>
 
-- table
-- key
+t, k => ()
 
 使得 key 变为只读
 
@@ -19,9 +18,7 @@ lua 没有 class, 需要自己设计. 构造 class 模型, 具体可见 @Class
 
 <docs-expose>
 
-- table
-- key
-- fn: 即为 setter
+t, k, fn : #setter => ()
 
 使得 key 变为只读
 
@@ -44,25 +41,27 @@ lua 没有 class, 需要自己设计. 构造 class 模型, 具体可见 @Class
 
 <docs-expose>
 
+base: class | function, \_ctor : function, props => class
+
 - base: base class
 - \_ctor: constructor function
-- props: 定义 setter
+- props: 定义 #setter
 
   ```js
-  {key1: setter1(t, v, old), ...}
+  {key1: setter1, ...}
   ```
 
-注意:
-
-1. (func, nil, ?) == (nil, func, ?), 即说明 base 就是一个 constructor
-2. (func1, func2, ?) == (nil, func2, ?), \_ctor 的优先级高 base
-
-return: class
+class:
 
 - (self, ...): 构造函数
 - .is_a(self, klass): 是否是某个 klass
 - .\_ctor: constructor function
 - .\_base: base class
+
+注意:
+
+1. (func, nil, ?) == (nil, func, ?), 即说明 base 就是一个 constructor
+2. (func1, func2, ?) == (nil, func2, ?), \_ctor 的优先级高 base
 
 </docs-expose>
 
@@ -137,7 +136,7 @@ const obj = {
 
 <docs-expose>
 
-- type: array
+ClassRegistry = []
 
 通过 @Class 生成的, 都会在这个数组里面
 
@@ -151,8 +150,7 @@ const obj = {
 
 <docs-expose>
 
-- table
-- key
+t, k => ()
 
 类似于 js 的 getter
 
@@ -164,9 +162,7 @@ const obj = {
 
 <docs-expose>
 
-- table
-- key
-- value
+t, k, v => ()
 
 类似于 js 的 setter, 与 [Writing doesn’t use prototype](https://javascript.info/prototype-inheritance#writing-doesn-t-use-prototype)设计一致
 
@@ -176,6 +172,14 @@ const obj = {
 
 <docs-expose>
 
-实际上就是一个 setter
+实际上就是一个 #setter
+
+</docs-expose>
+
+### setter
+
+<docs-expose>
+
+t, v, old => ()
 
 </docs-expose>

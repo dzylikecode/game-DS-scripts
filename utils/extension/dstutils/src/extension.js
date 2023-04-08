@@ -1,6 +1,7 @@
 const vscode = require("vscode");
 const g = require("./utils/generateCache.js");
 const path = require("path");
+const open = require("./openFile.js");
 
 const mdMaps = [
   {
@@ -62,6 +63,15 @@ function activate(context) {
       extension.onSave(f.newUri);
     });
   });
+
+  const registerCommand = (menu, fn) =>
+    context.subscriptions.push(vscode.commands.registerCommand(menu, fn));
+  registerCommand("dstutils.openCode", () =>
+    open.openCode(vscode.window.activeTextEditor.document.uri)
+  );
+  registerCommand("dstutils.openMarkdown", () =>
+    open.openMd(vscode.window.activeTextEditor.document.uri)
+  );
 }
 
 function deactivate() {}
@@ -85,7 +95,7 @@ class DstUtilsExtension {
 
   /**
    *
-   * @param {readonly vscode.Uri} file
+   * @param {vscode.Uri} file
    */
   async onSave(file) {
     const filePath = file.fsPath;
@@ -94,16 +104,16 @@ class DstUtilsExtension {
     const workspaceFolderPath = this._getWorkspaceFolderPath(file);
 
     const match = mdMaps.find(({ mdDir }) => inFolder(getDir(mdDir), filePath));
-    if (match) {
-      const { mdDir, cacheDir, cbDeps } = match;
-      const mdDirFull = getDir(mdDir);
-      const cacheDirFull = getDir(cacheDir);
-      try {
-        await g.generate(mdDirFull, filePath, cacheDirFull, cbDeps);
-        this.showStatusMessage(`${filePath} -> ${cacheDirFull}`);
-      } catch (err) {
-        this.showOutputMessage(err);
-      }
+    if (!match) return;
+
+    const { mdDir, cacheDir, cbDeps } = match;
+    const mdDirFull = getDir(mdDir);
+    const cacheDirFull = getDir(cacheDir);
+    try {
+      await g.generate(mdDirFull, filePath, cacheDirFull, cbDeps);
+      this.showStatusMessage(`${filePath} -> ${cacheDirFull}`);
+    } catch (err) {
+      this.showOutputMessage(err);
     }
 
     function getDir(dir) {
@@ -112,7 +122,7 @@ class DstUtilsExtension {
   }
   /**
    *
-   * @param {readonly vscode.Uri} file
+   * @param {vscode.Uri} file
    */
   async onDelete(file) {
     const filePath = file.fsPath;
@@ -121,16 +131,16 @@ class DstUtilsExtension {
     const workspaceFolderPath = this._getWorkspaceFolderPath(file);
 
     const match = mdMaps.find(({ mdDir }) => inFolder(getDir(mdDir), filePath));
-    if (match) {
-      const { mdDir, cacheDir, cbDeps } = match;
-      const mdDirFull = getDir(mdDir);
-      const cacheDirFull = getDir(cacheDir);
-      try {
-        await g.remove(mdDirFull, filePath, cacheDirFull);
-        this.showStatusMessage(`remove ${filePath}`);
-      } catch (err) {
-        this.showOutputMessage(err);
-      }
+    if (!match) return;
+
+    const { mdDir, cacheDir, cbDeps } = match;
+    const mdDirFull = getDir(mdDir);
+    const cacheDirFull = getDir(cacheDir);
+    try {
+      await g.remove(mdDirFull, filePath, cacheDirFull);
+      this.showStatusMessage(`remove ${filePath}`);
+    } catch (err) {
+      this.showOutputMessage(err);
     }
 
     function getDir(dir) {

@@ -1,17 +1,22 @@
 # bufferedaction.lua
 
+self
+
 - require "class"
+- require "actions"
+
+action 和一些系列 action buffer 组合的整体
 
 ## BufferedAction
 
 <docs-expose>
 
-constructor:
+BufferedAction = doer, target, action : @Action, invobject, pos, recipe, options, distance
 
 - doer
 - target
 - action
-- invobject
+- invobject: invoked object
 - pos
 - recipe
 - options
@@ -28,7 +33,27 @@ constructor:
 
 ## BufferedAction-Do
 
+<docs-expose>
+
+() => success: Boolean, reason
+
+</docs-expose>
+
+1. 执行动作
+2. 作用于 invoked object
+3. 执行 action buffer
+
+## BufferedAction-TestForStart
+
+<docs-expose>
+
+() => success: Boolean, reason
+
+</docs-expose>
+
 ## BufferedAction-IsValid
+
+## BufferedAction-GetActionString
 
 ## BufferedAction-\_\_tostring
 

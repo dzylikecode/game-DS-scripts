@@ -9,8 +9,8 @@
       return index;
     },
     tokenizer(src, tokens) {
-      const externalRule = /^@([^\s]+)/;
-      const localRule = /^#(([^\s]+)+)/;
+      const externalRule = /^@([^\s,]+)/;
+      const localRule = /^#(([^\s,]+)+)/;
       let match;
       if ((match = externalRule.exec(src))) {
         return {
