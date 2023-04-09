@@ -105,7 +105,9 @@ function parse(srcPath, text, cbDeps = (x) => x) {
   const parts = splitToParts(text);
   const [headPart, ...restParts] = parts;
   const dependencies = extractDependencies(headPart, cbDeps);
-  const chunks = restParts.map(parsePart);
+  const chunks = restParts
+    .map(parsePart)
+    .filter((chunk) => chunk.name != "" && chunk.name != "References");
   const [[localRawChunk], externalChunks] = partition(chunks, isLocal);
   const localChunks = localRawChunk ? splitToLocalChunks(localRawChunk) : [];
   return {

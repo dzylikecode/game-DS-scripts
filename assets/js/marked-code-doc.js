@@ -131,6 +131,7 @@
             }
           }
         }
+        if (content == "") return "Not Found";
 
         return window.gMarked.parse(
           `${name}: ${getLocation(location, name)}<br>${content}`
