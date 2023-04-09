@@ -63,6 +63,8 @@ class:
 1. (func, nil, ?) == (nil, func, ?), 即说明 base 就是一个 constructor
 2. (func1, func2, ?) == (nil, func2, ?), \_ctor 的优先级高 base
 
+进一步可见[Class](https://atjiu.github.io/dstmod-tutorial/#/class)
+
 </docs-expose>
 
 ---

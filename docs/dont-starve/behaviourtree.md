@@ -112,6 +112,32 @@ running 状态, 无子节点, 不是 @ConditionNode 才有 sleep time
 
 </docs-expose>
 
+## BehaviourNode-SaveStatus
+
+<docs-expose>
+
+() => ()
+
+将自己和所有子节点的状态保留进入 lastresult
+
+</docs-expose>
+
+## BehaviourNode-Step
+
+<docs-expose>
+
+() => ()
+
+</docs-expose>
+
+## BehaviourNode-Reset
+
+<docs-expose>
+
+将当前节点和所有子节点设置为 READY
+
+</docs-expose>
+
 ## local
 
 ### profilewrapvisit
@@ -137,6 +163,13 @@ READY = "READY"
 RUNNING = "RUNNING"
 ```
 
+全局变量
+
 </docs-expose>
 
 ## References
+
+1. [BehaviourTree: 从饥荒的 Lua 脚本中抽离出的 Lua 行为树。将行为树修改为不依赖于他原本的 Class 文件，转而依赖于 Cocos2dx-lua 中的 functions 文件](https://gitee.com/anxin1225/BehaviourTree)
+2. [第五期 思想 - 让生物拥有智慧 - 知乎](https://zhuanlan.zhihu.com/p/460999291)
+3. Behavior tree (artificial intelligence, robotics and control). (2023, January 21). In Wikipedia. https://en.wikipedia.org/wiki/Behavior_tree_(artificial_intelligence,_robotics_and_control)
+4. [Behavior tree - Wikipedia](https://en.wikipedia.org/wiki/Behavior_tree)
