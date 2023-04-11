@@ -210,7 +210,7 @@
 
   function plugin(hook, vm) {
     let container = null;
-    const dependencyRule = /- require\s"(.+)"/g;
+    const dependencyRule = /- .*?require\s"(.+)"/g;
     hook.beforeEach(function (html) {
       const fileRoute = vm.route.file;
       const res = mapToVirtual(fileRoute);
@@ -225,8 +225,9 @@
       return (
         viewCode +
         html.replace(dependencyRule, (match, p1) => {
-          const link = docsCache.docsMap(p1);
-          return `- require <a href="${link}">"${p1}"</a>`;
+          const href = docsCache.docsMap(p1);
+          const link = `<a href="${href}">${p1}</a>`;
+          return match.replace(p1, link);
         })
       );
 
