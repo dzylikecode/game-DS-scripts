@@ -14,7 +14,7 @@
 
 // const LuaModule = {
 //   name: "hi/test",
-//   dependencies: ["hi/test", "_G"], // 包含了自己, 还有默认的_G
+//   dependencies: ["hi/test", "GLOBAL"], // 包含了自己, 还有默认的GLOBAL
 //   local: [LuaLocal],
 //   external: [LuaExternal],
 // };
@@ -112,7 +112,7 @@ function parse(srcPath, text, cbDeps = (x) => x) {
   const localChunks = localRawChunk ? splitToLocalChunks(localRawChunk) : [];
   return {
     name: srcPath,
-    dependencies: dependencies.concat([cbDeps("_G"), cbDeps(srcPath)]),
+    dependencies: dependencies.concat([cbDeps("GLOBAL"), cbDeps(srcPath)]),
     local: localChunks.map((chunk) =>
       parseChunk(chunk, "local", srcPath, cbDeps)
     ),

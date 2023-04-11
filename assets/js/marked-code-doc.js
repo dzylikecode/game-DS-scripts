@@ -168,6 +168,7 @@
     hook.beforeEach(function (html) {
       const fileRoute = vm.route.file;
       if (fileRoute.endsWith("README.md")) return html;
+      if (!fileRoute.startsWith("docs/dont-starve")) return html;
       isLoaded = false;
       curVPath = fileRoute.slice(4, -3);
       const prefix = `#/docs/${curVPath.split("/")[1]}/`;
