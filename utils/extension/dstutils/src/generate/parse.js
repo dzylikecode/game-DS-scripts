@@ -16,14 +16,17 @@ function parseHeader(content) {
   const deps = Array.from(content.matchAll(dependencyRule)).map(
     (match) => match[1]
   );
-  const as = Array.from(content.matchAll(asRule)).map((match) => {
-    return { [match[1]]: match[2] };
-  });
-  const ret = content.match(returnRule);
+  const as = Array.from(content.matchAll(asRule)).reduce((acc, match) => {
+    acc[match[1]] = match[2];
+    return acc;
+  }, {});
+  const ret = Array.from(content.matchAll(returnRule))
+    .map((match) => match[1])
+    .at(-1);
   return {
     deps,
     as,
-    ret: ret ? ret[1] : null,
+    ret,
   };
 }
 

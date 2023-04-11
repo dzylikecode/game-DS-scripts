@@ -174,7 +174,7 @@ t, k, v => ()
 
 <docs-expose>
 
-实际上就是一个 #setter
+实际上就是一个 @setter
 
 </docs-expose>
 
