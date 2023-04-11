@@ -1,3 +1,7 @@
+.pop-up {
+  color: #ffbd42;
+}
+
 .pop-up-container {
   position: fixed;
   background-color: #36444c;
@@ -9,6 +13,16 @@
   max-height: 8em;
   overflow: auto;
   border: #465963 1px solid;
+}
+
+.pop-up-container a {
+  color: #449fff;
+  margin-right: 0.5em;
+}
+
+.pop-up-container a:hover {
+  color: #5baaff;
+  border-bottom: #5baaff solid 1px;
 }
 
 @media only screen and (min-width: 820px) {
