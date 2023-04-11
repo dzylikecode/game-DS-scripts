@@ -1,15 +1,15 @@
 const configs = [
   {
-    mdDir: "docs/dont-starve",
-    cacheDir: "assets/cache/dont-starve",
-    codeDir: "code/dont-starve",
+    mdDir: "docs/DS",
+    cacheDir: "assets/cache/DS",
+    codeDir: "code/DS",
     exclude: ["README", "SUMMARY"],
     ext: ".lua",
   },
   {
-    mdDir: "docs/dont-starve-together",
-    cacheDir: "assets/cache/dont-starve-together",
-    codeDir: "code/dont-starve-together",
+    mdDir: "docs/DST",
+    cacheDir: "assets/cache/DST",
+    codeDir: "code/DST",
     exclude: ["README", "SUMMARY"],
     ext: ".lua",
   },

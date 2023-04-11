@@ -3,10 +3,10 @@ const fs = require("fs");
 
 const currentDir = path.dirname(__filename);
 const rootPath = path.join(currentDir, "..");
-const dsDocsDir = path.join(rootPath, "docs/dont-starve");
-const dsCodeDir = path.join(rootPath, "code/dont-starve");
-const dstDocsDir = path.join(rootPath, "docs/dont-starve-together");
-const dstCodeDir = path.join(rootPath, "code/dont-starve-together");
+const dsDocsDir = path.join(rootPath, "docs/DS");
+const dsCodeDir = path.join(rootPath, "code/DS");
+const dstDocsDir = path.join(rootPath, "docs/DST");
+const dstCodeDir = path.join(rootPath, "code/DST");
 
 function* getAllFiles(dir) {
   const contents = fs.readdirSync(dir, { withFileTypes: true });
