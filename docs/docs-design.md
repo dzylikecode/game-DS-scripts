@@ -58,7 +58,7 @@ const luaMoudle = {
   id: "brain/abigailbrain",
   as: { pig: "prefabs/pig" },
   deps: ["Class", "behaviours/follow"],
-  return: "AbigailBrain",
+  ret: "AbigailBrain",
   extern: [
     { id: "echo", info: "docs-expose里面的内容" },
     { id: "AbigailBrain-OnStart", info: "docs-expose里面的内容" },
@@ -81,6 +81,7 @@ const luaMoudle = {
 - dependencies -> deps
 - external -> extern
 - description -> info
+- return -> ret, 防止和 js 的 return 冲突
 
 ## parse 过程
 

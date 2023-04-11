@@ -52,7 +52,7 @@ BehaviourNode:
 
 - name
 - children
-- status: @Enum, 即 #global-status
+- status: @Enum, 即 @global-status
 - lastresult: @Enum 与 status 形同
 - parent: @BehaviourNode
 

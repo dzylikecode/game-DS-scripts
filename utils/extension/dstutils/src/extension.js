@@ -1,76 +1,39 @@
 const vscode = require("vscode");
-const g = require("./utils/generateCache.js");
-const path = require("path");
-const open = require("./openFile.js");
-
-const mdMaps = [
-  {
-    mdDir: "docs/dont-starve",
-    cacheDir: "assets/cache/dont-starve",
-    cbDeps: prefixName("/dont-starve"),
-  },
-  {
-    mdDir: "docs/dont-starve-together",
-    cacheDir: "assets/cache/dont-starve-together",
-    cbDeps: prefixName("/dont-starve-together"),
-  },
-];
-
-function inFolder(folder, filePath) {
-  const relPath = path.relative(folder, filePath);
-  return relPath && !relPath.startsWith("..");
-}
-
-function isExcludedFile(filePath) {
-  const notMD = !filePath.endsWith(".md");
-  const readme = filePath.endsWith("README.md");
-  const summary = filePath.endsWith("SUMMARY.md");
-  return notMD || readme || summary;
-}
-
-/**
- *
- * @param {string} prefix
- * @returns
- */
-function prefixName(prefix) {
-  /**
-   * @param {string} name
-   */
-  return function (name) {
-    return prefix + "/" + name;
-  };
-}
+const g = require("./generate/generateCache.js");
+const { openLeft, openRight } = require("./openFile.js");
+const logger = require("./logger.js");
+const { getWorkspaceFolderPath, mapToVirtual } = require("./utils.js");
+const { mdToCache, mdToCode, codeToMd } = require("./config.js");
 
 /**
  * @param {vscode.ExtensionContext} context
  */
 function activate(context) {
-  const extension = new DstUtilsExtension(context);
-  extension.showOutputMessage('Congratulations, "dstutils" is now active!');
-
+  logger.init();
+  logger.log('Congratulations, "dstUtils" is now active!');
+  5;
   vscode.workspace.onDidSaveTextDocument((document) => {
-    extension.onSave(document.uri);
+    onSave(document.uri);
   });
 
   vscode.workspace.onDidDeleteFiles((fileDeleteEvent) => {
-    fileDeleteEvent.files.forEach((f) => extension.onDelete(f));
+    fileDeleteEvent.files.forEach((f) => onDelete(f));
   });
 
   vscode.workspace.onDidRenameFiles((fileRenameEvent) => {
     fileRenameEvent.files.forEach((f) => {
-      extension.onDelete(f.oldUri);
-      extension.onSave(f.newUri);
+      onDelete(f.oldUri);
+      onSave(f.newUri);
     });
   });
 
   const registerCommand = (menu, fn) =>
     context.subscriptions.push(vscode.commands.registerCommand(menu, fn));
   registerCommand("dstutils.openCode", () =>
-    open.openCode(vscode.window.activeTextEditor.document.uri)
+    openCode(vscode.window.activeTextEditor.document.uri)
   );
   registerCommand("dstutils.openMarkdown", () =>
-    open.openMd(vscode.window.activeTextEditor.document.uri)
+    openMd(vscode.window.activeTextEditor.document.uri)
   );
 }
 
@@ -81,102 +44,59 @@ module.exports = {
   deactivate,
 };
 
-class DstUtilsExtension {
-  /**
-   *
-   * @param {vscode.ExtensionContext} context
-   */
-  constructor(context) {
-    this._context = context;
-    this._outputChannel = vscode.window.createOutputChannel(
-      "Don't Starve Together Utils"
-    );
+/**
+ *
+ * @param {vscode.Uri} uri
+ */
+async function onSave(uri) {
+  const filePath = uri.fsPath;
+  const workspaceFolderPath = getWorkspaceFolderPath(uri);
+  const res = mapToVirtual(filePath, workspaceFolderPath, mdToCache);
+  if (!res) return;
+
+  try {
+    await g.generate(res.srcFile, res.dstFile, res.virtualName);
+    logger.log(`${res.srcFile} -> ${res.dstFile}`);
+  } catch (err) {
+    logger.log(err);
   }
+}
+/**
+ *
+ * @param {vscode.Uri} uri
+ */
+async function onDelete(uri) {
+  const filePath = uri.fsPath;
+  const workspaceFolderPath = getWorkspaceFolderPath(uri);
+  const res = mapToVirtual(filePath, workspaceFolderPath, mdToCache);
+  if (!res) return;
 
-  /**
-   *
-   * @param {vscode.Uri} file
-   */
-  async onSave(file) {
-    const filePath = file.fsPath;
-    if (isExcludedFile(filePath)) return;
-
-    const workspaceFolderPath = this._getWorkspaceFolderPath(file);
-
-    const match = mdMaps.find(({ mdDir }) => inFolder(getDir(mdDir), filePath));
-    if (!match) return;
-
-    const { mdDir, cacheDir, cbDeps } = match;
-    const mdDirFull = getDir(mdDir);
-    const cacheDirFull = getDir(cacheDir);
-    try {
-      await g.generate(mdDirFull, filePath, cacheDirFull, cbDeps);
-      this.showStatusMessage(`${filePath} -> ${cacheDirFull}`);
-    } catch (err) {
-      this.showOutputMessage(err);
-    }
-
-    function getDir(dir) {
-      return path.join(workspaceFolderPath, dir);
-    }
+  try {
+    await g.remove(res.dstFile);
+    logger.log(`remove ${res.dstFile}`);
+  } catch (err) {
+    logger.log(err);
   }
-  /**
-   *
-   * @param {vscode.Uri} file
-   */
-  async onDelete(file) {
-    const filePath = file.fsPath;
-    if (isExcludedFile(filePath)) return;
+}
 
-    const workspaceFolderPath = this._getWorkspaceFolderPath(file);
-
-    const match = mdMaps.find(({ mdDir }) => inFolder(getDir(mdDir), filePath));
-    if (!match) return;
-
-    const { mdDir, cacheDir, cbDeps } = match;
-    const mdDirFull = getDir(mdDir);
-    const cacheDirFull = getDir(cacheDir);
-    try {
-      await g.remove(mdDirFull, filePath, cacheDirFull);
-      this.showStatusMessage(`remove ${filePath}`);
-    } catch (err) {
-      this.showOutputMessage(err);
-    }
-
-    function getDir(dir) {
-      return path.join(workspaceFolderPath, dir);
-    }
+function openCode(uri) {
+  const filePath = uri.fsPath;
+  const workspaceFolderPath = getWorkspaceFolderPath(uri);
+  const res = mapToVirtual(filePath, workspaceFolderPath, mdToCode);
+  if (!res) {
+    logger.log(`${filePath} not match any rule or excluded`);
+    return;
   }
-  /**
-   *
-   * @param {vscode.Uri} uri
-   * @returns
-   */
-  _getWorkspaceFolderPath(uri) {
-    const workspaceFolder = vscode.workspace.getWorkspaceFolder(uri);
+  return openRight(res.dstFile);
+}
 
-    // NOTE: rootPath seems to be deprecated but seems like the best fallback so that
-    // single project workspaces still work. If I come up with a better option, I'll change it.
-    return workspaceFolder
-      ? workspaceFolder.uri.fsPath
-      : vscode.workspace.rootPath;
+function openMd(uri) {
+  const filePath = uri.fsPath;
+  const workspaceFolderPath = getWorkspaceFolderPath(uri);
+  const res = mapToVirtual(filePath, workspaceFolderPath, codeToMd);
+  if (!res) {
+    logger.log(`${filePath} not match any rule or excluded`);
+    return;
   }
-
-  /**
-   * @param {string} message
-   * Show message in output channel
-   */
-  showOutputMessage(message) {
-    this._outputChannel.appendLine(message);
-  }
-
-  /**
-   * @param {string} message
-   * Show message in status bar and output channel.
-   * Return a disposable to remove status bar message.
-   */
-  showStatusMessage(message) {
-    this.showOutputMessage(message);
-    return vscode.window.setStatusBarMessage(message);
-  }
+  return openLeft(res.dstFile);
 }
