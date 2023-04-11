@@ -1,4 +1,4 @@
-# \_G.lua
+# GLOBAL.lua
 
 自己定义的
 

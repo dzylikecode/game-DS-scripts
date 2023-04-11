@@ -9,31 +9,18 @@
       return index;
     },
     tokenizer(src, tokens) {
-      const externalRule = /^@([^\s,]+)/;
-      const localRule = /^#(([^\s,]+)+)/;
+      const popupRule = /^@([^\s,]+)/;
       let match;
-      if ((match = externalRule.exec(src))) {
+      if ((match = popupRule.exec(src))) {
         return {
           type: "code-doc",
           raw: match[0],
           text: match[1].replace(/\\/g, ""),
-          linkType: "external",
-        };
-      } else if ((match = localRule.exec(src))) {
-        return {
-          type: "code-doc",
-          raw: match[0],
-          text: match[1].replace(/\\/g, ""),
-          linkType: "local",
         };
       }
     },
     renderer(token) {
-      if (token.linkType == "external") {
-        return `<span class="pop-up external" data-name="${token.text}" data-level="external">${token.text}</span>`;
-      } else if (token.linkType == "local") {
-        return `<span class="pop-up local" data-name="${token.text}" data-level="local">${token.text}</span>`;
-      }
+      return `<span class="pop-up" data-id="${token.text}">${token.text}</span>`;
     },
   };
 
@@ -45,11 +32,21 @@
   const docsifyPlugins = window.gDocsifyPlugins;
   const pageLink = window.gPageLink;
   const blobLink = window.gBlobLink;
+  /**
+   * @type {{docs:string, code:string, cache:string, exclude: string[], global: string[], ext:string}[]}
+   */
+  const codeDocMaps = window.gCodeDocMaps;
   // 引用 window.gMarked, 开始的时候是 null
 
-  let cacheFiles = {};
-  let curVPath = "";
   let isLoaded = false;
+  const docsCache = {
+    cur: null,
+    global: [],
+    as: {},
+    deps: [],
+    docsMap: (virtualName) => "",
+    codeMap: (virtualName) => "",
+  };
 
   class Container {
     constructor() {
@@ -90,7 +87,7 @@
           top: elemTop,
           height: elemHeight,
         } = elem.getBoundingClientRect();
-        const description = getContent(elem);
+        const description = getContent(elem.dataset.id);
         this.setContent(description);
         // 需要先显示才能计算出 Client Rect
         this.show();
@@ -107,42 +104,91 @@
       };
       elem.addEventListener("mouseover", onMouseOver);
 
-      function getContent(elem) {
+      function getContent(id) {
         if (!isLoaded) return "Loading...<br> Try again";
-        const name = elem.dataset.name;
-        const level = elem.dataset.level;
-        let content = "";
-        let location = "";
-        if (level === "local") {
-          const vals = cacheFiles[curVPath].local;
-          const matchVal = vals.find((val) => val.name == name);
-          if (matchVal) {
-            location = matchVal.location;
-            content = matchVal.description;
-          }
-        } else if (level === "external") {
-          for (const cacheFile of Object.values(cacheFiles)) {
-            const vals = cacheFile.external;
-            const matchVal = vals.find((val) => val.name == name);
-            if (matchVal) {
-              location = matchVal.location;
-              content = matchVal.description;
-              break;
+
+        {
+          const firstSplit = id.indexOf("-");
+          if (firstSplit != -1) {
+            const aliasName = id.slice(0, firstSplit);
+            const m = docsCache.as?.[aliasName];
+            if (m) {
+              const realId = m.ret + id.slice(firstSplit);
+              const v = m.extern.find((val) => val.id == realId);
+              if (v) {
+                const name = v.id;
+                const virtualName = m.id;
+                const anchor = realId;
+                const content = v.info;
+                return prettyContent(name, virtualName, anchor, content);
+              } else return "Not found";
             }
           }
         }
-        if (content == "") return "Not Found";
 
-        return window.gMarked.parse(
-          `${name}: ${getLocation(location, name)}<br>${content}`
-        );
-      }
+        {
+          const v = docsCache.cur.local.find((val) => val.id == id);
+          if (v) {
+            const name = v.id;
+            const virtualName = docsCache.cur.id;
+            const anchor = name;
+            const content = v.info;
+            return prettyContent(name, virtualName, anchor, content);
+          }
+        }
 
-      function getLocation(location, name) {
-        const docsHref = `#/docs${location}#${name.toLowerCase()}`;
-        const blobPath = `${blobLink}code${location}.lua`;
-        const title = location.split("/").slice(2).join("/");
-        return `<a class="docs" href="${docsHref}">${title}</a> <a class="code" href="${blobPath}" target="_blank">code</a>`;
+        {
+          const v = docsCache.cur.extern.find((val) => val.id == id);
+          if (v) {
+            const name = v.id;
+            const virtualName = docsCache.cur.id;
+            const anchor = name;
+            const content = v.info;
+            return prettyContent(name, virtualName, anchor, content);
+          }
+        }
+
+        {
+          for (const m of docsCache.deps) {
+            const v = m.extern.find((val) => val.id == id);
+            if (v) {
+              const name = v.id;
+              const virtualName = m.id;
+              const anchor = name;
+              const content = v.info;
+              return prettyContent(name, virtualName, anchor, content);
+            }
+          }
+        }
+
+        {
+          for (const m of docsCache.global) {
+            const v = m.extern.find((val) => val.id == id);
+            if (v) {
+              const name = v.id;
+              const virtualName = m.id;
+              const anchor = name;
+              const content = v.info;
+              return prettyContent(name, virtualName, anchor, content);
+            }
+          }
+        }
+
+        return "Not Found";
+
+        function prettyContent(name, virtualName, anchor, content) {
+          return window.gMarked.parse(
+            `${name}: ${getLocation(virtualName, anchor)}<br>${content}`
+          );
+        }
+
+        function getLocation(virtualName, anchor) {
+          const docsHref = `${docsCache.docsMap(
+            virtualName
+          )}#${anchor.toLowerCase()}`;
+          const blobPath = docsCache.codeMap(virtualName);
+          return `<a class="docs" href="${docsHref}">${anchor}</a> <a class="code" href="${blobPath}" target="_blank">code</a>`;
+        }
       }
     }
 
@@ -167,40 +213,58 @@
     const dependencyRule = /- require\s"(.+)"/g;
     hook.beforeEach(function (html) {
       const fileRoute = vm.route.file;
-      if (fileRoute.endsWith("README.md")) return html;
+      const res = mapToVirtual(fileRoute);
+      if (!res) return html;
       isLoaded = false;
-      curVPath = fileRoute.slice(4, -3);
-      const prefix = `#/docs/${curVPath.split("/")[1]}/`;
-      fetchCache(curVPath);
-      const viewCode = `[:rocket: VIEW CODE](${blobLink}code${curVPath}.lua)`;
+      docsCache.docsMap = (v) => `#/${res.rule.docs}${v}`;
+      docsCache.codeMap = (v) =>
+        `${blobLink}${res.rule.code}${v}${res.rule.ext}`;
+      const codeFilePath = docsCache.codeMap(res.virtualName);
+      fetchCache(res.virtualName, res.cacheDir, res.rule.global);
+      const viewCode = `[:rocket: VIEW CODE](${codeFilePath})`;
       return (
         viewCode +
         html.replace(dependencyRule, (match, p1) => {
-          const link = `${prefix}${p1}`;
+          const link = docsCache.docsMap(p1);
           return `- require <a href="${link}">"${p1}"</a>`;
         })
       );
-      function getCachePath(vPath) {
-        const cacheDir = "assets/cache";
-        return `${pageLink}${cacheDir}${vPath}.json`;
-      }
 
-      async function fetchCache(vPath) {
-        const cachePath = getCachePath(vPath);
-        const res = await fetch(cachePath);
+      async function fetchCache(virtualName, cacheDir, global) {
+        const cacheFilePath = getCachePath(virtualName);
+        const res = await fetch(cacheFilePath);
         if (!res.ok) return;
-        const cacheFile = JSON.parse(await res.text());
-        cacheFiles[vPath] = cacheFile;
-        const vDepsPathes = cacheFile.dependencies.slice(0, -1);
-        for (const vDepPath of vDepsPathes) {
-          // await fetchCache(vDepPath); // 这样会把所有的都包括进来
-          const depCacheFile = getCachePath(vDepPath);
-          const res = await fetch(depCacheFile);
+        docsCache.cur = JSON.parse(await res.text());
+        docsCache.deps = [];
+        for (const virtualName of docsCache.cur.deps) {
+          const fullPath = getCachePath(virtualName);
+          const res = await fetch(fullPath);
           if (!res.ok) continue;
-          const depCacheFileObj = JSON.parse(await res.text());
-          cacheFiles[vDepPath] = depCacheFileObj;
+          const obj = JSON.parse(await res.text());
+          docsCache.deps.push(obj);
         }
+        docsCache.global = [];
+        for (const virtualName of global) {
+          const fullPath = getCachePath(virtualName);
+          const res = await fetch(fullPath);
+          if (!res.ok) continue;
+          const obj = JSON.parse(await res.text());
+          docsCache.global.push(obj);
+        }
+        docsCache.as = {};
+        for (const [asName, virtualName] of Object.entries(docsCache.cur.as)) {
+          const fullPath = getCachePath(virtualName);
+          const res = await fetch(fullPath);
+          if (!res.ok) continue;
+          const obj = JSON.parse(await res.text());
+          docsCache.as[asName] = obj;
+        }
+
         isLoaded = true;
+
+        function getCachePath(virtualName) {
+          return `${cacheDir}${virtualName}.json`;
+        }
       }
     });
     hook.doneEach(function () {
@@ -214,5 +278,32 @@
     docsifyPlugins.push(plugin);
   }
 
+  /**
+   *
+   * @param {string} fileRoute
+   * @returns
+   */
+  function mapToVirtual(fileRoute) {
+    const match = codeDocMaps.find((m) => fileRoute.startsWith(m.docs));
+    if (!match) return;
+    const virtualName = fileRoute.slice(match.docs.length, -".md".length);
+    if (isExcludedFile(virtualName)) return;
+    const cacheDir = `${pageLink}${match.cache}`;
+
+    return {
+      rule: match,
+      virtualName,
+      cacheDir,
+    };
+
+    /**
+     *
+     * @param {string} virtualName
+     * @returns
+     */
+    function isExcludedFile(virtualName) {
+      return match.exclude.some((e) => virtualName.startsWith(e));
+    }
+  }
   install();
 })();

@@ -4,7 +4,7 @@ lua 没有 class, 需要自己设计. 构造 class 模型, 具体可见 @Class
 
 ## makereadonly
 
-将 #setter 设置为 #onreadonly
+将 @setter 设置为 @onreadonly
 
 <docs-expose>
 
@@ -18,7 +18,7 @@ t, k => ()
 
 <docs-expose>
 
-t, k, fn : #setter => ()
+t, k, fn : @setter => ()
 
 使得 key 变为只读
 
