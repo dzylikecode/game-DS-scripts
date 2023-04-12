@@ -61,18 +61,24 @@
       {
         "command": "dstutils.openMarkdown",
         "title": "open the corresponding markdown"
+      },
+      {
+        "command": "dstutils.generateSummary",
+        "title": "generate docs and summary"
       }
     ],
     "menus": {
       "editor/context": [
         {
           "command": "dstutils.openCode",
-          "when": "editorLangId == markdown || editorLangId == lua",
           "group": "dstutils"
         },
         {
           "command": "dstutils.openMarkdown",
-          "when": "editorLangId == markdown || editorLangId == lua",
+          "group": "dstutils"
+        },
+        {
+          "command": "dstutils.generateSummary",
           "group": "dstutils"
         }
       ]

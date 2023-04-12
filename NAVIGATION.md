@@ -1,4 +1,3 @@
 - [:house:](https://dzylikecode.github.io/)
-- [mods](/docs/mods/)
 - [DS](/docs/DS/)
 - [DST](/docs/DST/)

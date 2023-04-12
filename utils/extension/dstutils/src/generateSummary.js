@@ -1,24 +1,6 @@
 const path = require("path");
 const fs = require("fs");
-
-const currentDir = path.dirname(__filename);
-const rootPath = path.join(currentDir, "..");
-const dsDocsDir = path.join(rootPath, "docs/DS");
-const dsCodeDir = path.join(rootPath, "code/DS");
-const dstDocsDir = path.join(rootPath, "docs/DST");
-const dstCodeDir = path.join(rootPath, "code/DST");
-
-function* getAllFiles(dir) {
-  const contents = fs.readdirSync(dir, { withFileTypes: true });
-  for (const content of contents) {
-    const res = path.join(dir, content.name);
-    if (content.isDirectory()) {
-      yield* getAllFiles(res);
-    } else {
-      yield res;
-    }
-  }
-}
+const logger = require("./logger.js");
 
 function createMdFile(filePath) {
   const mdPath = filePath;
@@ -35,7 +17,7 @@ function createMdFile(filePath) {
   });
 }
 
-function generate(mdDir, codeDir, root) {
+function generate(mdDir, codeDir, root, ext) {
   const summaryPath = path.join(mdDir, "SUMMARY.md");
   const readmePath = path.join(mdDir, "README.md");
   const readmeLink = getLink(readmePath);
@@ -52,14 +34,14 @@ function generate(mdDir, codeDir, root) {
     }
 
     for (const codeFile of getCurSubFiles(codeDir)) {
-      const mdName = codeFile.replace(".lua", ".md");
+      const mdName = codeFile.replace(ext, ".md");
       const curMdPath = path.join(mdDir, mdName);
       const curMdLink = getLink(curMdPath);
       summary.write(`${" ".repeat(tabs)}- [${mdName}](${curMdLink})\n`);
       createMdFile(curMdPath);
     }
 
-    console.log(`${codeDir}: done!`);
+    logger.log(`${codeDir}: done!`);
 
     function getCurSubDirs(dir) {
       const items = fs.readdirSync(dir, { withFileTypes: true });
@@ -83,5 +65,4 @@ function generate(mdDir, codeDir, root) {
   }
 }
 
-generate(dsDocsDir, dsCodeDir, rootPath);
-generate(dstDocsDir, dstCodeDir, rootPath);
+module.exports = { generate };

@@ -1,2 +1,0 @@
-- <a class="Repos" target="_blank" href="../example/animation/static-anim/js/main.js">code</a> -> 指向 github repos
-- <a class="Pages" target="_blank" href="../example/animation/static-anim/js/main.js">code</a> -> 指向 github pages

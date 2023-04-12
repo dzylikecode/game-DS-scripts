@@ -1,2 +1,2 @@
 - [:boat:](/README.md)
-- [test](/test/class.md)
+- [design](/docs/docs-design.md)

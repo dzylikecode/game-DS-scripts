@@ -1,9 +1,11 @@
 const vscode = require("vscode");
 const g = require("./generate/generateCache.js");
+const s = require("./generateSummary.js");
 const { openLeft, openRight } = require("./openFile.js");
 const logger = require("./logger.js");
 const { getWorkspaceFolderPath, mapToVirtual } = require("./utils.js");
 const config = require("./config.js");
+const path = require("path");
 
 /**
  * @param {vscode.ExtensionContext} context
@@ -39,6 +41,9 @@ function activate(context) {
   );
   registerCommand("dstutils.openMarkdown", () =>
     openMd(vscode.window.activeTextEditor.document.uri)
+  );
+  registerCommand("dstutils.generateSummary", () =>
+    generateSummary(vscode.window.activeTextEditor.document.uri)
   );
 }
 
@@ -104,4 +109,19 @@ function openMd(uri) {
     return;
   }
   return openLeft(res.dstFile);
+}
+
+function generateSummary(uri) {
+  const workspaceFolderPath = getWorkspaceFolderPath(uri);
+  const res = config.mapRules.map((r) => ({
+    mdDir: getFullPath(r.mdDir),
+    codeDir: getFullPath(r.codeDir),
+    ext: r.ext,
+  }));
+  res.forEach((r) => {
+    s.generate(r.mdDir, r.codeDir, r.ext);
+  });
+  function getFullPath(dir) {
+    return path.join(workspaceFolderPath, dir);
+  }
 }
