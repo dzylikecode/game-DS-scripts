@@ -3117,7 +3117,6 @@
 - [consolescreensettings.md](/docs/DST/consolescreensettings.md)
 - [constants.md](/docs/DST/constants.md)
 - [containers.md](/docs/DST/containers.md)
-- [controller.vdf](/docs/DST/controller.vdf)
 - [cookbookdata.md](/docs/DST/cookbookdata.md)
 - [cooking.md](/docs/DST/cooking.md)
 - [crafting_sorting.md](/docs/DST/crafting_sorting.md)

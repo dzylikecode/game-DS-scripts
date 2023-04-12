@@ -119,7 +119,7 @@ function generateSummary(uri) {
     ext: r.ext,
   }));
   res.forEach((r) => {
-    s.generate(r.mdDir, r.codeDir, r.ext);
+    s.generate(r.mdDir, r.codeDir, workspaceFolderPath, r.ext);
   });
   function getFullPath(dir) {
     return path.join(workspaceFolderPath, dir);
