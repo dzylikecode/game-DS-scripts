@@ -1,33 +1,17 @@
 .pop-up {
-  color: #ffbd42;
+  color: #ed4f00;
 }
 
 .pop-up-container {
-  position: fixed;
-  background-color: #b9ede6;
-  z-index: 999;
-  width: auto;
-  height: auto;
-  padding: 0.1em 0.5em;
-  max-width: 60%;
-  max-height: 8em;
-  overflow: auto;
-  border: #97c5dd 1px solid;
+  background-color: #f0f0f0;
+  border: #d0d0d0 1px solid;
 }
 
 .pop-up-container a {
-  color: #27ae9c;
-  margin-right: 0.5em;
+  color: #2382e6;
 }
 
 .pop-up-container a:hover {
-  color: #2748db;
-  border-bottom: #155048 solid 1px;
-}
-
-@media only screen and (min-width: 820px) {
-  .pop-up-container {
-    max-width: 50%;
-    max-height: 8em;
-  }
+  color: #126dcf;
+  border-bottom: #126dcf solid 1px;
 }
