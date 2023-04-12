@@ -3,7 +3,7 @@ const g = require("./generate/generateCache.js");
 const { openLeft, openRight } = require("./openFile.js");
 const logger = require("./logger.js");
 const { getWorkspaceFolderPath, mapToVirtual } = require("./utils.js");
-const { mdToCache, mdToCode, codeToMd } = require("./config.js");
+const config = require("./config.js");
 
 /**
  * @param {vscode.ExtensionContext} context
@@ -11,7 +11,12 @@ const { mdToCache, mdToCode, codeToMd } = require("./config.js");
 function activate(context) {
   logger.init();
   logger.log('Congratulations, "dstUtils" is now active!');
-  5;
+  config.loadConfig();
+
+  vscode.workspace.onDidChangeConfiguration(() => {
+    config.loadConfig();
+  });
+
   vscode.workspace.onDidSaveTextDocument((document) => {
     onSave(document.uri);
   });
@@ -51,7 +56,7 @@ module.exports = {
 async function onSave(uri) {
   const filePath = uri.fsPath;
   const workspaceFolderPath = getWorkspaceFolderPath(uri);
-  const res = mapToVirtual(filePath, workspaceFolderPath, mdToCache);
+  const res = mapToVirtual(filePath, workspaceFolderPath, config.mdToCache);
   if (!res) return;
 
   try {
@@ -68,7 +73,7 @@ async function onSave(uri) {
 async function onDelete(uri) {
   const filePath = uri.fsPath;
   const workspaceFolderPath = getWorkspaceFolderPath(uri);
-  const res = mapToVirtual(filePath, workspaceFolderPath, mdToCache);
+  const res = mapToVirtual(filePath, workspaceFolderPath, config.mdToCache);
   if (!res) return;
 
   try {
@@ -82,7 +87,7 @@ async function onDelete(uri) {
 function openCode(uri) {
   const filePath = uri.fsPath;
   const workspaceFolderPath = getWorkspaceFolderPath(uri);
-  const res = mapToVirtual(filePath, workspaceFolderPath, mdToCode);
+  const res = mapToVirtual(filePath, workspaceFolderPath, config.mdToCode);
   if (!res) {
     logger.log(`${filePath} not match any rule or excluded`);
     return;
@@ -93,7 +98,7 @@ function openCode(uri) {
 function openMd(uri) {
   const filePath = uri.fsPath;
   const workspaceFolderPath = getWorkspaceFolderPath(uri);
-  const res = mapToVirtual(filePath, workspaceFolderPath, codeToMd);
+  const res = mapToVirtual(filePath, workspaceFolderPath, config.codeToMd);
   if (!res) {
     logger.log(`${filePath} not match any rule or excluded`);
     return;

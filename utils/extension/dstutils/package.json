@@ -14,6 +14,45 @@
   ],
   "main": "./src/extension.js",
   "contributes": {
+    "configuration": {
+      "title": "dstutils",
+      "type": "object",
+      "properties": {
+        "dstutils.mapRules": {
+          "type": "array",
+          "default": [],
+          "items": {
+            "type": "object",
+            "properties": {
+              "mdDir": {
+                "type": "string",
+                "description": "markdown folder"
+              },
+              "cacheDir": {
+                "type": "string",
+                "description": "cache folder"
+              },
+              "codeDir": {
+                "type": "string",
+                "description": "code folder"
+              },
+              "exclude": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "description": "exclude files"
+              },
+              "ext": {
+                "type": "string",
+                "description": "code file extension"
+              }
+            }
+          },
+          "description": "map rules"
+        }
+      }
+    },
     "commands": [
       {
         "command": "dstutils.openCode",
