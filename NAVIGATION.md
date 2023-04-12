@@ -1,4 +1,4 @@
 - [:house:](https://dzylikecode.github.io/)
 - [mods](/docs/mods/)
-- [DS](/docs/dont-starve/)
-- [DST](/docs/dont-starve-together/)
+- [DS](/docs/DS/)
+- [DST](/docs/DST/)
