@@ -36,16 +36,16 @@
    * @type {{docs:string, code:string, cache:string, exclude: string[], global: string[], ext:string}[]}
    */
   const codeDocMaps = window.gCodeDocMaps;
+  const remoteRepos = window.gRemoteRepos ?? [];
   // 引用 window.gMarked, 开始的时候是 null
 
   let isLoaded = false;
+  let cacheVar = {};
   const docsCache = {
     cur: null,
     global: [],
     as: {},
     deps: [],
-    docsMap: (virtualName) => "",
-    codeMap: (virtualName) => "",
   };
 
   class Container {
@@ -87,7 +87,9 @@
           top: elemTop,
           height: elemHeight,
         } = elem.getBoundingClientRect();
-        const description = getContent(elem.dataset.id);
+        const description = elem.dataset?.id
+          ? getContent(elem.dataset.id)
+          : getModuleContent(elem.dataset.path);
         this.setContent(description);
         // 需要先显示才能计算出 Client Rect
         this.show();
@@ -103,8 +105,15 @@
         this.container.style.top = `${top}px`;
       };
       elem.addEventListener("mouseover", onMouseOver);
-
       function getContent(id) {
+        if (cacheVar?.[id]) {
+          return cacheVar[id];
+        }
+        const content = searchContent(id);
+        cacheVar[id] = content;
+        return content;
+      }
+      function searchContent(id) {
         if (!isLoaded) return "Loading...<br> Try again";
 
         {
@@ -120,7 +129,7 @@
                 const virtualName = m.id;
                 const anchor = realId;
                 const content = v.info;
-                return prettyContent(name, virtualName, anchor, content);
+                return prettyContent(name, virtualName, anchor, content, m);
               } else return "Not found";
             }
           }
@@ -133,7 +142,13 @@
             const virtualName = docsCache.cur.id;
             const anchor = name;
             const content = v.info;
-            return prettyContent(name, virtualName, anchor, content);
+            return prettyContent(
+              name,
+              virtualName,
+              anchor,
+              content,
+              docsCache.cur
+            );
           }
         }
 
@@ -144,7 +159,13 @@
             const virtualName = docsCache.cur.id;
             const anchor = name;
             const content = v.info;
-            return prettyContent(name, virtualName, anchor, content);
+            return prettyContent(
+              name,
+              virtualName,
+              anchor,
+              content,
+              docsCache.cur
+            );
           }
         }
 
@@ -156,7 +177,7 @@
               const virtualName = m.id;
               const anchor = name;
               const content = v.info;
-              return prettyContent(name, virtualName, anchor, content);
+              return prettyContent(name, virtualName, anchor, content, m);
             }
           }
         }
@@ -169,25 +190,76 @@
               const virtualName = m.id;
               const anchor = name;
               const content = v.info;
-              return prettyContent(name, virtualName, anchor, content);
+              return prettyContent(name, virtualName, anchor, content, m);
             }
           }
         }
 
         return "Not Found";
 
-        function prettyContent(name, virtualName, anchor, content) {
+        function prettyContent(name, virtualName, anchor, content, m) {
           return window.gMarked.parse(
-            `${name}: ${getLocation(virtualName, anchor)}<br>${content}`
+            `${name}: ${getLocation(virtualName, anchor, m)}<br>${content}`
           );
         }
 
-        function getLocation(virtualName, anchor) {
-          const docsHref = `${docsCache.docsMap(
+        function getLocation(virtualName, anchor, m) {
+          const docsHref = `${getDocsPath(
+            m.repos,
             virtualName
           )}#${anchor.toLowerCase()}`;
-          const blobPath = docsCache.codeMap(virtualName);
-          return `<a class="docs" href="${docsHref}">${anchor}</a> <a class="code" href="${blobPath}" target="_blank">code</a>`;
+          return `<a class="docs" href="${docsHref}">${anchor}</a> <a class="code" href="${getCodePath(
+            m.repos,
+            virtualName
+          )}" target="_blank">code</a>`;
+        }
+      }
+
+      function getModuleContent(mName) {
+        if (!isLoaded) return "Loading...<br> Try again";
+
+        {
+          const m = docsCache.deps.find((m) => m.id == mName);
+          if (m) {
+            const name = m.id;
+            const virtualName = m.id;
+            const content = m.info;
+            return prettyContent(name, virtualName, content, m);
+          }
+        }
+
+        {
+          const m = docsCache.global.find((m) => m.id == mName);
+          if (m) {
+            const name = m.id;
+            const virtualName = m.id;
+            const content = m.info;
+            return prettyContent(name, virtualName, content, m);
+          }
+        }
+
+        {
+          const m = docsCache.as.keys().find((m) => m.id == mName);
+          if (m) {
+            const name = m.id;
+            const virtualName = m.id;
+            const content = m.info;
+            return prettyContent(name, virtualName, content, m);
+          }
+        }
+
+        function prettyContent(name, virtualName, content, m) {
+          return window.gMarked.parse(
+            `${name}: ${getLocation(virtualName, m)}<br>${content}`
+          );
+        }
+
+        function getLocation(virtualName, m) {
+          const docsHref = `${getDocsPath(m.repos, virtualName)}`;
+          return `<a class="docs" href="${docsHref}">${virtualName}</a> <a class="code" href="${getCodePath(
+            m.repos,
+            virtualName
+          )}" target="_blank">code</a>`;
         }
       }
     }
@@ -216,56 +288,66 @@
       const res = mapToVirtual(fileRoute);
       if (!res) return html;
       isLoaded = false;
-      docsCache.docsMap = (v) => `#/${res.rule.docs}${v}`;
-      docsCache.codeMap = (v) =>
-        `${blobLink}${res.rule.code}${v}${res.rule.ext}`;
-      const codeFilePath = docsCache.codeMap(res.virtualName);
-      fetchCache(res.virtualName, res.cacheDir, res.rule.global);
-      const viewCode = `[:rocket: VIEW CODE](${codeFilePath})`;
+      const allRepos = [res.repos, ...remoteRepos];
+      cacheVar = {};
+      fetchCache(res);
+      const viewCode = `[:rocket: VIEW CODE](${getCodePath(
+        res.repos,
+        res.virtualName
+      )})`;
       return (
         viewCode +
         html.replace(dependencyRule, (match, p1) => {
-          const href = docsCache.docsMap(p1);
-          const link = `<a href="${href}">${p1}</a>`;
+          const link = `<span class="pop-up" data-path="${p1}">${p1}</span>`;
           return match.replace(p1, link);
         })
       );
 
-      async function fetchCache(virtualName, cacheDir, global) {
-        const cacheFilePath = getCachePath(virtualName);
+      async function fetchCache(src) {
+        const cacheFilePath = getCachePath(src.repos, src.virtualName);
         const res = await fetch(cacheFilePath);
+        const global = src.global;
         if (!res.ok) return;
         docsCache.cur = JSON.parse(await res.text());
+        docsCache.cur.repos = src.repos;
         docsCache.deps = [];
         for (const virtualName of docsCache.cur.deps) {
-          const fullPath = getCachePath(virtualName);
-          const res = await fetch(fullPath);
-          if (!res.ok) continue;
-          const obj = JSON.parse(await res.text());
-          docsCache.deps.push(obj);
+          for (const repos of allRepos) {
+            const fullPath = getCachePath(repos, virtualName);
+            const res = await fetch(fullPath);
+            if (!res.ok) continue;
+            const obj = JSON.parse(await res.text());
+            obj.repos = repos;
+            docsCache.deps.push(obj);
+            break;
+          }
         }
         docsCache.global = [];
         for (const virtualName of global) {
-          const fullPath = getCachePath(virtualName);
-          const res = await fetch(fullPath);
-          if (!res.ok) continue;
-          const obj = JSON.parse(await res.text());
-          docsCache.global.push(obj);
+          for (const repos of allRepos) {
+            const fullPath = getCachePath(repos, virtualName);
+            const res = await fetch(fullPath);
+            if (!res.ok) continue;
+            const obj = JSON.parse(await res.text());
+            obj.repos = repos;
+            docsCache.global.push(obj);
+            break;
+          }
         }
         docsCache.as = {};
         for (const [asName, virtualName] of Object.entries(docsCache.cur.as)) {
-          const fullPath = getCachePath(virtualName);
-          const res = await fetch(fullPath);
-          if (!res.ok) continue;
-          const obj = JSON.parse(await res.text());
-          docsCache.as[asName] = obj;
+          for (const repos of allRepos) {
+            const fullPath = getCachePath(repos, virtualName);
+            const res = await fetch(fullPath);
+            if (!res.ok) continue;
+            const obj = JSON.parse(await res.text());
+            obj.repos = repos;
+            docsCache.as[asName] = obj;
+            break;
+          }
         }
 
         isLoaded = true;
-
-        function getCachePath(virtualName) {
-          return `${cacheDir}${virtualName}.json`;
-        }
       }
     });
     hook.doneEach(function () {
@@ -289,12 +371,14 @@
     if (!match) return;
     const virtualName = fileRoute.slice(match.docs.length, -".md".length);
     if (isExcludedFile(virtualName)) return;
-    const cacheDir = `${pageLink}${match.cache}`;
+    const cache = `${pageLink}${match.cache}`;
+    const code = `${blobLink}${match.code}`;
+    const docs = `${pageLink}#/${match.docs}`;
 
     return {
-      rule: match,
       virtualName,
-      cacheDir,
+      repos: { docs, code, cache, ext: match.ext },
+      global: match.global,
     };
 
     /**
@@ -306,5 +390,18 @@
       return match.exclude.some((e) => virtualName.startsWith(e));
     }
   }
+
+  function getCodePath(repos, virtualName) {
+    return `${repos.code}${virtualName}${repos.ext}`;
+  }
+
+  function getDocsPath(repos, virtualName) {
+    return `${repos.docs}${virtualName}`;
+  }
+
+  function getCachePath(repos, virtualName) {
+    return `${repos.cache}${virtualName}.json`;
+  }
+
   install();
 })();

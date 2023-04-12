@@ -23,10 +23,14 @@ function parseHeader(content) {
   const ret = Array.from(content.matchAll(returnRule))
     .map((match) => match[1])
     .at(-1);
+  const info = Array.from(content.matchAll(exposeRule))
+    .map((match) => match[1])
+    .join("<hr>");
   return {
     deps,
     as,
     ret,
+    info,
   };
 }
 
@@ -89,7 +93,7 @@ function parseChunk(chunk) {
 function parse(virtualName, text) {
   const parts = splitToParts(text);
   const [headPart, ...restParts] = parts;
-  const { as, deps, ret } = parseHeader(headPart);
+  const headMsg = parseHeader(headPart);
   const chunks = restParts
     .map(parsePart)
     .filter((chunk) => chunk.id != "" && chunk.id != "References");
@@ -97,9 +101,7 @@ function parse(virtualName, text) {
   const localChunks = localRawChunk ? splitToLocalChunks(localRawChunk) : [];
   return {
     id: virtualName,
-    as,
-    deps,
-    ret,
+    ...headMsg,
     extern: externChunks.map((chunk) => parseChunk(chunk)),
     local: localChunks.map((chunk) => parseChunk(chunk)),
   };
