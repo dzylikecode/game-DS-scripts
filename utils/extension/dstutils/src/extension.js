@@ -1,6 +1,6 @@
 const vscode = require("vscode");
 const g = require("./generate/generateCache.js");
-const s = require("./generateSummary.js");
+const d = require("./generateDocs.js");
 const { openLeft, openRight } = require("./openFile.js");
 const logger = require("./logger.js");
 const { getWorkspaceFolderPath, mapToVirtual } = require("./utils.js");
@@ -44,6 +44,9 @@ function activate(context) {
   );
   registerCommand("dstutils.generateSummary", () =>
     generateSummary(vscode.window.activeTextEditor.document.uri)
+  );
+  registerCommand("dstutils.generateMarkdown", () =>
+    generateDocs(vscode.window.activeTextEditor.document.uri)
   );
 }
 
@@ -115,12 +118,27 @@ function generateSummary(uri) {
   const workspaceFolderPath = getWorkspaceFolderPath(uri);
   const res = config.mapRules.map((r) => ({
     mdDir: getFullPath(r.mdDir),
+  }));
+  res.forEach((r) => {
+    d.generateSummary(r.mdDir, workspaceFolderPath);
+  });
+  logger.log("generate Summary done");
+  function getFullPath(dir) {
+    return path.join(workspaceFolderPath, dir);
+  }
+}
+
+function generateDocs(uri) {
+  const workspaceFolderPath = getWorkspaceFolderPath(uri);
+  const res = config.mapRules.map((r) => ({
+    mdDir: getFullPath(r.mdDir),
     codeDir: getFullPath(r.codeDir),
     ext: r.ext,
   }));
   res.forEach((r) => {
-    s.generate(r.mdDir, r.codeDir, workspaceFolderPath, r.ext);
+    d.generateDocs(r.mdDir, r.codeDir, workspaceFolderPath, r.ext);
   });
+  logger.log("generate Markdown done");
   function getFullPath(dir) {
     return path.join(workspaceFolderPath, dir);
   }

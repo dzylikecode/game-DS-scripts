@@ -64,7 +64,11 @@
       },
       {
         "command": "dstutils.generateSummary",
-        "title": "generate docs and summary"
+        "title": "generate summary"
+      },
+      {
+        "command": "dstutils.generateMarkdown",
+        "title": "generate docs"
       }
     ],
     "menus": {
@@ -79,6 +83,10 @@
         },
         {
           "command": "dstutils.generateSummary",
+          "group": "dstutils"
+        },
+        {
+          "command": "dstutils.generateMarkdown",
           "group": "dstutils"
         }
       ]

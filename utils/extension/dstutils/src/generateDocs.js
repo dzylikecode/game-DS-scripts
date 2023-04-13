@@ -1,12 +1,6 @@
 const path = require("path");
 const fs = require("fs");
-
-const currentDir = path.dirname(__filename);
-const rootPath = path.join(currentDir, "..");
-const dsDocsDir = path.join(rootPath, "docs/DS");
-const dsCodeDir = path.join(rootPath, "code/DS");
-const dstDocsDir = path.join(rootPath, "docs/DST");
-const dstCodeDir = path.join(rootPath, "code/DST");
+const logger = require("./logger.js");
 
 function createMdFile(filePath) {
   const mdPath = filePath;
@@ -112,11 +106,4 @@ function generateDocs(mdDir, codeDir, root, ext) {
   }
 }
 
-function generate(mdDir, codeDir, root, ext) {
-  console.log("generate summary");
-  generateSummary(mdDir, root);
-  console.log("done");
-}
-
-generate(dsDocsDir, dsCodeDir, rootPath, ".lua");
-generate(dstDocsDir, dstCodeDir, rootPath, ".lua");
+module.exports = { generateSummary, generateDocs };
