@@ -1,2 +1,2 @@
-# compostingbin.md
+# compostingbin.lua
 

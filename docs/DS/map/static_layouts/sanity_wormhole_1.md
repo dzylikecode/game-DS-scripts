@@ -1,2 +1,2 @@
-# sanity_wormhole_1.md
+# sanity_wormhole_1.lua
 

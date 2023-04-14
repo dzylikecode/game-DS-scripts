@@ -1,2 +1,2 @@
-# playerlist.md
+# playerlist.lua
 

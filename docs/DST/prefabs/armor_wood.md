@@ -1,2 +1,2 @@
-# armor_wood.md
+# armor_wood.lua
 

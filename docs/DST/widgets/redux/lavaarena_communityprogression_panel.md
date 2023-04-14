@@ -1,2 +1,2 @@
-# lavaarena_communityprogression_panel.md
+# lavaarena_communityprogression_panel.lua
 

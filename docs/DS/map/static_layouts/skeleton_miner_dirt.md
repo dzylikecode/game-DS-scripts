@@ -1,2 +1,2 @@
-# skeleton_miner_dirt.md
+# skeleton_miner_dirt.lua
 

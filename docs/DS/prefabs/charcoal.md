@@ -1,2 +1,2 @@
-# charcoal.md
+# charcoal.lua
 

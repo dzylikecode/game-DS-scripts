@@ -1,2 +1,2 @@
-# terrain_fungus.md
+# terrain_fungus.lua
 

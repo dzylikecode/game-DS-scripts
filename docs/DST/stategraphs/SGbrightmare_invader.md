@@ -1,2 +1,2 @@
-# SGbrightmare_invader.md
+# SGbrightmare_invader.lua
 

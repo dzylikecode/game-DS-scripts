@@ -1,2 +1,2 @@
-# tophat_shadow_fx.md
+# tophat_shadow_fx.lua
 

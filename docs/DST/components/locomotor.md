@@ -1,2 +1,2 @@
-# locomotor.md
+# locomotor.lua
 

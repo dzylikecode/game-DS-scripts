@@ -1,2 +1,2 @@
-# SGwobster.md
+# SGwobster.lua
 

@@ -1,2 +1,2 @@
-# teleportlocation.md
+# teleportlocation.lua
 

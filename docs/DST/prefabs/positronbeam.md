@@ -1,2 +1,2 @@
-# positronbeam.md
+# positronbeam.lua
 

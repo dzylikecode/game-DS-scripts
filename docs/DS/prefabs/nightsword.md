@@ -1,2 +1,2 @@
-# nightsword.md
+# nightsword.lua
 

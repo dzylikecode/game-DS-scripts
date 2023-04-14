@@ -1,2 +1,2 @@
-# desolationspawner.md
+# desolationspawner.lua
 

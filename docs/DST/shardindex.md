@@ -1,2 +1,2 @@
-# shardindex.md
+# shardindex.lua
 

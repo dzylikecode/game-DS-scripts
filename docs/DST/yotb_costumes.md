@@ -1,2 +1,2 @@
-# yotb_costumes.md
+# yotb_costumes.lua
 

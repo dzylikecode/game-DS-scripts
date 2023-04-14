@@ -1,2 +1,2 @@
-# mole.md
+# mole.lua
 

@@ -1,2 +1,2 @@
-# skinner_beefalo.md
+# skinner_beefalo.lua
 

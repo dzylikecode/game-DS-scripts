@@ -1,2 +1,2 @@
-# fx.md
+# fx.lua
 

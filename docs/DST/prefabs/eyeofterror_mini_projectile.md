@@ -1,2 +1,2 @@
-# eyeofterror_mini_projectile.md
+# eyeofterror_mini_projectile.lua
 

@@ -1,2 +1,2 @@
-# terrain_rocky.md
+# terrain_rocky.lua
 

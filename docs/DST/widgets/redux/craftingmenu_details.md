@@ -1,2 +1,2 @@
-# craftingmenu_details.md
+# craftingmenu_details.lua
 

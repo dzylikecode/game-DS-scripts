@@ -1,2 +1,2 @@
-# buzzard.md
+# buzzard.lua
 

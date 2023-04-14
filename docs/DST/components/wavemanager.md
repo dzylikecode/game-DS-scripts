@@ -1,2 +1,2 @@
-# wavemanager.md
+# wavemanager.lua
 

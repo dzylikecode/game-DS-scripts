@@ -1,2 +1,2 @@
-# yotb_beefaloshrine.md
+# yotb_beefaloshrine.lua
 

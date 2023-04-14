@@ -1,2 +1,2 @@
-# beard_sack.md
+# beard_sack.lua
 

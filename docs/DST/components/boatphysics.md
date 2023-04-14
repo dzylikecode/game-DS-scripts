@@ -1,2 +1,2 @@
-# boatphysics.md
+# boatphysics.lua
 

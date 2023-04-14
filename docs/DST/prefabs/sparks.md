@@ -1,2 +1,2 @@
-# sparks.md
+# sparks.lua
 

@@ -1,2 +1,2 @@
-# loadingwidget.md
+# loadingwidget.lua
 

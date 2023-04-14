@@ -1,2 +1,2 @@
-# wormbrain.md
+# wormbrain.lua
 

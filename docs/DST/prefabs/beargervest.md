@@ -1,2 +1,2 @@
-# beargervest.md
+# beargervest.lua
 

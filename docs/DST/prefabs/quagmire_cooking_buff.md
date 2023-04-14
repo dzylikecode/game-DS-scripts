@@ -1,2 +1,2 @@
-# quagmire_cooking_buff.md
+# quagmire_cooking_buff.lua
 

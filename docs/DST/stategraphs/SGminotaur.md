@@ -1,2 +1,2 @@
-# SGminotaur.md
+# SGminotaur.lua
 

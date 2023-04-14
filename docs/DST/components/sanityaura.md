@@ -1,2 +1,2 @@
-# sanityaura.md
+# sanityaura.lua
 

@@ -1,2 +1,2 @@
-# hunger_replica.md
+# hunger_replica.lua
 

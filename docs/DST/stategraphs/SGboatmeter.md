@@ -1,2 +1,2 @@
-# SGboatmeter.md
+# SGboatmeter.lua
 

@@ -1,2 +1,2 @@
-# stalker_minions.md
+# stalker_minions.lua
 

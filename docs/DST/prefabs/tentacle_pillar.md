@@ -1,2 +1,2 @@
-# tentacle_pillar.md
+# tentacle_pillar.lua
 

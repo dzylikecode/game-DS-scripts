@@ -1,2 +1,2 @@
-# aura.md
+# aura.lua
 

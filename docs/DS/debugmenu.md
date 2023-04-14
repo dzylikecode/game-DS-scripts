@@ -1,2 +1,2 @@
-# debugmenu.md
+# debugmenu.lua
 

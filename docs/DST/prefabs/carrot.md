@@ -1,2 +1,2 @@
-# carrot.md
+# carrot.lua
 

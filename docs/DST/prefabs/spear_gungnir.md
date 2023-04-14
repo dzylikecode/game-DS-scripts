@@ -1,2 +1,2 @@
-# spear_gungnir.md
+# spear_gungnir.lua
 

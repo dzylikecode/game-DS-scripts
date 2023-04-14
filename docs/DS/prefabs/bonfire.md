@@ -1,2 +1,2 @@
-# bonfire.md
+# bonfire.lua
 

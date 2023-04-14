@@ -1,2 +1,2 @@
-# SGlureplant.md
+# SGlureplant.lua
 

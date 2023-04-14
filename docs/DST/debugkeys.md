@@ -1,2 +1,2 @@
-# debugkeys.md
+# debugkeys.lua
 

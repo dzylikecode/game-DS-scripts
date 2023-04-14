@@ -1,2 +1,2 @@
-# carnival_gametoken.md
+# carnival_gametoken.lua
 

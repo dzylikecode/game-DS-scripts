@@ -1,2 +1,2 @@
-# shatter.md
+# shatter.lua
 

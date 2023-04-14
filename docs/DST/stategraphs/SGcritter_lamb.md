@@ -1,2 +1,2 @@
-# SGcritter_lamb.md
+# SGcritter_lamb.lua
 

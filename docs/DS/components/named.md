@@ -1,2 +1,2 @@
-# named.md
+# named.lua
 

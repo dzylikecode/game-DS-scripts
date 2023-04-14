@@ -1,2 +1,2 @@
-# mightydumbbell.md
+# mightydumbbell.lua
 

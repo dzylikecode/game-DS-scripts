@@ -1,2 +1,2 @@
-# wormwood_plant_fx.md
+# wormwood_plant_fx.lua
 

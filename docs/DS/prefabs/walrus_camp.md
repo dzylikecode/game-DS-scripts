@@ -1,2 +1,2 @@
-# walrus_camp.md
+# walrus_camp.lua
 

@@ -1,2 +1,2 @@
-# yotc_racestats.md
+# yotc_racestats.lua
 

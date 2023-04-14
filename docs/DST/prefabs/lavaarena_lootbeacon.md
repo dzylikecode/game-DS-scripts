@@ -1,2 +1,2 @@
-# lavaarena_lootbeacon.md
+# lavaarena_lootbeacon.lua
 

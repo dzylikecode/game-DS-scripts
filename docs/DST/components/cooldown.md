@@ -1,2 +1,2 @@
-# cooldown.md
+# cooldown.lua
 

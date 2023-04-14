@@ -1,2 +1,2 @@
-# eventachievements.md
+# eventachievements.lua
 

@@ -1,2 +1,2 @@
-# atrium_gate_pulsesfx.md
+# atrium_gate_pulsesfx.lua
 

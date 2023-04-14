@@ -1,2 +1,2 @@
-# monkeyisland_01.md
+# monkeyisland_01.lua
 

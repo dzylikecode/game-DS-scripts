@@ -1,2 +1,2 @@
-# telebase.md
+# telebase.lua
 

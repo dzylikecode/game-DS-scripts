@@ -1,2 +1,2 @@
-# mighty_gym.md
+# mighty_gym.lua
 

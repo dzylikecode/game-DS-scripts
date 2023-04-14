@@ -1,2 +1,2 @@
-# blueprint.md
+# blueprint.lua
 

@@ -1,2 +1,2 @@
-# SGwilson_client.md
+# SGwilson_client.lua
 

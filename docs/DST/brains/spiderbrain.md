@@ -1,2 +1,2 @@
-# spiderbrain.md
+# spiderbrain.lua
 

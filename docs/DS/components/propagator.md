@@ -1,2 +1,2 @@
-# propagator.md
+# propagator.lua
 

@@ -1,2 +1,2 @@
-# propsign.md
+# propsign.lua
 

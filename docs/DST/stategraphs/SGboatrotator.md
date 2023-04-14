@@ -1,2 +1,2 @@
-# SGboatrotator.md
+# SGboatrotator.lua
 

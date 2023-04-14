@@ -1,2 +1,2 @@
-# wake_small.md
+# wake_small.lua
 

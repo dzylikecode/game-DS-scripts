@@ -1,2 +1,2 @@
-# wormwood.md
+# wormwood.lua
 

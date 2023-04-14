@@ -1,2 +1,2 @@
-# waxwell.md
+# waxwell.lua
 

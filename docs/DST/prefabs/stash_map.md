@@ -1,2 +1,2 @@
-# stash_map.md
+# stash_map.lua
 

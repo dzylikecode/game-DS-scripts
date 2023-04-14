@@ -1,2 +1,2 @@
-# cattoy_mouse.md
+# cattoy_mouse.lua
 

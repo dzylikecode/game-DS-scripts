@@ -1,2 +1,2 @@
-# glasscutter.md
+# glasscutter.lua
 

@@ -1,2 +1,2 @@
-# pillow_common.md
+# pillow_common.lua
 

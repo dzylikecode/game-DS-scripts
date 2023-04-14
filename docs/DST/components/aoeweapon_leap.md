@@ -1,2 +1,2 @@
-# aoeweapon_leap.md
+# aoeweapon_leap.lua
 

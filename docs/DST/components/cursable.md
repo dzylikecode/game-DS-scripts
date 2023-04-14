@@ -1,2 +1,2 @@
-# cursable.md
+# cursable.lua
 

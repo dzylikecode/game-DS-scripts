@@ -1,2 +1,2 @@
-# quagmire_seedpackets.md
+# quagmire_seedpackets.lua
 

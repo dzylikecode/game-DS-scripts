@@ -1,2 +1,2 @@
-# foodaffinity.md
+# foodaffinity.lua
 

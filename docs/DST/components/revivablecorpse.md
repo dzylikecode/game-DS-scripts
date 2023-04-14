@@ -1,2 +1,2 @@
-# revivablecorpse.md
+# revivablecorpse.lua
 

@@ -1,2 +1,2 @@
-# charlie_lecturn.md
+# charlie_lecturn.lua
 

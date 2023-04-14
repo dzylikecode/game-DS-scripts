@@ -1,2 +1,2 @@
-# pigbrain.md
+# pigbrain.lua
 

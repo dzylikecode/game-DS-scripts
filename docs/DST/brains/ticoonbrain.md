@@ -1,2 +1,2 @@
-# ticoonbrain.md
+# ticoonbrain.lua
 

@@ -1,2 +1,2 @@
-# stalker_bulb.md
+# stalker_bulb.lua
 

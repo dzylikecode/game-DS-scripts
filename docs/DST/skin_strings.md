@@ -1,2 +1,2 @@
-# skin_strings.md
+# skin_strings.lua
 

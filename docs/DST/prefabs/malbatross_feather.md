@@ -1,2 +1,2 @@
-# malbatross_feather.md
+# malbatross_feather.lua
 

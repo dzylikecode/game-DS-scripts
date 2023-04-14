@@ -1,2 +1,2 @@
-# walls.md
+# walls.lua
 

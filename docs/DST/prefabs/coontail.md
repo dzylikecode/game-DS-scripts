@@ -1,2 +1,2 @@
-# coontail.md
+# coontail.lua
 

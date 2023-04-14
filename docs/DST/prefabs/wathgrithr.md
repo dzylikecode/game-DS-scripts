@@ -1,2 +1,2 @@
-# wathgrithr.md
+# wathgrithr.lua
 

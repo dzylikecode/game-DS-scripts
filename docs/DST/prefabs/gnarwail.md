@@ -1,2 +1,2 @@
-# gnarwail.md
+# gnarwail.lua
 

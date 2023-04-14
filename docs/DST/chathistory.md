@@ -1,2 +1,2 @@
-# chathistory.md
+# chathistory.lua
 

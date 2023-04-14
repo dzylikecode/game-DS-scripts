@@ -1,2 +1,2 @@
-# gridplacer.md
+# gridplacer.lua
 

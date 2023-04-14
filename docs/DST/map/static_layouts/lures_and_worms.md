@@ -1,2 +1,2 @@
-# lures_and_worms.md
+# lures_and_worms.lua
 

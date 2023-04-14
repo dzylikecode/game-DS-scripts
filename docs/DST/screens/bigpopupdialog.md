@@ -1,2 +1,2 @@
-# bigpopupdialog.md
+# bigpopupdialog.lua
 

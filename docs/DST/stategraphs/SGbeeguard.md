@@ -1,2 +1,2 @@
-# SGbeeguard.md
+# SGbeeguard.lua
 

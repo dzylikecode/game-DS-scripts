@@ -1,2 +1,2 @@
-# houndedtarget.md
+# houndedtarget.lua
 

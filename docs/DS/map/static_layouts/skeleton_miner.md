@@ -1,2 +1,2 @@
-# skeleton_miner.md
+# skeleton_miner.lua
 

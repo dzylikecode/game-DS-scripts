@@ -1,2 +1,2 @@
-# SGcarrat.md
+# SGcarrat.lua
 

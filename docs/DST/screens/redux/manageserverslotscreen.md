@@ -1,2 +1,2 @@
-# manageserverslotscreen.md
+# manageserverslotscreen.lua
 

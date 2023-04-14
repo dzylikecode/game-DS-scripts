@@ -1,2 +1,2 @@
-# hound.md
+# hound.lua
 

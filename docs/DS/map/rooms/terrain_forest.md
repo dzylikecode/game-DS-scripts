@@ -1,2 +1,2 @@
-# terrain_forest.md
+# terrain_forest.lua
 

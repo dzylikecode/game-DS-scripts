@@ -1,2 +1,2 @@
-# trophyscale_fish.md
+# trophyscale_fish.lua
 

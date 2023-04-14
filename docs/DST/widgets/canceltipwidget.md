@@ -1,2 +1,2 @@
-# canceltipwidget.md
+# canceltipwidget.lua
 

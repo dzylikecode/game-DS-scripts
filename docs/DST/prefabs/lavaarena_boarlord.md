@@ -1,2 +1,2 @@
-# lavaarena_boarlord.md
+# lavaarena_boarlord.lua
 

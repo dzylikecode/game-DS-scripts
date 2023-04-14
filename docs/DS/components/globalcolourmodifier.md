@@ -1,2 +1,2 @@
-# globalcolourmodifier.md
+# globalcolourmodifier.lua
 

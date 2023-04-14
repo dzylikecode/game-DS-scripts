@@ -1,2 +1,2 @@
-# dlcupgrade.md
+# dlcupgrade.lua
 

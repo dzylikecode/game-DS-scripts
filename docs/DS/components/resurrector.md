@@ -1,2 +1,2 @@
-# resurrector.md
+# resurrector.lua
 

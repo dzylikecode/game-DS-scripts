@@ -1,2 +1,2 @@
-# mininglantern.md
+# mininglantern.lua
 

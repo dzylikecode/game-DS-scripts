@@ -1,2 +1,2 @@
-# SGmoondial.md
+# SGmoondial.lua
 

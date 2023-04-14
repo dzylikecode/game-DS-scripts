@@ -1,2 +1,2 @@
-# imagepopupdialog.md
+# imagepopupdialog.lua
 

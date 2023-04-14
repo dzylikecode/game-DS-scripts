@@ -1,2 +1,2 @@
-# cursed_monkey_token.md
+# cursed_monkey_token.lua
 

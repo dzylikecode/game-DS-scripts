@@ -1,2 +1,2 @@
-# curseditem.md
+# curseditem.lua
 

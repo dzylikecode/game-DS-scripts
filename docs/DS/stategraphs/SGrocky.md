@@ -1,2 +1,2 @@
-# SGrocky.md
+# SGrocky.lua
 

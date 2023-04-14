@@ -1,2 +1,2 @@
-# ghostlybond.md
+# ghostlybond.lua
 

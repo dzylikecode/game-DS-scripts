@@ -1,2 +1,2 @@
-# burntground.md
+# burntground.lua
 

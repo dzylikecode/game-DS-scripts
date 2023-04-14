@@ -1,2 +1,2 @@
-# slingshot.md
+# slingshot.lua
 

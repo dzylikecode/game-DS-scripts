@@ -1,2 +1,2 @@
-# bearger_fur.md
+# bearger_fur.lua
 

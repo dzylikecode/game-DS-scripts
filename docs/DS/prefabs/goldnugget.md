@@ -1,2 +1,2 @@
-# goldnugget.md
+# goldnugget.lua
 

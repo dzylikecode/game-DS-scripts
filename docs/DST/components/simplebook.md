@@ -1,2 +1,2 @@
-# simplebook.md
+# simplebook.lua
 

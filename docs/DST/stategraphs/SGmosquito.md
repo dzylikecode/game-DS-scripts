@@ -1,2 +1,2 @@
-# SGmosquito.md
+# SGmosquito.lua
 

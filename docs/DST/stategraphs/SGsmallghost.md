@@ -1,2 +1,2 @@
-# SGsmallghost.md
+# SGsmallghost.lua
 

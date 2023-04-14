@@ -1,2 +1,2 @@
-# monkeyisland_worldgen.md
+# monkeyisland_worldgen.lua
 

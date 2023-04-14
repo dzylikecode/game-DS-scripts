@@ -1,2 +1,2 @@
-# trap_icestaff.md
+# trap_icestaff.lua
 

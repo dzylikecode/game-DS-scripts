@@ -1,2 +1,2 @@
-# mastupgrade_lamp.md
+# mastupgrade_lamp.lua
 

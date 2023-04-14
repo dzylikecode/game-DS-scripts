@@ -1,2 +1,2 @@
-# shadow_pillar.md
+# shadow_pillar.lua
 

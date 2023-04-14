@@ -1,2 +1,2 @@
-# waxpaper.md
+# waxpaper.lua
 

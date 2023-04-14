@@ -1,2 +1,2 @@
-# mindcontrolover.md
+# mindcontrolover.lua
 

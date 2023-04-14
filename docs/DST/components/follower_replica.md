@@ -1,2 +1,2 @@
-# follower_replica.md
+# follower_replica.lua
 

@@ -1,2 +1,2 @@
-# oceanfish_shoalspawner.md
+# oceanfish_shoalspawner.lua
 

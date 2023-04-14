@@ -1,2 +1,2 @@
-# explosivehit.md
+# explosivehit.lua
 

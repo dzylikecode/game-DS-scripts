@@ -1,2 +1,2 @@
-# bathbombedhotspring.md
+# bathbombedhotspring.lua
 

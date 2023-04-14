@@ -1,2 +1,2 @@
-# hunter.md
+# hunter.lua
 

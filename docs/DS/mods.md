@@ -1,2 +1,2 @@
-# mods.md
+# mods.lua
 

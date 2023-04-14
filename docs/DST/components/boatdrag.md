@@ -1,2 +1,2 @@
-# boatdrag.md
+# boatdrag.lua
 

@@ -1,2 +1,2 @@
-# strongman.md
+# strongman.lua
 

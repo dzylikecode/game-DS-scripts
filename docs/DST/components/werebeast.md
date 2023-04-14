@@ -1,2 +1,2 @@
-# werebeast.md
+# werebeast.lua
 

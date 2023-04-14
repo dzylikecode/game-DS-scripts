@@ -1,2 +1,2 @@
-# perishable.md
+# perishable.lua
 

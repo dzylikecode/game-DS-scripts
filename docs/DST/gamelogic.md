@@ -1,2 +1,2 @@
-# gamelogic.md
+# gamelogic.lua
 

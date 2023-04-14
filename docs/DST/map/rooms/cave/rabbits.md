@@ -1,2 +1,2 @@
-# rabbits.md
+# rabbits.lua
 

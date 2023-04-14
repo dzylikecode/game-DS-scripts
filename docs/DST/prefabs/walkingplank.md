@@ -1,2 +1,2 @@
-# walkingplank.md
+# walkingplank.lua
 

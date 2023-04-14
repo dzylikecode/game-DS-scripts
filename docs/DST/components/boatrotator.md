@@ -1,2 +1,2 @@
-# boatrotator.md
+# boatrotator.lua
 

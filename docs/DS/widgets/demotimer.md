@@ -1,2 +1,2 @@
-# demotimer.md
+# demotimer.lua
 

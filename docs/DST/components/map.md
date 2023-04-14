@@ -1,2 +1,2 @@
-# map.md
+# map.lua
 

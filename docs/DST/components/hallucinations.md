@@ -1,2 +1,2 @@
-# hallucinations.md
+# hallucinations.lua
 

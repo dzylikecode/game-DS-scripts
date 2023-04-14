@@ -1,2 +1,2 @@
-# plantpagewidget.md
+# plantpagewidget.lua
 

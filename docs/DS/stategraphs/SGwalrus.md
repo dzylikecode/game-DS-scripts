@@ -1,2 +1,2 @@
-# SGwalrus.md
+# SGwalrus.lua
 

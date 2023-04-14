@@ -1,2 +1,2 @@
-# modcompatability.md
+# modcompatability.lua
 

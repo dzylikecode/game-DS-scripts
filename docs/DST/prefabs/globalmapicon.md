@@ -1,2 +1,2 @@
-# globalmapicon.md
+# globalmapicon.lua
 

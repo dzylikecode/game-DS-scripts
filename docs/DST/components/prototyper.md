@@ -1,2 +1,2 @@
-# prototyper.md
+# prototyper.lua
 

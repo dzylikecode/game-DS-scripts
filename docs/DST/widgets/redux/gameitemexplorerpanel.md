@@ -1,2 +1,2 @@
-# gameitemexplorerpanel.md
+# gameitemexplorerpanel.lua
 

@@ -1,2 +1,2 @@
-# reticule.md
+# reticule.lua
 

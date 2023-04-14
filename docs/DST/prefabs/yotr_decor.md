@@ -1,2 +1,2 @@
-# yotr_decor.md
+# yotr_decor.lua
 

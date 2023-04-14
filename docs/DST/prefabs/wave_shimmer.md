@@ -1,2 +1,2 @@
-# wave_shimmer.md
+# wave_shimmer.lua
 

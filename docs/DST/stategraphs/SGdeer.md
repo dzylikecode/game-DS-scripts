@@ -1,2 +1,2 @@
-# SGdeer.md
+# SGdeer.lua
 

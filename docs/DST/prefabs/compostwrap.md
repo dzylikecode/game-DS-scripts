@@ -1,2 +1,2 @@
-# compostwrap.md
+# compostwrap.lua
 

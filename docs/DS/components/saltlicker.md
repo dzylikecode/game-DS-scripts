@@ -1,2 +1,2 @@
-# saltlicker.md
+# saltlicker.lua
 

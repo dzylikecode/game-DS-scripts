@@ -1,2 +1,2 @@
-# strict.md
+# strict.lua
 

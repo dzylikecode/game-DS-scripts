@@ -1,2 +1,2 @@
-# ticoon.md
+# ticoon.lua
 

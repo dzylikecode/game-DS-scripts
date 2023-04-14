@@ -1,2 +1,2 @@
-# controlminions.md
+# controlminions.lua
 

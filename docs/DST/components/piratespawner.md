@@ -1,2 +1,2 @@
-# piratespawner.md
+# piratespawner.lua
 

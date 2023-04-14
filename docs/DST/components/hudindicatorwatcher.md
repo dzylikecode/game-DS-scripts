@@ -1,2 +1,2 @@
-# hudindicatorwatcher.md
+# hudindicatorwatcher.lua
 

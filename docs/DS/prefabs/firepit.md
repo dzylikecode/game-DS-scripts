@@ -1,2 +1,2 @@
-# firepit.md
+# firepit.lua
 

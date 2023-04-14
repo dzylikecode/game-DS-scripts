@@ -1,2 +1,2 @@
-# craftingmenu_pinbar.md
+# craftingmenu_pinbar.lua
 

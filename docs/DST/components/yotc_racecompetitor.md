@@ -1,2 +1,2 @@
-# yotc_racecompetitor.md
+# yotc_racecompetitor.lua
 

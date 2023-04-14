@@ -1,2 +1,2 @@
-# rabbithermit.md
+# rabbithermit.lua
 

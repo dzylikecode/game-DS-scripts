@@ -1,2 +1,2 @@
-# catcoon.md
+# catcoon.lua
 

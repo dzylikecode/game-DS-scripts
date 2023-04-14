@@ -1,2 +1,2 @@
-# kitcoonpoop.md
+# kitcoonpoop.lua
 

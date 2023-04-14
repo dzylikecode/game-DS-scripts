@@ -1,2 +1,2 @@
-# SGmonkeyqueen.md
+# SGmonkeyqueen.lua
 

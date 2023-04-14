@@ -1,2 +1,2 @@
-# reload.md
+# reload.lua
 

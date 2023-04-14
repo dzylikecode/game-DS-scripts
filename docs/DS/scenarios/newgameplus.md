@@ -1,2 +1,2 @@
-# newgameplus.md
+# newgameplus.lua
 

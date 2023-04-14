@@ -1,2 +1,2 @@
-# healthwarningpopup.md
+# healthwarningpopup.lua
 

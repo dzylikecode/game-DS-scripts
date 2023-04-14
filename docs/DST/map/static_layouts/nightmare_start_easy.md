@@ -1,2 +1,2 @@
-# nightmare_start_easy.md
+# nightmare_start_easy.lua
 

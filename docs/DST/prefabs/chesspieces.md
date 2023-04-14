@@ -1,2 +1,2 @@
-# chesspieces.md
+# chesspieces.lua
 

@@ -1,2 +1,2 @@
-# SGcritter_kitten.md
+# SGcritter_kitten.lua
 

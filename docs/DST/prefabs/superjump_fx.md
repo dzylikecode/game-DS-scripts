@@ -1,2 +1,2 @@
-# superjump_fx.md
+# superjump_fx.lua
 

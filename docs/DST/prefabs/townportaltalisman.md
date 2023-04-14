@@ -1,2 +1,2 @@
-# townportaltalisman.md
+# townportaltalisman.lua
 

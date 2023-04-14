@@ -1,2 +1,2 @@
-# scenariorunner.md
+# scenariorunner.lua
 

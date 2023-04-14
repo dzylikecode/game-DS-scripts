@@ -1,2 +1,2 @@
-# lantern_crystal_fx.md
+# lantern_crystal_fx.lua
 

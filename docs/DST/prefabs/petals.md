@@ -1,2 +1,2 @@
-# petals.md
+# petals.lua
 

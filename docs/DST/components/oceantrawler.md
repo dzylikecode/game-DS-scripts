@@ -1,2 +1,2 @@
-# oceantrawler.md
+# oceantrawler.lua
 

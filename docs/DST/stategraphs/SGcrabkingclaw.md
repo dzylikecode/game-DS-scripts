@@ -1,2 +1,2 @@
-# SGcrabkingclaw.md
+# SGcrabkingclaw.lua
 

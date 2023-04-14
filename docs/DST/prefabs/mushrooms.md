@@ -1,2 +1,2 @@
-# mushrooms.md
+# mushrooms.lua
 

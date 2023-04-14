@@ -1,2 +1,2 @@
-# beard.md
+# beard.lua
 

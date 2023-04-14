@@ -1,2 +1,2 @@
-# bugreport.md
+# bugreport.lua
 

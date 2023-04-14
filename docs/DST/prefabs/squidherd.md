@@ -1,2 +1,2 @@
-# squidherd.md
+# squidherd.lua
 

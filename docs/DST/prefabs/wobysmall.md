@@ -1,2 +1,2 @@
-# wobysmall.md
+# wobysmall.lua
 

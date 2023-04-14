@@ -1,2 +1,2 @@
-# worldgen_main.md
+# worldgen_main.lua
 

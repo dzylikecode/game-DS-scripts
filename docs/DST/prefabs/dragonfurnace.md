@@ -1,2 +1,2 @@
-# dragonfurnace.md
+# dragonfurnace.lua
 

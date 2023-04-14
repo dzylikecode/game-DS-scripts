@@ -1,2 +1,2 @@
-# statusdisplays.md
+# statusdisplays.lua
 

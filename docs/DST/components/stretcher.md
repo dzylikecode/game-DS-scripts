@@ -1,2 +1,2 @@
-# stretcher.md
+# stretcher.lua
 

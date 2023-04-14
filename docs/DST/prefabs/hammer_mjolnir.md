@@ -1,2 +1,2 @@
-# hammer_mjolnir.md
+# hammer_mjolnir.lua
 

@@ -1,2 +1,2 @@
-# default_start.md
+# default_start.lua
 

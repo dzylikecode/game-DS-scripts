@@ -1,2 +1,2 @@
-# terrain_savanna.md
+# terrain_savanna.lua
 

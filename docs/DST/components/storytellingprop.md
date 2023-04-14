@@ -1,2 +1,2 @@
-# storytellingprop.md
+# storytellingprop.lua
 

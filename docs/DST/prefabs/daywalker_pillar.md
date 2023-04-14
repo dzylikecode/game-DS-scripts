@@ -1,2 +1,2 @@
-# daywalker_pillar.md
+# daywalker_pillar.lua
 

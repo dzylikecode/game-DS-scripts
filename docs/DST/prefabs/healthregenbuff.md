@@ -1,2 +1,2 @@
-# healthregenbuff.md
+# healthregenbuff.lua
 

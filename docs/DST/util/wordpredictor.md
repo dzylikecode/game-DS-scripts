@@ -1,2 +1,2 @@
-# wordpredictor.md
+# wordpredictor.lua
 

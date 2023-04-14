@@ -1,2 +1,2 @@
-# wolfgang.md
+# wolfgang.lua
 

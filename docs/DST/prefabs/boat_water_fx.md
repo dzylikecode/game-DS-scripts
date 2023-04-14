@@ -1,2 +1,2 @@
-# boat_water_fx.md
+# boat_water_fx.lua
 

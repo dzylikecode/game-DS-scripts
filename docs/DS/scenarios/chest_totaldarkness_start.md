@@ -1,2 +1,2 @@
-# chest_totaldarkness_start.md
+# chest_totaldarkness_start.lua
 

@@ -1,2 +1,2 @@
-# eyeofterror_sinkhole.md
+# eyeofterror_sinkhole.lua
 

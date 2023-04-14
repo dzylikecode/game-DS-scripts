@@ -1,2 +1,2 @@
-# sleepingspider_spiderambush.md
+# sleepingspider_spiderambush.lua
 

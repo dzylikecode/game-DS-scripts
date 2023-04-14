@@ -1,2 +1,2 @@
-# gym.md
+# gym.lua
 

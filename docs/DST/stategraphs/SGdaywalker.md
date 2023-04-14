@@ -1,2 +1,2 @@
-# SGdaywalker.md
+# SGdaywalker.lua
 

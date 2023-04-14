@@ -1,2 +1,2 @@
-# slurtle.md
+# slurtle.lua
 

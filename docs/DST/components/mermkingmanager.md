@@ -1,2 +1,2 @@
-# mermkingmanager.md
+# mermkingmanager.lua
 

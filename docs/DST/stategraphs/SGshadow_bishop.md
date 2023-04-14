@@ -1,2 +1,2 @@
-# SGshadow_bishop.md
+# SGshadow_bishop.lua
 

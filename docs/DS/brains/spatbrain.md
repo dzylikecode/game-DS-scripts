@@ -1,2 +1,2 @@
-# spatbrain.md
+# spatbrain.lua
 

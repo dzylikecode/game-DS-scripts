@@ -1,2 +1,2 @@
-# spider_buffs.md
+# spider_buffs.lua
 

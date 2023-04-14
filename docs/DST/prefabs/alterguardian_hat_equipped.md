@@ -1,2 +1,2 @@
-# alterguardian_hat_equipped.md
+# alterguardian_hat_equipped.lua
 

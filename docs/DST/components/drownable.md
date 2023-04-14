@@ -1,2 +1,2 @@
-# drownable.md
+# drownable.lua
 

@@ -1,2 +1,2 @@
-# moonbeastbrain.md
+# moonbeastbrain.lua
 

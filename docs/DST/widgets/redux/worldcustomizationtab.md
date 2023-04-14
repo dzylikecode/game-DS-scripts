@@ -1,2 +1,2 @@
-# worldcustomizationtab.md
+# worldcustomizationtab.lua
 

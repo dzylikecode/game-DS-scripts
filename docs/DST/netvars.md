@@ -1,2 +1,2 @@
-# netvars.md
+# netvars.lua
 

@@ -1,2 +1,2 @@
-# ruins_camp.md
+# ruins_camp.lua
 

@@ -1,2 +1,2 @@
-# projectile.md
+# projectile.lua
 

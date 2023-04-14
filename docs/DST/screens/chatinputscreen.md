@@ -1,2 +1,2 @@
-# chatinputscreen.md
+# chatinputscreen.lua
 

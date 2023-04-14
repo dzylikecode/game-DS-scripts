@@ -1,2 +1,2 @@
-# moondial.md
+# moondial.lua
 

@@ -1,2 +1,2 @@
-# lureplantbrain.md
+# lureplantbrain.lua
 

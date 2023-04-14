@@ -1,2 +1,2 @@
-# fencerotator.md
+# fencerotator.lua
 

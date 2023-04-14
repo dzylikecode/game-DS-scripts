@@ -1,2 +1,2 @@
-# miniboatlantern.md
+# miniboatlantern.lua
 

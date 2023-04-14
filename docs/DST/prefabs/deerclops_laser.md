@@ -1,2 +1,2 @@
-# deerclops_laser.md
+# deerclops_laser.lua
 

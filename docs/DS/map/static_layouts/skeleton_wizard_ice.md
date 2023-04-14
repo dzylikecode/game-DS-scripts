@@ -1,2 +1,2 @@
-# skeleton_wizard_ice.md
+# skeleton_wizard_ice.lua
 

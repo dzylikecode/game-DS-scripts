@@ -1,2 +1,2 @@
-# profanityfilter.md
+# profanityfilter.lua
 

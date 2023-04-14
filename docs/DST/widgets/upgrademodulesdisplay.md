@@ -1,2 +1,2 @@
-# upgrademodulesdisplay.md
+# upgrademodulesdisplay.lua
 

@@ -1,2 +1,2 @@
-# SGbee.md
+# SGbee.lua
 

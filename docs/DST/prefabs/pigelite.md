@@ -1,2 +1,2 @@
-# pigelite.md
+# pigelite.lua
 

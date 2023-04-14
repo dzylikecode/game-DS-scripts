@@ -1,2 +1,2 @@
-# skilltree_defs.md
+# skilltree_defs.lua
 

@@ -1,2 +1,2 @@
-# bishop.md
+# bishop.lua
 

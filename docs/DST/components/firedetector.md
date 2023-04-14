@@ -1,2 +1,2 @@
-# firedetector.md
+# firedetector.lua
 

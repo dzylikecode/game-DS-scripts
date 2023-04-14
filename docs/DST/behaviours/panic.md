@@ -1,2 +1,2 @@
-# panic.md
+# panic.lua
 

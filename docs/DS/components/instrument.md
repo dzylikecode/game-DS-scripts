@@ -1,2 +1,2 @@
-# instrument.md
+# instrument.lua
 

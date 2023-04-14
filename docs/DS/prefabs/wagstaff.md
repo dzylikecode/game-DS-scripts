@@ -1,2 +1,2 @@
-# wagstaff.md
+# wagstaff.lua
 

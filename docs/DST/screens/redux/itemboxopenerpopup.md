@@ -1,2 +1,2 @@
-# itemboxopenerpopup.md
+# itemboxopenerpopup.lua
 

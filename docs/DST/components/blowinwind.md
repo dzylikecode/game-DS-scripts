@@ -1,2 +1,2 @@
-# blowinwind.md
+# blowinwind.lua
 

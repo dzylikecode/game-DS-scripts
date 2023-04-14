@@ -1,2 +1,2 @@
-# shadow_bishopbrain.md
+# shadow_bishopbrain.lua
 

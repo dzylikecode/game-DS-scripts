@@ -1,2 +1,2 @@
-# armor_ruins.md
+# armor_ruins.lua
 

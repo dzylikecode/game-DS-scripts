@@ -1,2 +1,2 @@
-# SGmushgnome.md
+# SGmushgnome.lua
 

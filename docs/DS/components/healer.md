@@ -1,2 +1,2 @@
-# healer.md
+# healer.lua
 

@@ -1,2 +1,2 @@
-# herd.md
+# herd.lua
 

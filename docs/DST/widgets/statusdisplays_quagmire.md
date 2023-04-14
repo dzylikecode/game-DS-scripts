@@ -1,2 +1,2 @@
-# statusdisplays_quagmire.md
+# statusdisplays_quagmire.lua
 

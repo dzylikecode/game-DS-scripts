@@ -1,2 +1,2 @@
-# houndwarning.md
+# houndwarning.lua
 

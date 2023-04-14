@@ -1,2 +1,2 @@
-# SGcatcoon.md
+# SGcatcoon.lua
 

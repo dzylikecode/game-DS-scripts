@@ -1,2 +1,2 @@
-# trade_recipes.md
+# trade_recipes.lua
 

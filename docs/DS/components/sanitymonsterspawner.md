@@ -1,2 +1,2 @@
-# sanitymonsterspawner.md
+# sanitymonsterspawner.lua
 

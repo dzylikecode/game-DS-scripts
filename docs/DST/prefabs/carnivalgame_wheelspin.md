@@ -1,2 +1,2 @@
-# carnivalgame_wheelspin.md
+# carnivalgame_wheelspin.lua
 

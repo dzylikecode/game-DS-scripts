@@ -1,2 +1,2 @@
-# brain.md
+# brain.lua
 

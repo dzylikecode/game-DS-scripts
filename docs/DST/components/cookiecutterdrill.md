@@ -1,2 +1,2 @@
-# cookiecutterdrill.md
+# cookiecutterdrill.lua
 

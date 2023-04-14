@@ -1,2 +1,2 @@
-# SGmalbatross.md
+# SGmalbatross.lua
 

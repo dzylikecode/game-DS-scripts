@@ -1,2 +1,2 @@
-# foodbuffs.md
+# foodbuffs.lua
 

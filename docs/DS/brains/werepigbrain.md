@@ -1,2 +1,2 @@
-# werepigbrain.md
+# werepigbrain.lua
 

@@ -1,2 +1,2 @@
-# standardcomponents.md
+# standardcomponents.lua
 

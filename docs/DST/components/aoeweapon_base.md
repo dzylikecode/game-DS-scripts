@@ -1,2 +1,2 @@
-# aoeweapon_base.md
+# aoeweapon_base.lua
 

@@ -1,2 +1,2 @@
-# chessunlocks.md
+# chessunlocks.lua
 

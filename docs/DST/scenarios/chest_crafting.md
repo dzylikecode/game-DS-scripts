@@ -1,2 +1,2 @@
-# chest_crafting.md
+# chest_crafting.lua
 

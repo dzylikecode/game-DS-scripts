@@ -1,2 +1,2 @@
-# steelwool.md
+# steelwool.lua
 

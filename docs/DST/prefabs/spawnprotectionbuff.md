@@ -1,2 +1,2 @@
-# spawnprotectionbuff.md
+# spawnprotectionbuff.lua
 

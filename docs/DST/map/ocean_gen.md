@@ -1,2 +1,2 @@
-# ocean_gen.md
+# ocean_gen.lua
 

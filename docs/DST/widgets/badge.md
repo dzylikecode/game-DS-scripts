@@ -1,2 +1,2 @@
-# badge.md
+# badge.lua
 

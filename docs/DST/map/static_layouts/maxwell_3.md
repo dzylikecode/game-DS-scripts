@@ -1,2 +1,2 @@
-# maxwell_3.md
+# maxwell_3.lua
 

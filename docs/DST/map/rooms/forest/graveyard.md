@@ -1,2 +1,2 @@
-# graveyard.md
+# graveyard.lua
 

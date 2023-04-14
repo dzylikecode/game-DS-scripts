@@ -1,2 +1,2 @@
-# stickheads.md
+# stickheads.lua
 

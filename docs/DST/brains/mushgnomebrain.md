@@ -1,2 +1,2 @@
-# mushgnomebrain.md
+# mushgnomebrain.lua
 

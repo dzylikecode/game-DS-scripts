@@ -1,2 +1,2 @@
-# quagmire_altar_statue.md
+# quagmire_altar_statue.lua
 

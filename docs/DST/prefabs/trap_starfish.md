@@ -1,2 +1,2 @@
-# trap_starfish.md
+# trap_starfish.lua
 

@@ -1,2 +1,2 @@
-# yotb_skinunlocker.md
+# yotb_skinunlocker.lua
 

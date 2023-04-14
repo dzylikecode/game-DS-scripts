@@ -1,2 +1,2 @@
-# miniflare.md
+# miniflare.lua
 

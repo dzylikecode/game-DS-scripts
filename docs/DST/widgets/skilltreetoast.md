@@ -1,2 +1,2 @@
-# skilltreetoast.md
+# skilltreetoast.lua
 

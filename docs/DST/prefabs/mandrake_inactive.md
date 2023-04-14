@@ -1,2 +1,2 @@
-# mandrake_inactive.md
+# mandrake_inactive.lua
 

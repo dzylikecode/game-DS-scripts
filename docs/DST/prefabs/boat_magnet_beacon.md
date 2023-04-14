@@ -1,2 +1,2 @@
-# boat_magnet_beacon.md
+# boat_magnet_beacon.lua
 

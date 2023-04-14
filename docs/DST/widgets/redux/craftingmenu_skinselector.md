@@ -1,2 +1,2 @@
-# craftingmenu_skinselector.md
+# craftingmenu_skinselector.lua
 

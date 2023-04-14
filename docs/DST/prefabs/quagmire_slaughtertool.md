@@ -1,2 +1,2 @@
-# quagmire_slaughtertool.md
+# quagmire_slaughtertool.lua
 

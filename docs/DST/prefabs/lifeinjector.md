@@ -1,2 +1,2 @@
-# lifeinjector.md
+# lifeinjector.lua
 

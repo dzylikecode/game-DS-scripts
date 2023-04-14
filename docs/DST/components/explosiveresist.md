@@ -1,2 +1,2 @@
-# explosiveresist.md
+# explosiveresist.lua
 

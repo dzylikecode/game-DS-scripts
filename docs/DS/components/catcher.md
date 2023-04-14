@@ -1,2 +1,2 @@
-# catcher.md
+# catcher.lua
 

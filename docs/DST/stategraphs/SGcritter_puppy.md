@@ -1,2 +1,2 @@
-# SGcritter_puppy.md
+# SGcritter_puppy.lua
 

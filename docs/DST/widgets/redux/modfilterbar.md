@@ -1,2 +1,2 @@
-# modfilterbar.md
+# modfilterbar.lua
 

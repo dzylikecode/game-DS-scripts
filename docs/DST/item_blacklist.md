@@ -1,2 +1,2 @@
-# item_blacklist.md
+# item_blacklist.lua
 

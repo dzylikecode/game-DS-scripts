@@ -1,2 +1,2 @@
-# forest_map.md
+# forest_map.lua
 

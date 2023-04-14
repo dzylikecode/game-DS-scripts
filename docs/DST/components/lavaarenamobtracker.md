@@ -1,2 +1,2 @@
-# lavaarenamobtracker.md
+# lavaarenamobtracker.lua
 

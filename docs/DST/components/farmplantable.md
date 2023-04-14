@@ -1,2 +1,2 @@
-# farmplantable.md
+# farmplantable.lua
 

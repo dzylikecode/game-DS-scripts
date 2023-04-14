@@ -1,2 +1,2 @@
-# pethealthbadge.md
+# pethealthbadge.lua
 

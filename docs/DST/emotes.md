@@ -1,2 +1,2 @@
-# emotes.md
+# emotes.lua
 

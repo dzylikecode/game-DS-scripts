@@ -1,2 +1,2 @@
-# horrorfuel.md
+# horrorfuel.lua
 

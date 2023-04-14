@@ -1,2 +1,2 @@
-# ruins_cavein_obstacle.md
+# ruins_cavein_obstacle.lua
 

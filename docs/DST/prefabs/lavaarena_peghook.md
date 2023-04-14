@@ -1,2 +1,2 @@
-# lavaarena_peghook.md
+# lavaarena_peghook.lua
 

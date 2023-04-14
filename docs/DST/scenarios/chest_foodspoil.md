@@ -1,2 +1,2 @@
-# chest_foodspoil.md
+# chest_foodspoil.lua
 

@@ -1,2 +1,2 @@
-# skinspuppet.md
+# skinspuppet.lua
 

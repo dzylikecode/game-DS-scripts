@@ -1,2 +1,2 @@
-# recipetile.md
+# recipetile.lua
 

@@ -1,2 +1,2 @@
-# wormhole.md
+# wormhole.lua
 

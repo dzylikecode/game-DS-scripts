@@ -1,2 +1,2 @@
-# mud.md
+# mud.lua
 

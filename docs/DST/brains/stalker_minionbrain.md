@@ -1,2 +1,2 @@
-# stalker_minionbrain.md
+# stalker_minionbrain.lua
 

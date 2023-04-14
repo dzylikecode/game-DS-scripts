@@ -1,2 +1,2 @@
-# SGalterguardian_phase2.md
+# SGalterguardian_phase2.lua
 

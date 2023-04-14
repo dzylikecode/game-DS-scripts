@@ -1,2 +1,2 @@
-# SGbeequeen.md
+# SGbeequeen.lua
 

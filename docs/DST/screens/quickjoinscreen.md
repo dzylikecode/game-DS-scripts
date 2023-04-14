@@ -1,2 +1,2 @@
-# quickjoinscreen.md
+# quickjoinscreen.lua
 

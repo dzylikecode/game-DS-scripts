@@ -1,2 +1,2 @@
-# terrain.md
+# terrain.lua
 

@@ -1,2 +1,2 @@
-# damagewalls.md
+# damagewalls.lua
 

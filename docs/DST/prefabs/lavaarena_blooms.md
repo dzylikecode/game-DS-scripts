@@ -1,2 +1,2 @@
-# lavaarena_blooms.md
+# lavaarena_blooms.lua
 

@@ -1,2 +1,2 @@
-# foodmemory.md
+# foodmemory.lua
 

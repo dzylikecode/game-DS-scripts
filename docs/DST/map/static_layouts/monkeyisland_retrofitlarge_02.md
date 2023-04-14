@@ -1,2 +1,2 @@
-# monkeyisland_retrofitlarge_02.md
+# monkeyisland_retrofitlarge_02.lua
 

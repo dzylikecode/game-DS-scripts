@@ -1,2 +1,2 @@
-# skeleton.md
+# skeleton.lua
 

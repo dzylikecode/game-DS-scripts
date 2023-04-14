@@ -1,2 +1,2 @@
-# pinecone.md
+# pinecone.lua
 

@@ -1,2 +1,2 @@
-# fruitfly.md
+# fruitfly.lua
 

@@ -1,2 +1,2 @@
-# hauntable.md
+# hauntable.lua
 

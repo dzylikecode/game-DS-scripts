@@ -1,2 +1,2 @@
-# worldreset.md
+# worldreset.lua
 

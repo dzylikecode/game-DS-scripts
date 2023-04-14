@@ -1,2 +1,2 @@
-# ghostbrain.md
+# ghostbrain.lua
 

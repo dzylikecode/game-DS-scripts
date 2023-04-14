@@ -1,2 +1,2 @@
-# terrain_noise.md
+# terrain_noise.lua
 

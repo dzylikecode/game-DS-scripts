@@ -1,2 +1,2 @@
-# SGsquid.md
+# SGsquid.lua
 

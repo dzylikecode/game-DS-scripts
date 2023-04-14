@@ -1,2 +1,2 @@
-# lava_pond.md
+# lava_pond.lua
 

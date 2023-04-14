@@ -1,2 +1,2 @@
-# discoverable.md
+# discoverable.lua
 

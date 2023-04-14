@@ -1,2 +1,2 @@
-# boatmagnet.md
+# boatmagnet.lua
 

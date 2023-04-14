@@ -1,2 +1,2 @@
-# slurper.md
+# slurper.lua
 

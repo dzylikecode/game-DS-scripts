@@ -1,2 +1,2 @@
-# inventoryitem.md
+# inventoryitem.lua
 

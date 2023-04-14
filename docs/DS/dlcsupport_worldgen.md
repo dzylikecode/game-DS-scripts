@@ -1,2 +1,2 @@
-# dlcsupport_worldgen.md
+# dlcsupport_worldgen.lua
 

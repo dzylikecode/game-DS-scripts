@@ -1,2 +1,2 @@
-# skeleton_warrior.md
+# skeleton_warrior.lua
 

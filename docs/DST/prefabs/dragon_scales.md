@@ -1,2 +1,2 @@
-# dragon_scales.md
+# dragon_scales.lua
 

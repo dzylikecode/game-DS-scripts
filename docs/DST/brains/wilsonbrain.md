@@ -1,2 +1,2 @@
-# wilsonbrain.md
+# wilsonbrain.lua
 

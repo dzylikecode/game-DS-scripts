@@ -1,2 +1,2 @@
-# wormhole_oneshot.md
+# wormhole_oneshot.lua
 

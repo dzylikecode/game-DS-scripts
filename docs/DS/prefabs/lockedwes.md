@@ -1,2 +1,2 @@
-# lockedwes.md
+# lockedwes.lua
 

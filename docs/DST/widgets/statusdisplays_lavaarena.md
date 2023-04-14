@@ -1,2 +1,2 @@
-# statusdisplays_lavaarena.md
+# statusdisplays_lavaarena.lua
 

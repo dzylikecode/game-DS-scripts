@@ -1,2 +1,2 @@
-# archive_pillar.md
+# archive_pillar.lua
 

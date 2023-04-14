@@ -1,2 +1,2 @@
-# skin_assets.md
+# skin_assets.lua
 

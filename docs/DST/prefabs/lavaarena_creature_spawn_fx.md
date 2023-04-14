@@ -1,2 +1,2 @@
-# lavaarena_creature_spawn_fx.md
+# lavaarena_creature_spawn_fx.lua
 

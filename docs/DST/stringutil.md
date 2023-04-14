@@ -1,2 +1,2 @@
-# stringutil.md
+# stringutil.lua
 

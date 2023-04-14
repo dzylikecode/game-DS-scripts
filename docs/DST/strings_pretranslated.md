@@ -1,2 +1,2 @@
-# strings_pretranslated.md
+# strings_pretranslated.lua
 

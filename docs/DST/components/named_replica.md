@@ -1,2 +1,2 @@
-# named_replica.md
+# named_replica.lua
 

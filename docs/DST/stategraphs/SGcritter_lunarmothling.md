@@ -1,2 +1,2 @@
-# SGcritter_lunarmothling.md
+# SGcritter_lunarmothling.lua
 

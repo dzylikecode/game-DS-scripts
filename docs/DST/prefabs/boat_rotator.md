@@ -1,2 +1,2 @@
-# boat_rotator.md
+# boat_rotator.lua
 

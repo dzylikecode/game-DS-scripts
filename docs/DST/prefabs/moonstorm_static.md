@@ -1,2 +1,2 @@
-# moonstorm_static.md
+# moonstorm_static.lua
 

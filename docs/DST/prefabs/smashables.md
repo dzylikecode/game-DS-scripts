@@ -1,2 +1,2 @@
-# smashables.md
+# smashables.lua
 

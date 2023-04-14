@@ -1,2 +1,2 @@
-# chest_labyrinth.md
+# chest_labyrinth.lua
 

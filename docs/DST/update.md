@@ -1,2 +1,2 @@
-# update.md
+# update.lua
 

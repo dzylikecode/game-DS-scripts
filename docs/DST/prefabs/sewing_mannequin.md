@@ -1,2 +1,2 @@
-# sewing_mannequin.md
+# sewing_mannequin.lua
 

@@ -1,2 +1,2 @@
-# equipslot.md
+# equipslot.lua
 

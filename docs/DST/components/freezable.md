@@ -1,2 +1,2 @@
-# freezable.md
+# freezable.lua
 

@@ -1,2 +1,2 @@
-# friendlevels.md
+# friendlevels.lua
 

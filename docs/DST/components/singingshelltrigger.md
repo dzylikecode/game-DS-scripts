@@ -1,2 +1,2 @@
-# singingshelltrigger.md
+# singingshelltrigger.lua
 

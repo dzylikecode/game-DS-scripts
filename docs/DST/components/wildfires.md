@@ -1,2 +1,2 @@
-# wildfires.md
+# wildfires.lua
 

@@ -1,2 +1,2 @@
-# thunder_far.md
+# thunder_far.lua
 

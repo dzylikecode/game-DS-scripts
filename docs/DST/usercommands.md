@@ -1,2 +1,2 @@
-# usercommands.md
+# usercommands.lua
 

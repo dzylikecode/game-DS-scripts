@@ -1,2 +1,2 @@
-# hound_rocks.md
+# hound_rocks.lua
 

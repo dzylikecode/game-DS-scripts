@@ -1,2 +1,2 @@
-# madsciencelab.md
+# madsciencelab.lua
 

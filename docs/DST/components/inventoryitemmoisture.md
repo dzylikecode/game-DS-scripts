@@ -1,2 +1,2 @@
-# inventoryitemmoisture.md
+# inventoryitemmoisture.lua
 

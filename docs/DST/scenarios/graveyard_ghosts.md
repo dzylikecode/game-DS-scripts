@@ -1,2 +1,2 @@
-# graveyard_ghosts.md
+# graveyard_ghosts.lua
 

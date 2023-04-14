@@ -1,2 +1,2 @@
-# SGoceanfish.md
+# SGoceanfish.lua
 

@@ -1,2 +1,2 @@
-# minigame_spectator.md
+# minigame_spectator.lua
 

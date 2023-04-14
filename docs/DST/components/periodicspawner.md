@@ -1,2 +1,2 @@
-# periodicspawner.md
+# periodicspawner.lua
 

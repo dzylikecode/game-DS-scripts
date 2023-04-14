@@ -1,2 +1,2 @@
-# nightsword_curve_fx.md
+# nightsword_curve_fx.lua
 

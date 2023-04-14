@@ -1,2 +1,2 @@
-# vec3util.md
+# vec3util.lua
 

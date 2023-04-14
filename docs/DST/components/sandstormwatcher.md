@@ -1,2 +1,2 @@
-# sandstormwatcher.md
+# sandstormwatcher.lua
 

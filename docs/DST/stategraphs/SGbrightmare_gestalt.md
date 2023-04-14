@@ -1,2 +1,2 @@
-# SGbrightmare_gestalt.md
+# SGbrightmare_gestalt.lua
 

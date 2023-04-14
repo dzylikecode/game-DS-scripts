@@ -1,2 +1,2 @@
-# animspinner.md
+# animspinner.lua
 

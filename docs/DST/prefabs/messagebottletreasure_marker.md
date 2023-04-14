@@ -1,2 +1,2 @@
-# messagebottletreasure_marker.md
+# messagebottletreasure_marker.lua
 

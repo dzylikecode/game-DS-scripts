@@ -1,2 +1,2 @@
-# pigshrine.md
+# pigshrine.lua
 

@@ -1,2 +1,2 @@
-# plantregistrywidget.md
+# plantregistrywidget.lua
 

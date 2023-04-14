@@ -1,2 +1,2 @@
-# loc.md
+# loc.lua
 

@@ -1,2 +1,2 @@
-# mermthrone.md
+# mermthrone.lua
 

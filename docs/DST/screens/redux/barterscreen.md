@@ -1,2 +1,2 @@
-# barterscreen.md
+# barterscreen.lua
 

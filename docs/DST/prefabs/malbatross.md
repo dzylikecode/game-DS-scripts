@@ -1,2 +1,2 @@
-# malbatross.md
+# malbatross.lua
 

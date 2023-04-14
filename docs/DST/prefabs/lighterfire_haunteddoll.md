@@ -1,2 +1,2 @@
-# lighterfire_haunteddoll.md
+# lighterfire_haunteddoll.lua
 

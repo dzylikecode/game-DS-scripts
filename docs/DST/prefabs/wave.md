@@ -1,2 +1,2 @@
-# wave.md
+# wave.lua
 

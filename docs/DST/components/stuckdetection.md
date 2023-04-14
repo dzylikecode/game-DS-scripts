@@ -1,2 +1,2 @@
-# stuckdetection.md
+# stuckdetection.lua
 

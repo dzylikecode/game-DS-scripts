@@ -1,2 +1,2 @@
-# erasablepaper.md
+# erasablepaper.lua
 

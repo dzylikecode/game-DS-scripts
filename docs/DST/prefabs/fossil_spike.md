@@ -1,2 +1,2 @@
-# fossil_spike.md
+# fossil_spike.lua
 

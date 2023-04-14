@@ -1,2 +1,2 @@
-# dock_damage.md
+# dock_damage.lua
 

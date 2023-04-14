@@ -1,2 +1,2 @@
-# nightstick.md
+# nightstick.lua
 

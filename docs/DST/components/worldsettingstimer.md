@@ -1,2 +1,2 @@
-# worldsettingstimer.md
+# worldsettingstimer.lua
 

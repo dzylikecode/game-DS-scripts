@@ -1,2 +1,2 @@
-# bundle.md
+# bundle.lua
 

@@ -1,2 +1,2 @@
-# warg.md
+# warg.lua
 

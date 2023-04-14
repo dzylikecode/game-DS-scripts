@@ -1,2 +1,2 @@
-# cookbook.md
+# cookbook.lua
 

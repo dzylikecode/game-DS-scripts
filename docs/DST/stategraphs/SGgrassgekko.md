@@ -1,2 +1,2 @@
-# SGgrassgekko.md
+# SGgrassgekko.lua
 

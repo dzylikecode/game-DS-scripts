@@ -1,2 +1,2 @@
-# mast.md
+# mast.lua
 

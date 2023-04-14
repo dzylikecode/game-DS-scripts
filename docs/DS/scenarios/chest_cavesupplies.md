@@ -1,2 +1,2 @@
-# chest_cavesupplies.md
+# chest_cavesupplies.lua
 

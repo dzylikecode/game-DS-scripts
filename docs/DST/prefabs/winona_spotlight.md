@@ -1,2 +1,2 @@
-# winona_spotlight.md
+# winona_spotlight.lua
 

@@ -1,2 +1,2 @@
-# pigskin.md
+# pigskin.lua
 

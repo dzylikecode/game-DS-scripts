@@ -1,2 +1,2 @@
-# diviningrodstart.md
+# diviningrodstart.lua
 

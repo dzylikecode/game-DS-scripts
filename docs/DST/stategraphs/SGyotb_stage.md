@@ -1,2 +1,2 @@
-# SGyotb_stage.md
+# SGyotb_stage.lua
 

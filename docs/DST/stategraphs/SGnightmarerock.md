@@ -1,2 +1,2 @@
-# SGnightmarerock.md
+# SGnightmarerock.lua
 

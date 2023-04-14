@@ -1,2 +1,2 @@
-# SGspat.md
+# SGspat.lua
 

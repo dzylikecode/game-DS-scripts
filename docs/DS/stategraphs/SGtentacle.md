@@ -1,2 +1,2 @@
-# SGtentacle.md
+# SGtentacle.lua
 

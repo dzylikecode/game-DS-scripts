@@ -1,2 +1,2 @@
-# skin_affinity_info.md
+# skin_affinity_info.lua
 

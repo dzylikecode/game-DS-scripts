@@ -1,2 +1,2 @@
-# wereitems.md
+# wereitems.lua
 

@@ -1,2 +1,2 @@
-# squidspawner.md
+# squidspawner.lua
 

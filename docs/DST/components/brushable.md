@@ -1,2 +1,2 @@
-# brushable.md
+# brushable.lua
 

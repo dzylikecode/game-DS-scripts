@@ -1,2 +1,2 @@
-# trap_spoilfood.md
+# trap_spoilfood.lua
 

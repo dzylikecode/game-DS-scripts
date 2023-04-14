@@ -1,2 +1,2 @@
-# sanitybadge.md
+# sanitybadge.lua
 

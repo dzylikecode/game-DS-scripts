@@ -1,2 +1,2 @@
-# skinsscreen.md
+# skinsscreen.lua
 

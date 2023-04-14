@@ -1,2 +1,2 @@
-# signgenerator.md
+# signgenerator.lua
 

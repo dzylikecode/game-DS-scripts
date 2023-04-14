@@ -1,2 +1,2 @@
-# tentaclespots.md
+# tentaclespots.lua
 

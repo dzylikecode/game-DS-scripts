@@ -1,2 +1,2 @@
-# chattynode.md
+# chattynode.lua
 

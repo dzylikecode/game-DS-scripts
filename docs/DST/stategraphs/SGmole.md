@@ -1,2 +1,2 @@
-# SGmole.md
+# SGmole.lua
 

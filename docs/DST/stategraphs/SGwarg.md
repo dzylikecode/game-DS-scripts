@@ -1,2 +1,2 @@
-# SGwarg.md
+# SGwarg.lua
 

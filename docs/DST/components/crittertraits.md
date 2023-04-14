@@ -1,2 +1,2 @@
-# crittertraits.md
+# crittertraits.lua
 

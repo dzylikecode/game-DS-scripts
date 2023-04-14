@@ -1,2 +1,2 @@
-# maprecorder.md
+# maprecorder.lua
 

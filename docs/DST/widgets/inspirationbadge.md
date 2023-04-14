@@ -1,2 +1,2 @@
-# inspirationbadge.md
+# inspirationbadge.lua
 

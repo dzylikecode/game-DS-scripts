@@ -1,2 +1,2 @@
-# inventorybar.md
+# inventorybar.lua
 

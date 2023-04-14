@@ -1,2 +1,2 @@
-# SGcanarypoisoned.md
+# SGcanarypoisoned.lua
 

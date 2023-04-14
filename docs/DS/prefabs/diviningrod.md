@@ -1,2 +1,2 @@
-# diviningrod.md
+# diviningrod.lua
 

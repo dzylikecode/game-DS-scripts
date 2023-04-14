@@ -1222,7 +1222,6 @@
 - [fx.md](/docs/DS/fx.md)
 - [gamelogic.md](/docs/DS/gamelogic.md)
 - [getmissingstrings.md](/docs/DS/getmissingstrings.md)
-- [GLOBAL.md](/docs/DS/GLOBAL.md)
 - [input.md](/docs/DS/input.md)
 - [inspect.md](/docs/DS/inspect.md)
 - [json.md](/docs/DS/json.md)

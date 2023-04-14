@@ -1,2 +1,2 @@
-# inv_rocks_ice.md
+# inv_rocks_ice.lua
 

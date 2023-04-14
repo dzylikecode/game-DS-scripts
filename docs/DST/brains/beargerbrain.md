@@ -1,2 +1,2 @@
-# beargerbrain.md
+# beargerbrain.lua
 

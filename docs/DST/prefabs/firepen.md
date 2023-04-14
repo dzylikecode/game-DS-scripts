@@ -1,2 +1,2 @@
-# firepen.md
+# firepen.lua
 

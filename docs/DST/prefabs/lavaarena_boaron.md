@@ -1,2 +1,2 @@
-# lavaarena_boaron.md
+# lavaarena_boaron.lua
 

@@ -1,2 +1,2 @@
-# trap_firestaff.md
+# trap_firestaff.lua
 

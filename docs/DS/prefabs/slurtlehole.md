@@ -1,2 +1,2 @@
-# slurtlehole.md
+# slurtlehole.lua
 

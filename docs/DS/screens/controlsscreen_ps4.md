@@ -1,2 +1,2 @@
-# controlsscreen_ps4.md
+# controlsscreen_ps4.lua
 

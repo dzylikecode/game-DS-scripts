@@ -1,2 +1,2 @@
-# kitcoongamescreen.md
+# kitcoongamescreen.lua
 

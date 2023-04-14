@@ -1,2 +1,2 @@
-# loadingtipsdata.md
+# loadingtipsdata.lua
 

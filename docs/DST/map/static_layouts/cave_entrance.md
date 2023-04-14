@@ -1,2 +1,2 @@
-# cave_entrance.md
+# cave_entrance.lua
 

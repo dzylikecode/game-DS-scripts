@@ -1,2 +1,2 @@
-# anchor.md
+# anchor.lua
 

@@ -1,2 +1,2 @@
-# chest_explosion.md
+# chest_explosion.lua
 

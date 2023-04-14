@@ -1,2 +1,2 @@
-# endtable.md
+# endtable.lua
 

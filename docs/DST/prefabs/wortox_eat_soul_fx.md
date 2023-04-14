@@ -1,2 +1,2 @@
-# wortox_eat_soul_fx.md
+# wortox_eat_soul_fx.lua
 

@@ -1,2 +1,2 @@
-# telnet.md
+# telnet.lua
 

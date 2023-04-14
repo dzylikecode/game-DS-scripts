@@ -1,2 +1,2 @@
-# playerinspectable.md
+# playerinspectable.lua
 

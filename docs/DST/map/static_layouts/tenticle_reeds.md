@@ -1,2 +1,2 @@
-# tenticle_reeds.md
+# tenticle_reeds.lua
 

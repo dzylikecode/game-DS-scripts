@@ -1,2 +1,2 @@
-# berniebigbrain.md
+# berniebigbrain.lua
 

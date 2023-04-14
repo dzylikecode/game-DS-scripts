@@ -1,2 +1,2 @@
-# cookable.md
+# cookable.lua
 

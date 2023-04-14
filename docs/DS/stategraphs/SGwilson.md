@@ -1,2 +1,2 @@
-# SGwilson.md
+# SGwilson.lua
 

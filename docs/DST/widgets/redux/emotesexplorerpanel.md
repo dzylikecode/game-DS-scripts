@@ -1,2 +1,2 @@
-# emotesexplorerpanel.md
+# emotesexplorerpanel.lua
 

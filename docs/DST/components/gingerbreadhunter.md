@@ -1,2 +1,2 @@
-# gingerbreadhunter.md
+# gingerbreadhunter.lua
 

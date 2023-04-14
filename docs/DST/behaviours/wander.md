@@ -1,2 +1,2 @@
-# wander.md
+# wander.lua
 

@@ -1,2 +1,2 @@
-# sanity_replica.md
+# sanity_replica.lua
 

@@ -1,2 +1,2 @@
-# silk.md
+# silk.lua
 

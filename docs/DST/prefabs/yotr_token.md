@@ -1,2 +1,2 @@
-# yotr_token.md
+# yotr_token.lua
 

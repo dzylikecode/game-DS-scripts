@@ -1,2 +1,2 @@
-# mainscreen.md
+# mainscreen.lua
 

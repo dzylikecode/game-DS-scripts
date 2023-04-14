@@ -1,2 +1,2 @@
-# razor.md
+# razor.lua
 

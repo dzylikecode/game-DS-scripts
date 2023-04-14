@@ -1,2 +1,2 @@
-# whip.md
+# whip.lua
 

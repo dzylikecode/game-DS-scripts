@@ -1,2 +1,2 @@
-# shadowmeteor.md
+# shadowmeteor.lua
 

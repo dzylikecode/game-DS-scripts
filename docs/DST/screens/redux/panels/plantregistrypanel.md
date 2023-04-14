@@ -1,2 +1,2 @@
-# plantregistrypanel.md
+# plantregistrypanel.lua
 

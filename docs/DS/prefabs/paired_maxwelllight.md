@@ -1,2 +1,2 @@
-# paired_maxwelllight.md
+# paired_maxwelllight.lua
 

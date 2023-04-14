@@ -1,2 +1,2 @@
-# playerspawner.md
+# playerspawner.lua
 

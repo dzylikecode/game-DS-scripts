@@ -1,2 +1,2 @@
-# teamleader.md
+# teamleader.lua
 

@@ -1,2 +1,2 @@
-# SGspiderape.md
+# SGspiderape.lua
 

@@ -1,2 +1,2 @@
-# spawnpoint.md
+# spawnpoint.lua
 

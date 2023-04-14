@@ -1,2 +1,2 @@
-# emoji.md
+# emoji.lua
 

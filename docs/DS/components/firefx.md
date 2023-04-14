@@ -1,2 +1,2 @@
-# firefx.md
+# firefx.lua
 

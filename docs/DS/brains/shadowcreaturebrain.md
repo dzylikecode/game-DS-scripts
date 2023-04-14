@@ -1,2 +1,2 @@
-# shadowcreaturebrain.md
+# shadowcreaturebrain.lua
 

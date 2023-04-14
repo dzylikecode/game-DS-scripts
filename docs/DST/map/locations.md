@@ -1,2 +1,2 @@
-# locations.md
+# locations.lua
 

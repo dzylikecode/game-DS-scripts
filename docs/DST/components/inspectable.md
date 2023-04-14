@@ -1,2 +1,2 @@
-# inspectable.md
+# inspectable.lua
 

@@ -1,2 +1,2 @@
-# teleporter.md
+# teleporter.lua
 

@@ -1,2 +1,2 @@
-# grotto_waterfall_big.md
+# grotto_waterfall_big.lua
 

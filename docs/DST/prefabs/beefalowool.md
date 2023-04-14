@@ -1,2 +1,2 @@
-# beefalowool.md
+# beefalowool.lua
 

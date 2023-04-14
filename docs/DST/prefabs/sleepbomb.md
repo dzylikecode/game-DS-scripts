@@ -1,2 +1,2 @@
-# sleepbomb.md
+# sleepbomb.lua
 

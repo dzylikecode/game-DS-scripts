@@ -1,2 +1,2 @@
-# rooms.md
+# rooms.lua
 

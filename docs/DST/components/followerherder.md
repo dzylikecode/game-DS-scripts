@@ -1,2 +1,2 @@
-# followerherder.md
+# followerherder.lua
 

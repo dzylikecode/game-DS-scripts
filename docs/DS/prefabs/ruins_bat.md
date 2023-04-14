@@ -1,2 +1,2 @@
-# ruins_bat.md
+# ruins_bat.lua
 

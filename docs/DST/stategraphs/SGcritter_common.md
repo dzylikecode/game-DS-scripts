@@ -1,2 +1,2 @@
-# SGcritter_common.md
+# SGcritter_common.lua
 

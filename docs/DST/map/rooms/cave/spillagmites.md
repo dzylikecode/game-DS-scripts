@@ -1,2 +1,2 @@
-# spillagmites.md
+# spillagmites.lua
 

@@ -1,2 +1,2 @@
-# moon_altar_break.md
+# moon_altar_break.lua
 

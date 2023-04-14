@@ -1,2 +1,2 @@
-# nightmarecreature.md
+# nightmarecreature.lua
 

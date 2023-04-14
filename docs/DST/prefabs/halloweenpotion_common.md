@@ -1,2 +1,2 @@
-# halloweenpotion_common.md
+# halloweenpotion_common.lua
 

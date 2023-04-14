@@ -1,2 +1,2 @@
-# atrium_statue.md
+# atrium_statue.lua
 

@@ -1,2 +1,2 @@
-# comingsoonscreen.md
+# comingsoonscreen.lua
 

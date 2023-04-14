@@ -1,2 +1,2 @@
-# SGcarnivalgame_shooting_target.md
+# SGcarnivalgame_shooting_target.lua
 

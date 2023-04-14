@@ -1,2 +1,2 @@
-# toadstool_cap.md
+# toadstool_cap.lua
 

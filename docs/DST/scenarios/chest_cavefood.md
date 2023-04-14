@@ -1,2 +1,2 @@
-# chest_cavefood.md
+# chest_cavefood.lua
 

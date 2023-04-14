@@ -1,2 +1,2 @@
-# nightsword_wizard_fx.md
+# nightsword_wizard_fx.lua
 

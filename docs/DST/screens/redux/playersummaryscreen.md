@@ -1,2 +1,2 @@
-# playersummaryscreen.md
+# playersummaryscreen.lua
 

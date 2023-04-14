@@ -1,2 +1,2 @@
-# circuitnode.md
+# circuitnode.lua
 

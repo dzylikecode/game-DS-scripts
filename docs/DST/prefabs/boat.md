@@ -1,2 +1,2 @@
-# boat.md
+# boat.lua
 

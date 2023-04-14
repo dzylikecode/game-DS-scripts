@@ -1,2 +1,2 @@
-# alterguardian_phase3trap.md
+# alterguardian_phase3trap.lua
 

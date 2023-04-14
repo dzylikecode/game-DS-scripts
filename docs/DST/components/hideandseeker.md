@@ -1,2 +1,2 @@
-# hideandseeker.md
+# hideandseeker.lua
 

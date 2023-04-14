@@ -1,2 +1,2 @@
-# SGgingerbreadpig.md
+# SGgingerbreadpig.lua
 

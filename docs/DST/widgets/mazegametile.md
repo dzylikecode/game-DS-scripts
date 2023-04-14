@@ -1,2 +1,2 @@
-# mazegametile.md
+# mazegametile.lua
 

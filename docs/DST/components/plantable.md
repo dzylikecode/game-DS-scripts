@@ -1,2 +1,2 @@
-# plantable.md
+# plantable.lua
 

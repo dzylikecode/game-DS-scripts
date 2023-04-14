@@ -1,2 +1,2 @@
-# SGslurtle.md
+# SGslurtle.lua
 

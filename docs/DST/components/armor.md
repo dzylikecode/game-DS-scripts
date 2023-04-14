@@ -1,2 +1,2 @@
-# armor.md
+# armor.lua
 

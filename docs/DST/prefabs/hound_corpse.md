@@ -1,2 +1,2 @@
-# hound_corpse.md
+# hound_corpse.lua
 

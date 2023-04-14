@@ -1,2 +1,2 @@
-# boattrail.md
+# boattrail.lua
 

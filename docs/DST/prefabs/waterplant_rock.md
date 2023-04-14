@@ -1,2 +1,2 @@
-# waterplant_rock.md
+# waterplant_rock.lua
 

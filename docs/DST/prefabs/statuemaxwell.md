@@ -1,2 +1,2 @@
-# statuemaxwell.md
+# statuemaxwell.lua
 

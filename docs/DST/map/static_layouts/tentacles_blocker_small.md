@@ -1,2 +1,2 @@
-# tentacles_blocker_small.md
+# tentacles_blocker_small.lua
 

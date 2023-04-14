@@ -1,2 +1,2 @@
-# structure_collapse_fx.md
+# structure_collapse_fx.lua
 

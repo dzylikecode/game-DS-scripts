@@ -1,2 +1,2 @@
-# rocks.md
+# rocks.lua
 

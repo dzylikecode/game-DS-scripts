@@ -1,2 +1,2 @@
-# hotspring.md
+# hotspring.lua
 

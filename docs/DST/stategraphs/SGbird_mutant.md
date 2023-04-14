@@ -1,2 +1,2 @@
-# SGbird_mutant.md
+# SGbird_mutant.lua
 

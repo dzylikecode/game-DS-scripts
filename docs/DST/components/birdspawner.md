@@ -1,2 +1,2 @@
-# birdspawner.md
+# birdspawner.lua
 

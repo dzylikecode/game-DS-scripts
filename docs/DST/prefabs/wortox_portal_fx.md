@@ -1,2 +1,2 @@
-# wortox_portal_fx.md
+# wortox_portal_fx.lua
 

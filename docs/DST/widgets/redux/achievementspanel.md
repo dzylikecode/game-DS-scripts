@@ -1,2 +1,2 @@
-# achievementspanel.md
+# achievementspanel.lua
 

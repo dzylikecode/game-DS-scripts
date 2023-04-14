@@ -1,2 +1,2 @@
-# generate_worldgenoverride.md
+# generate_worldgenoverride.lua
 

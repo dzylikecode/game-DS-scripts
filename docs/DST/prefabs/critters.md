@@ -1,2 +1,2 @@
-# critters.md
+# critters.lua
 

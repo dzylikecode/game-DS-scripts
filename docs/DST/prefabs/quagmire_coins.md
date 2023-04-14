@@ -1,2 +1,2 @@
-# quagmire_coins.md
+# quagmire_coins.lua
 

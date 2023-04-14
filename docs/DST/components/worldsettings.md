@@ -1,2 +1,2 @@
-# worldsettings.md
+# worldsettings.lua
 

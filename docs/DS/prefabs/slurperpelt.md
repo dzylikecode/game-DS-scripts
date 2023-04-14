@@ -1,2 +1,2 @@
-# slurperpelt.md
+# slurperpelt.lua
 

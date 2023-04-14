@@ -1,2 +1,2 @@
-# penguinbrain.md
+# penguinbrain.lua
 

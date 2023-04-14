@@ -1,2 +1,2 @@
-# magician.md
+# magician.lua
 

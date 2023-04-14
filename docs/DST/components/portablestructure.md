@@ -1,2 +1,2 @@
-# portablestructure.md
+# portablestructure.lua
 

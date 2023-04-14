@@ -1,2 +1,2 @@
-# lucy_classified.md
+# lucy_classified.lua
 

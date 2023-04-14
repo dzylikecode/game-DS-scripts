@@ -1,2 +1,2 @@
-# deerherding.md
+# deerherding.lua
 

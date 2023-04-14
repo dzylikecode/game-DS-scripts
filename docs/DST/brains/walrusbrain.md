@@ -1,2 +1,2 @@
-# walrusbrain.md
+# walrusbrain.lua
 

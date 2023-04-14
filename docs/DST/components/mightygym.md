@@ -1,2 +1,2 @@
-# mightygym.md
+# mightygym.lua
 

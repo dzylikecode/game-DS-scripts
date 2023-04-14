@@ -1,2 +1,2 @@
-# electric_charged_fx.md
+# electric_charged_fx.lua
 

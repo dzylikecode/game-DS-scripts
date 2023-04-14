@@ -1,2 +1,2 @@
-# messagebottle.md
+# messagebottle.lua
 

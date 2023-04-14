@@ -1,2 +1,2 @@
-# bluemush.md
+# bluemush.lua
 

@@ -1,2 +1,2 @@
-# giftreceiver.md
+# giftreceiver.lua
 

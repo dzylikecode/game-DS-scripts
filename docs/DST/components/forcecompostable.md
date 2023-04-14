@@ -1,2 +1,2 @@
-# forcecompostable.md
+# forcecompostable.lua
 

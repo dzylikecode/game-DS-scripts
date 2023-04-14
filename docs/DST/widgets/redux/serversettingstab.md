@@ -1,2 +1,2 @@
-# serversettingstab.md
+# serversettingstab.lua
 

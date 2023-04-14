@@ -1,2 +1,2 @@
-# hammer.md
+# hammer.lua
 

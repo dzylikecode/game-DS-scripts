@@ -1,2 +1,2 @@
-# lavaarena_questhistory_panel.md
+# lavaarena_questhistory_panel.lua
 

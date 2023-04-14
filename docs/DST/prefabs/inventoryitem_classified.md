@@ -1,2 +1,2 @@
-# inventoryitem_classified.md
+# inventoryitem_classified.lua
 

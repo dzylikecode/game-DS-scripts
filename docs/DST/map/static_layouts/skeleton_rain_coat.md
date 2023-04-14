@@ -1,2 +1,2 @@
-# skeleton_rain_coat.md
+# skeleton_rain_coat.lua
 

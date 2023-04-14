@@ -1,2 +1,2 @@
-# quagmire_salt_rack.md
+# quagmire_salt_rack.lua
 

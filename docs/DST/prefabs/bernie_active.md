@@ -1,2 +1,2 @@
-# bernie_active.md
+# bernie_active.lua
 

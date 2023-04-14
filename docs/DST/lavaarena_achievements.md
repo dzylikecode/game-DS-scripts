@@ -1,2 +1,2 @@
-# lavaarena_achievements.md
+# lavaarena_achievements.lua
 

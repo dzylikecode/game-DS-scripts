@@ -1,2 +1,2 @@
-# tilegroups.md
+# tilegroups.lua
 

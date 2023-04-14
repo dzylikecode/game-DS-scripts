@@ -1,2 +1,2 @@
-# playerhistory.md
+# playerhistory.lua
 

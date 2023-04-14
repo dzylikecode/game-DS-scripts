@@ -1,2 +1,2 @@
-# maxwelltalker.md
+# maxwelltalker.lua
 

@@ -1,2 +1,2 @@
-# minigame.md
+# minigame.lua
 

@@ -1,2 +1,2 @@
-# long.md
+# long.lua
 

@@ -1,2 +1,2 @@
-# brinepool2.md
+# brinepool2.lua
 

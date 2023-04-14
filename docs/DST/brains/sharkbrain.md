@@ -1,2 +1,2 @@
-# sharkbrain.md
+# sharkbrain.lua
 

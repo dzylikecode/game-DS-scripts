@@ -1,2 +1,2 @@
-# SGcarnivalgame_puckdrop_station.md
+# SGcarnivalgame_puckdrop_station.lua
 

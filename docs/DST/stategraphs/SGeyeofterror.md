@@ -1,2 +1,2 @@
-# SGeyeofterror.md
+# SGeyeofterror.lua
 

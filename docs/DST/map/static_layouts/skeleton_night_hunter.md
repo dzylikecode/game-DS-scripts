@@ -1,2 +1,2 @@
-# skeleton_night_hunter.md
+# skeleton_night_hunter.lua
 

@@ -1,2 +1,2 @@
-# quagmire_pot.md
+# quagmire_pot.lua
 

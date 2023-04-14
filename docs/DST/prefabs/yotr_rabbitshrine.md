@@ -1,2 +1,2 @@
-# yotr_rabbitshrine.md
+# yotr_rabbitshrine.lua
 

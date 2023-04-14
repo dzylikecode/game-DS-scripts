@@ -1,2 +1,2 @@
-# SGkoalefant.md
+# SGkoalefant.lua
 

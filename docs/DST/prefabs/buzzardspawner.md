@@ -1,2 +1,2 @@
-# buzzardspawner.md
+# buzzardspawner.lua
 

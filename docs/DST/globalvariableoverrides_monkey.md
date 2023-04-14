@@ -1,2 +1,2 @@
-# globalvariableoverrides_monkey.md
+# globalvariableoverrides_monkey.lua
 

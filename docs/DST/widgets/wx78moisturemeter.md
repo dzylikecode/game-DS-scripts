@@ -1,2 +1,2 @@
-# wx78moisturemeter.md
+# wx78moisturemeter.lua
 

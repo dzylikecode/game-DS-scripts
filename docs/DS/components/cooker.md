@@ -1,2 +1,2 @@
-# cooker.md
+# cooker.lua
 

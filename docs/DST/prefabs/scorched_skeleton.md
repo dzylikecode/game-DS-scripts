@@ -1,2 +1,2 @@
-# scorched_skeleton.md
+# scorched_skeleton.lua
 

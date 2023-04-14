@@ -1,2 +1,2 @@
-# skeleton_batfight.md
+# skeleton_batfight.lua
 

@@ -1,2 +1,2 @@
-# SGstalker_minion.md
+# SGstalker_minion.lua
 

@@ -1,2 +1,2 @@
-# achievements.md
+# achievements.lua
 

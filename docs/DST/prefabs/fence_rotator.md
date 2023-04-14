@@ -1,2 +1,2 @@
-# fence_rotator.md
+# fence_rotator.lua
 

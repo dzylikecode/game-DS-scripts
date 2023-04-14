@@ -1,2 +1,2 @@
-# symmetry_test.md
+# symmetry_test.lua
 

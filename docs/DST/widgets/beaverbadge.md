@@ -1,2 +1,2 @@
-# beaverbadge.md
+# beaverbadge.lua
 

@@ -1,2 +1,2 @@
-# chestloot_checkmate_light.md
+# chestloot_checkmate_light.lua
 

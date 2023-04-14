@@ -1,2 +1,2 @@
-# papyrus.md
+# papyrus.lua
 

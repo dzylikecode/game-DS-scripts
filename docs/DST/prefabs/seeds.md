@@ -1,2 +1,2 @@
-# seeds.md
+# seeds.lua
 

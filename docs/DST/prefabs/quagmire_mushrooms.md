@@ -1,2 +1,2 @@
-# quagmire_mushrooms.md
+# quagmire_mushrooms.lua
 

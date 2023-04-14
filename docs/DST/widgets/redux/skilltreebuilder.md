@@ -1,2 +1,2 @@
-# skilltreebuilder.md
+# skilltreebuilder.lua
 

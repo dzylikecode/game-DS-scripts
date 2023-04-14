@@ -1,2 +1,2 @@
-# SGmoonpig.md
+# SGmoonpig.lua
 

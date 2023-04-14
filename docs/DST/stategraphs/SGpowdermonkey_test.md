@@ -1,2 +1,2 @@
-# SGpowdermonkey_test.md
+# SGpowdermonkey_test.lua
 

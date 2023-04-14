@@ -1,2 +1,2 @@
-# carnivalgame_placementblocker.md
+# carnivalgame_placementblocker.lua
 

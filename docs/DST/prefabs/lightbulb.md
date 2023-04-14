@@ -1,2 +1,2 @@
-# lightbulb.md
+# lightbulb.lua
 

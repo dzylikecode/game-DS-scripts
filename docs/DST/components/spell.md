@@ -1,2 +1,2 @@
-# spell.md
+# spell.lua
 

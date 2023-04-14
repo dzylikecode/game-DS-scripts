@@ -1,2 +1,2 @@
-# playerdeathnotification.md
+# playerdeathnotification.lua
 

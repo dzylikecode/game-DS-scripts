@@ -1,2 +1,2 @@
-# area_unlock.md
+# area_unlock.lua
 

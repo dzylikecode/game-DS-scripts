@@ -1,2 +1,2 @@
-# ambientlighting.md
+# ambientlighting.lua
 

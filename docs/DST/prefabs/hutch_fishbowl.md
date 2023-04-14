@@ -1,2 +1,2 @@
-# hutch_fishbowl.md
+# hutch_fishbowl.lua
 

@@ -1,2 +1,2 @@
-# rat_gym.md
+# rat_gym.lua
 

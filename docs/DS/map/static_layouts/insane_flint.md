@@ -1,2 +1,2 @@
-# insane_flint.md
+# insane_flint.lua
 

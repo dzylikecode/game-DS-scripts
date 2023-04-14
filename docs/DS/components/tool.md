@@ -1,2 +1,2 @@
-# tool.md
+# tool.lua
 

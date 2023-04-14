@@ -1,2 +1,2 @@
-# gingerbreadpigbrain.md
+# gingerbreadpigbrain.lua
 

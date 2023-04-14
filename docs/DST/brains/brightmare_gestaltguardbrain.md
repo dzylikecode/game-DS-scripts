@@ -1,2 +1,2 @@
-# brightmare_gestaltguardbrain.md
+# brightmare_gestaltguardbrain.lua
 

@@ -1,2 +1,2 @@
-# generic.md
+# generic.lua
 

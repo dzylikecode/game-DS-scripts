@@ -1,2 +1,2 @@
-# moviedialog.md
+# moviedialog.lua
 

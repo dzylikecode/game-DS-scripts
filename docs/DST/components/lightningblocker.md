@@ -1,2 +1,2 @@
-# lightningblocker.md
+# lightningblocker.lua
 

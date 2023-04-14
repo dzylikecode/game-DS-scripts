@@ -1,2 +1,2 @@
-# eyeofterrorbrain.md
+# eyeofterrorbrain.lua
 

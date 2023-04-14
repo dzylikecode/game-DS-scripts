@@ -1,2 +1,2 @@
-# cartography_prototyper.md
+# cartography_prototyper.lua
 

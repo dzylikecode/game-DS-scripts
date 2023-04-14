@@ -1,2 +1,2 @@
-# skeleton_lumberjack.md
+# skeleton_lumberjack.lua
 

@@ -1,2 +1,2 @@
-# plant_normal.md
+# plant_normal.lua
 

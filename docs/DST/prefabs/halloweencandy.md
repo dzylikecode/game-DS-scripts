@@ -1,2 +1,2 @@
-# halloweencandy.md
+# halloweencandy.lua
 

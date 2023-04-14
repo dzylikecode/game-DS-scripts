@@ -1,2 +1,2 @@
-# textedit_steamdeck.md
+# textedit_steamdeck.lua
 

@@ -1,2 +1,2 @@
-# SGpigking.md
+# SGpigking.lua
 

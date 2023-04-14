@@ -1,2 +1,2 @@
-# maxwell_pig_shrine.md
+# maxwell_pig_shrine.lua
 

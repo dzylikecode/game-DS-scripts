@@ -1,2 +1,2 @@
-# wortox_soul.md
+# wortox_soul.lua
 

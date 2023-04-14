@@ -1,2 +1,2 @@
-# yotc_racestart.md
+# yotc_racestart.lua
 

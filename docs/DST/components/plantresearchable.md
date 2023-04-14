@@ -1,2 +1,2 @@
-# plantresearchable.md
+# plantresearchable.lua
 

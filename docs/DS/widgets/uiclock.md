@@ -1,2 +1,2 @@
-# uiclock.md
+# uiclock.lua
 

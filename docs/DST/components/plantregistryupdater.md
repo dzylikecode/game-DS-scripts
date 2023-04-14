@@ -1,2 +1,2 @@
-# plantregistryupdater.md
+# plantregistryupdater.lua
 

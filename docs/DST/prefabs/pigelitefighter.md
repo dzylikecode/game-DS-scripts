@@ -1,2 +1,2 @@
-# pigelitefighter.md
+# pigelitefighter.lua
 

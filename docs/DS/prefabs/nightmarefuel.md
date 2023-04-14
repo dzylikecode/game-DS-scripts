@@ -1,2 +1,2 @@
-# nightmarefuel.md
+# nightmarefuel.lua
 

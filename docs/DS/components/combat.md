@@ -1,2 +1,2 @@
-# combat.md
+# combat.lua
 

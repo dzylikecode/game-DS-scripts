@@ -1,2 +1,2 @@
-# SGlavae.md
+# SGlavae.lua
 

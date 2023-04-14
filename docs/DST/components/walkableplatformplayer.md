@@ -1,2 +1,2 @@
-# walkableplatformplayer.md
+# walkableplatformplayer.lua
 

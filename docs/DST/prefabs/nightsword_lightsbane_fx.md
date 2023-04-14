@@ -1,2 +1,2 @@
-# nightsword_lightsbane_fx.md
+# nightsword_lightsbane_fx.lua
 

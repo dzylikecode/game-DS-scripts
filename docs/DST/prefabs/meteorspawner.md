@@ -1,2 +1,2 @@
-# meteorspawner.md
+# meteorspawner.lua
 

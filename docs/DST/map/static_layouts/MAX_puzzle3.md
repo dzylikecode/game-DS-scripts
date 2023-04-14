@@ -1,2 +1,2 @@
-# MAX_puzzle3.md
+# MAX_puzzle3.lua
 

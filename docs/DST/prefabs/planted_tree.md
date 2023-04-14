@@ -1,2 +1,2 @@
-# planted_tree.md
+# planted_tree.lua
 

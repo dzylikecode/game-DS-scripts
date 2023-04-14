@@ -1,2 +1,2 @@
-# shard_sinkholes.md
+# shard_sinkholes.lua
 

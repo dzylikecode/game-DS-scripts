@@ -1,2 +1,2 @@
-# altar.md
+# altar.lua
 

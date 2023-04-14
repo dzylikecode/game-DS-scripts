@@ -1,2 +1,2 @@
-# forestresourcespawner.md
+# forestresourcespawner.lua
 

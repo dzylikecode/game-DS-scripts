@@ -1,2 +1,2 @@
-# generickv.md
+# generickv.lua
 

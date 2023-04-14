@@ -1,2 +1,2 @@
-# colourcube.md
+# colourcube.lua
 

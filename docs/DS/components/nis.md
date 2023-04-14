@@ -1,2 +1,2 @@
-# nis.md
+# nis.lua
 

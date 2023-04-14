@@ -1,2 +1,2 @@
-# topmodspanel.md
+# topmodspanel.lua
 

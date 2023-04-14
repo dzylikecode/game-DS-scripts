@@ -1,2 +1,2 @@
-# pig_coin.md
+# pig_coin.lua
 

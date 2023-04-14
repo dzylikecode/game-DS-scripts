@@ -1,2 +1,2 @@
-# carnivaldecor_lamp.md
+# carnivaldecor_lamp.lua
 

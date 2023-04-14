@@ -1,2 +1,2 @@
-# squid.md
+# squid.lua
 

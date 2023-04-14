@@ -1,2 +1,2 @@
-# weedplantpage.md
+# weedplantpage.lua
 

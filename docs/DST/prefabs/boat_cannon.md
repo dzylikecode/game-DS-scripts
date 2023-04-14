@@ -1,2 +1,2 @@
-# boat_cannon.md
+# boat_cannon.lua
 

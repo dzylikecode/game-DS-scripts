@@ -1,2 +1,2 @@
-# mightybadge.md
+# mightybadge.lua
 

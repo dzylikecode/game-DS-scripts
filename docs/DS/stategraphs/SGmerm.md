@@ -1,2 +1,2 @@
-# SGmerm.md
+# SGmerm.lua
 

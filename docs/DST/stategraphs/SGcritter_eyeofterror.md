@@ -1,2 +1,2 @@
-# SGcritter_eyeofterror.md
+# SGcritter_eyeofterror.lua
 

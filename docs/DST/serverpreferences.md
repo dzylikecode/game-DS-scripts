@@ -1,2 +1,2 @@
-# serverpreferences.md
+# serverpreferences.lua
 

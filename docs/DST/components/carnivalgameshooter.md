@@ -1,2 +1,2 @@
-# carnivalgameshooter.md
+# carnivalgameshooter.lua
 

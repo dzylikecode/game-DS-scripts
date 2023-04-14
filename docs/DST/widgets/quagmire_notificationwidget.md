@@ -1,2 +1,2 @@
-# quagmire_notificationwidget.md
+# quagmire_notificationwidget.lua
 

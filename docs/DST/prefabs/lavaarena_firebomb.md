@@ -1,2 +1,2 @@
-# lavaarena_firebomb.md
+# lavaarena_firebomb.lua
 

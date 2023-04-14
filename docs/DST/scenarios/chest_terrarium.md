@@ -1,2 +1,2 @@
-# chest_terrarium.md
+# chest_terrarium.lua
 

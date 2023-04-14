@@ -1,2 +1,2 @@
-# lureplant.md
+# lureplant.lua
 

@@ -1,2 +1,2 @@
-# SGwave.md
+# SGwave.lua
 

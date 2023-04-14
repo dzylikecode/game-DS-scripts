@@ -1,2 +1,2 @@
-# heavyobstacleusetarget.md
+# heavyobstacleusetarget.lua
 

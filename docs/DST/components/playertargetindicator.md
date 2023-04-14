@@ -1,2 +1,2 @@
-# playertargetindicator.md
+# playertargetindicator.lua
 

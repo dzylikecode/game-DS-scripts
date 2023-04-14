@@ -1,2 +1,2 @@
-# beaverness.md
+# beaverness.lua
 

@@ -1,2 +1,2 @@
-# itemexplorer.md
+# itemexplorer.lua
 

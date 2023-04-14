@@ -1,2 +1,2 @@
-# wendy.md
+# wendy.lua
 

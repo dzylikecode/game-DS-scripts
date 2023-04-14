@@ -1,2 +1,2 @@
-# tributable.md
+# tributable.lua
 

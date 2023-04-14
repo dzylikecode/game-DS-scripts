@@ -1,2 +1,2 @@
-# consolescreensettings.md
+# consolescreensettings.lua
 

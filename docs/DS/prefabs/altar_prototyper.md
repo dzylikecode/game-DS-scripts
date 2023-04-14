@@ -1,2 +1,2 @@
-# altar_prototyper.md
+# altar_prototyper.lua
 

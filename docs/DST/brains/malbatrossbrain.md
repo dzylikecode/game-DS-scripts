@@ -1,2 +1,2 @@
-# malbatrossbrain.md
+# malbatrossbrain.lua
 

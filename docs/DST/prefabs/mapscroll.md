@@ -1,2 +1,2 @@
-# mapscroll.md
+# mapscroll.lua
 

@@ -1,2 +1,2 @@
-# fireballstaff.md
+# fireballstaff.lua
 

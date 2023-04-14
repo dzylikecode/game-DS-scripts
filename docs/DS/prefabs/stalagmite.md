@@ -1,2 +1,2 @@
-# stalagmite.md
+# stalagmite.lua
 

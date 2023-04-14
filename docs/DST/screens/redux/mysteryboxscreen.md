@@ -1,2 +1,2 @@
-# mysteryboxscreen.md
+# mysteryboxscreen.lua
 

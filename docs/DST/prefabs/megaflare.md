@@ -1,2 +1,2 @@
-# megaflare.md
+# megaflare.lua
 

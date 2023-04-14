@@ -1,2 +1,2 @@
-# atrium_end.md
+# atrium_end.lua
 

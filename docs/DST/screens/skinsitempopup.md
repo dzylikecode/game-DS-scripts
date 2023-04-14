@@ -1,2 +1,2 @@
-# skinsitempopup.md
+# skinsitempopup.lua
 

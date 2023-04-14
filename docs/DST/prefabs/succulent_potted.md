@@ -1,2 +1,2 @@
-# succulent_potted.md
+# succulent_potted.lua
 

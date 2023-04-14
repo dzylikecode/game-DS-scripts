@@ -1,2 +1,2 @@
-# weed_defs.md
+# weed_defs.lua
 

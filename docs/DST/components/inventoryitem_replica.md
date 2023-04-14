@@ -1,2 +1,2 @@
-# inventoryitem_replica.md
+# inventoryitem_replica.lua
 

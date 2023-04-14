@@ -1,2 +1,2 @@
-# morguescreen.md
+# morguescreen.lua
 

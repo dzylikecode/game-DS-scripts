@@ -1,2 +1,2 @@
-# chess_spot2.md
+# chess_spot2.lua
 

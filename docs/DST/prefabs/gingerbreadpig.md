@@ -1,2 +1,2 @@
-# gingerbreadpig.md
+# gingerbreadpig.lua
 

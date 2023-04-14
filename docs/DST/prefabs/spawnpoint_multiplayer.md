@@ -1,2 +1,2 @@
-# spawnpoint_multiplayer.md
+# spawnpoint_multiplayer.lua
 

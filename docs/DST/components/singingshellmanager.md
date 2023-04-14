@@ -1,2 +1,2 @@
-# singingshellmanager.md
+# singingshellmanager.lua
 

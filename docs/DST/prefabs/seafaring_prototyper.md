@@ -1,2 +1,2 @@
-# seafaring_prototyper.md
+# seafaring_prototyper.lua
 

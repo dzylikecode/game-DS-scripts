@@ -1,2 +1,2 @@
-# thunder_close.md
+# thunder_close.lua
 

@@ -1,2 +1,2 @@
-# lanternfire.md
+# lanternfire.lua
 

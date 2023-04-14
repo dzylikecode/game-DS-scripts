@@ -1,2 +1,2 @@
-# waterproofer.md
+# waterproofer.lua
 

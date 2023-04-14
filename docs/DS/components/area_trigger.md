@@ -1,2 +1,2 @@
-# area_trigger.md
+# area_trigger.lua
 

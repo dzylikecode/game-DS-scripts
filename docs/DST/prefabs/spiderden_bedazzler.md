@@ -1,2 +1,2 @@
-# spiderden_bedazzler.md
+# spiderden_bedazzler.lua
 

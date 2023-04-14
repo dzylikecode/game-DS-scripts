@@ -1,2 +1,2 @@
-# moonaltarlink.md
+# moonaltarlink.lua
 

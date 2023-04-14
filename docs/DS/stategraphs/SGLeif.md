@@ -1,2 +1,2 @@
-# SGLeif.md
+# SGLeif.lua
 

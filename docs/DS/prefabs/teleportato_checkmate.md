@@ -1,2 +1,2 @@
-# teleportato_checkmate.md
+# teleportato_checkmate.lua
 

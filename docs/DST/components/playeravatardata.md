@@ -1,2 +1,2 @@
-# playeravatardata.md
+# playeravatardata.lua
 

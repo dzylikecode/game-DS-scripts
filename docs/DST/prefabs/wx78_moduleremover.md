@@ -1,2 +1,2 @@
-# wx78_moduleremover.md
+# wx78_moduleremover.lua
 

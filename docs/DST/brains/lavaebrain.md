@@ -1,2 +1,2 @@
-# lavaebrain.md
+# lavaebrain.lua
 

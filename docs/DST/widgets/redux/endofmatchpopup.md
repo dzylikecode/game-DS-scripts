@@ -1,2 +1,2 @@
-# endofmatchpopup.md
+# endofmatchpopup.lua
 

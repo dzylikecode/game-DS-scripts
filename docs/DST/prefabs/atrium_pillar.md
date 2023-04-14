@@ -1,2 +1,2 @@
-# atrium_pillar.md
+# atrium_pillar.lua
 

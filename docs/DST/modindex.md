@@ -1,2 +1,2 @@
-# modindex.md
+# modindex.lua
 

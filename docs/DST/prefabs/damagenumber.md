@@ -1,2 +1,2 @@
-# damagenumber.md
+# damagenumber.lua
 

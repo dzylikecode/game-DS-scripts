@@ -1,2 +1,2 @@
-# cookpot.md
+# cookpot.lua
 

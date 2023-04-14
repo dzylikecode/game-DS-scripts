@@ -1,2 +1,2 @@
-# cane_candy_fx.md
+# cane_candy_fx.lua
 

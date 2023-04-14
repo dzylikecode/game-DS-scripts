@@ -1,2 +1,2 @@
-# regrowthmanager.md
+# regrowthmanager.lua
 

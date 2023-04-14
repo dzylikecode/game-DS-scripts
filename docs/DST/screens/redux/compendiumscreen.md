@@ -1,2 +1,2 @@
-# compendiumscreen.md
+# compendiumscreen.lua
 

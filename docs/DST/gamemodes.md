@@ -1,2 +1,2 @@
-# gamemodes.md
+# gamemodes.lua
 

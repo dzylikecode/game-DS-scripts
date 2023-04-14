@@ -1,2 +1,2 @@
-# waterphysics.md
+# waterphysics.lua
 

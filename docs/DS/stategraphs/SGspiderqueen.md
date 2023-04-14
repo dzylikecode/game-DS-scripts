@@ -1,2 +1,2 @@
-# SGspiderqueen.md
+# SGspiderqueen.lua
 

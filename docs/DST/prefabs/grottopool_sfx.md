@@ -1,2 +1,2 @@
-# grottopool_sfx.md
+# grottopool_sfx.lua
 

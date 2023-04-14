@@ -1,2 +1,2 @@
-# skilltreedata.md
+# skilltreedata.lua
 

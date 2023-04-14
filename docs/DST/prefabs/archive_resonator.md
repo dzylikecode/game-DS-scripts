@@ -1,2 +1,2 @@
-# archive_resonator.md
+# archive_resonator.lua
 

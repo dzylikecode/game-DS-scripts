@@ -1,2 +1,2 @@
-# lavaarena_beetletaur.md
+# lavaarena_beetletaur.lua
 

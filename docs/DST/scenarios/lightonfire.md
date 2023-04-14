@@ -1,2 +1,2 @@
-# lightonfire.md
+# lightonfire.lua
 

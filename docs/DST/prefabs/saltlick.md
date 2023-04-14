@@ -1,2 +1,2 @@
-# saltlick.md
+# saltlick.lua
 

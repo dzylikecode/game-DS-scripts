@@ -1,2 +1,2 @@
-# playerprofile.md
+# playerprofile.lua
 

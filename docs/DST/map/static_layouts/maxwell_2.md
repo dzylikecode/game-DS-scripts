@@ -1,2 +1,2 @@
-# maxwell_2.md
+# maxwell_2.lua
 

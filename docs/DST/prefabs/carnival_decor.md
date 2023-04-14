@@ -1,2 +1,2 @@
-# carnival_decor.md
+# carnival_decor.lua
 

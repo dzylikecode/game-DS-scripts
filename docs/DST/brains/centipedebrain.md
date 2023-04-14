@@ -1,2 +1,2 @@
-# centipedebrain.md
+# centipedebrain.lua
 

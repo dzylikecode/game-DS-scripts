@@ -1,2 +1,2 @@
-# lightflierbrain.md
+# lightflierbrain.lua
 

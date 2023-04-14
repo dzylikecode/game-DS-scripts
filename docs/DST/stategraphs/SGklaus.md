@@ -1,2 +1,2 @@
-# SGklaus.md
+# SGklaus.lua
 

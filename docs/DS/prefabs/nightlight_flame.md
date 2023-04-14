@@ -1,2 +1,2 @@
-# nightlight_flame.md
+# nightlight_flame.lua
 

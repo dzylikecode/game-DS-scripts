@@ -1,2 +1,2 @@
-# weighable.md
+# weighable.lua
 

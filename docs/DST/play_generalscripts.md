@@ -1,2 +1,2 @@
-# play_generalscripts.md
+# play_generalscripts.lua
 

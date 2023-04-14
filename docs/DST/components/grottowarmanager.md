@@ -1,2 +1,2 @@
-# grottowarmanager.md
+# grottowarmanager.lua
 

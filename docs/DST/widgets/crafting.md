@@ -1,2 +1,2 @@
-# crafting.md
+# crafting.lua
 

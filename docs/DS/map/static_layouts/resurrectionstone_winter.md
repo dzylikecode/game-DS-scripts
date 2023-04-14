@@ -1,2 +1,2 @@
-# resurrectionstone_winter.md
+# resurrectionstone_winter.lua
 

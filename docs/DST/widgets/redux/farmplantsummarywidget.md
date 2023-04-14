@@ -1,2 +1,2 @@
-# farmplantsummarywidget.md
+# farmplantsummarywidget.lua
 

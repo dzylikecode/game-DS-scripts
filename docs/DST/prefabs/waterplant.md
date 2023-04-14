@@ -1,2 +1,2 @@
-# waterplant.md
+# waterplant.lua
 

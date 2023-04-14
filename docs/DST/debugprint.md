@@ -1,2 +1,2 @@
-# debugprint.md
+# debugprint.lua
 

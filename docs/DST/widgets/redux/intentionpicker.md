@@ -1,2 +1,2 @@
-# intentionpicker.md
+# intentionpicker.lua
 

@@ -1,2 +1,2 @@
-# shieldofterror.md
+# shieldofterror.lua
 

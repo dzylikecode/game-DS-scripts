@@ -1,2 +1,2 @@
-# domesticatable.md
+# domesticatable.lua
 

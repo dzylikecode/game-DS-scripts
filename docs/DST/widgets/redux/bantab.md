@@ -1,2 +1,2 @@
-# bantab.md
+# bantab.lua
 

@@ -1,2 +1,2 @@
-# skinsfiltersutils.md
+# skinsfiltersutils.lua
 

@@ -1,2 +1,2 @@
-# scandata.md
+# scandata.lua
 

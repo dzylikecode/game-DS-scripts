@@ -1,2 +1,2 @@
-# itemaffinity.md
+# itemaffinity.lua
 

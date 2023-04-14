@@ -1,2 +1,2 @@
-# kitcoonfood.md
+# kitcoonfood.lua
 

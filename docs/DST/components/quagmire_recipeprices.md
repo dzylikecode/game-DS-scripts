@@ -1,2 +1,2 @@
-# quagmire_recipeprices.md
+# quagmire_recipeprices.lua
 

@@ -1,2 +1,2 @@
-# candybag.md
+# candybag.lua
 

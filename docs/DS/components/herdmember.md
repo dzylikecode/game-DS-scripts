@@ -1,2 +1,2 @@
-# herdmember.md
+# herdmember.lua
 

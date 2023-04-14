@@ -1,2 +1,2 @@
-# walrus.md
+# walrus.lua
 

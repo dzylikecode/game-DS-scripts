@@ -1,2 +1,2 @@
-# SGBeefalo.md
+# SGBeefalo.lua
 

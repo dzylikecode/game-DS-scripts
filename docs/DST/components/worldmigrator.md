@@ -1,2 +1,2 @@
-# worldmigrator.md
+# worldmigrator.lua
 

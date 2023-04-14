@@ -1,2 +1,2 @@
-# clothing.md
+# clothing.lua
 

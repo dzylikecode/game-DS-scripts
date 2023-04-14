@@ -1,2 +1,2 @@
-# worldtiledefs.md
+# worldtiledefs.lua
 

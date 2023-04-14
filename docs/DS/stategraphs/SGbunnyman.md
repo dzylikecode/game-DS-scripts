@@ -1,2 +1,2 @@
-# SGbunnyman.md
+# SGbunnyman.lua
 

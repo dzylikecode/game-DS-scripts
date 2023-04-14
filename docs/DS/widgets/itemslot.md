@@ -1,2 +1,2 @@
-# itemslot.md
+# itemslot.lua
 

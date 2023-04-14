@@ -1,2 +1,2 @@
-# lavaarena_heavyblade.md
+# lavaarena_heavyblade.lua
 

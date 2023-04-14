@@ -1,2 +1,2 @@
-# lavaarena_groundlifts.md
+# lavaarena_groundlifts.lua
 

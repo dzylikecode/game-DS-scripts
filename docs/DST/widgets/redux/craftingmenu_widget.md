@@ -1,2 +1,2 @@
-# craftingmenu_widget.md
+# craftingmenu_widget.lua
 

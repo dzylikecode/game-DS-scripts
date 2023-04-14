@@ -1,2 +1,2 @@
-# debugcommands.md
+# debugcommands.lua
 

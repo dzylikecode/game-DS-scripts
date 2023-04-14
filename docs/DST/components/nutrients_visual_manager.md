@@ -1,2 +1,2 @@
-# nutrients_visual_manager.md
+# nutrients_visual_manager.lua
 

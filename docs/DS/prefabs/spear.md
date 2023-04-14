@@ -1,2 +1,2 @@
-# spear.md
+# spear.lua
 

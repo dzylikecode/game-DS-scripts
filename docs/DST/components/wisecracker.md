@@ -1,2 +1,2 @@
-# wisecracker.md
+# wisecracker.lua
 

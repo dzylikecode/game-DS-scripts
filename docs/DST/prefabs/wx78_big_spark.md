@@ -1,2 +1,2 @@
-# wx78_big_spark.md
+# wx78_big_spark.lua
 

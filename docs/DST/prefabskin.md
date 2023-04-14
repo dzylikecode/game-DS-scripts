@@ -1,2 +1,2 @@
-# prefabskin.md
+# prefabskin.lua
 

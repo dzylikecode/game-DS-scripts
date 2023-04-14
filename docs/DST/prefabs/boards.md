@@ -1,2 +1,2 @@
-# boards.md
+# boards.lua
 

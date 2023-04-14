@@ -1,2 +1,2 @@
-# follower.md
+# follower.lua
 

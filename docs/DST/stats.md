@@ -1,2 +1,2 @@
-# stats.md
+# stats.lua
 

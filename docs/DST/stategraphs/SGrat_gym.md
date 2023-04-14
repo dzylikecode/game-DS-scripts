@@ -1,2 +1,2 @@
-# SGrat_gym.md
+# SGrat_gym.lua
 

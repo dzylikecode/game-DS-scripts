@@ -1,2 +1,2 @@
-# skinspuppet_beefalo.md
+# skinspuppet_beefalo.lua
 

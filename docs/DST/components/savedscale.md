@@ -1,2 +1,2 @@
-# savedscale.md
+# savedscale.lua
 

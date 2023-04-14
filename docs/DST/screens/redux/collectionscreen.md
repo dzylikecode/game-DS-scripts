@@ -1,2 +1,2 @@
-# collectionscreen.md
+# collectionscreen.lua
 

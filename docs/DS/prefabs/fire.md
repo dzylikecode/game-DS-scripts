@@ -1,2 +1,2 @@
-# fire.md
+# fire.lua
 

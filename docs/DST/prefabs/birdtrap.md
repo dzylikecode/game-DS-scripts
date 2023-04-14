@@ -1,2 +1,2 @@
-# birdtrap.md
+# birdtrap.lua
 

@@ -1,2 +1,2 @@
-# speech_wendy.md
+# speech_wendy.lua
 

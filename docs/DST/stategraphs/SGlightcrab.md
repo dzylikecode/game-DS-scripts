@@ -1,2 +1,2 @@
-# SGlightcrab.md
+# SGlightcrab.lua
 

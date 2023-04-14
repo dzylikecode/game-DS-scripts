@@ -1,2 +1,2 @@
-# upgrademoduleowner.md
+# upgrademoduleowner.lua
 

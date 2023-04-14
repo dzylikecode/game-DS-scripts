@@ -1,2 +1,2 @@
-# waxwelljournal.md
+# waxwelljournal.lua
 

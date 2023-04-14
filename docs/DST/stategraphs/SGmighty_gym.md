@@ -1,2 +1,2 @@
-# SGmighty_gym.md
+# SGmighty_gym.lua
 

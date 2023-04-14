@@ -1,2 +1,2 @@
-# diseaseflies.md
+# diseaseflies.lua
 

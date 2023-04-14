@@ -1,2 +1,2 @@
-# small_boon.md
+# small_boon.lua
 

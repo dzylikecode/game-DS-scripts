@@ -1,2 +1,2 @@
-# pausescreen.md
+# pausescreen.lua
 

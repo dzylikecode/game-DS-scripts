@@ -1,2 +1,2 @@
-# blackflag.md
+# blackflag.lua
 

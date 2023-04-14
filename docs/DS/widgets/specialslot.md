@@ -1,2 +1,2 @@
-# specialslot.md
+# specialslot.lua
 

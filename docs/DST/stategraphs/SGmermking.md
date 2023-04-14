@@ -1,2 +1,2 @@
-# SGmermking.md
+# SGmermking.lua
 

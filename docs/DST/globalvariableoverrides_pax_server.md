@@ -1,2 +1,2 @@
-# globalvariableoverrides_pax_server.md
+# globalvariableoverrides_pax_server.lua
 

@@ -1,2 +1,2 @@
-# wereeater.md
+# wereeater.lua
 

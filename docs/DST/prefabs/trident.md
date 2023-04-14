@@ -1,2 +1,2 @@
-# trident.md
+# trident.lua
 

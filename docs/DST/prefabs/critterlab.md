@@ -1,2 +1,2 @@
-# critterlab.md
+# critterlab.lua
 

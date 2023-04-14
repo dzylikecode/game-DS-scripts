@@ -1,2 +1,2 @@
-# wobster.md
+# wobster.lua
 

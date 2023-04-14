@@ -1,2 +1,2 @@
-# minperiod.md
+# minperiod.lua
 

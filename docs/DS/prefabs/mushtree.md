@@ -1,2 +1,2 @@
-# mushtree.md
+# mushtree.lua
 

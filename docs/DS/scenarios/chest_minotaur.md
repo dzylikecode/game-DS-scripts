@@ -1,2 +1,2 @@
-# chest_minotaur.md
+# chest_minotaur.lua
 

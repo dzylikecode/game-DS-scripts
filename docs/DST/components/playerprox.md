@@ -1,2 +1,2 @@
-# playerprox.md
+# playerprox.lua
 

@@ -1,2 +1,2 @@
-# kitcoon_nametag.md
+# kitcoon_nametag.lua
 

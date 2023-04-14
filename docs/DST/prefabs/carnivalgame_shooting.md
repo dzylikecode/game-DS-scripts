@@ -1,2 +1,2 @@
-# carnivalgame_shooting.md
+# carnivalgame_shooting.lua
 

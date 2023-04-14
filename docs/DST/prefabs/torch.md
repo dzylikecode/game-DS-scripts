@@ -1,2 +1,2 @@
-# torch.md
+# torch.lua
 

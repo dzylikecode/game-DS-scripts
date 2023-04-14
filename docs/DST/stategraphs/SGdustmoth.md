@@ -1,2 +1,2 @@
-# SGdustmoth.md
+# SGdustmoth.lua
 

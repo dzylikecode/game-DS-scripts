@@ -1,2 +1,2 @@
-# giftitempopup.md
+# giftitempopup.lua
 

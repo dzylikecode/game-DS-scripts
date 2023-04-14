@@ -1,2 +1,2 @@
-# eyeofterror_minibrain.md
+# eyeofterror_minibrain.lua
 

@@ -1,2 +1,2 @@
-# friendlyfruitflybrain.md
+# friendlyfruitflybrain.lua
 

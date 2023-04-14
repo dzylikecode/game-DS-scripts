@@ -1,2 +1,2 @@
-# health.md
+# health.lua
 

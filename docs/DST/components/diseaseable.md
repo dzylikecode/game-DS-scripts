@@ -1,2 +1,2 @@
-# diseaseable.md
+# diseaseable.lua
 

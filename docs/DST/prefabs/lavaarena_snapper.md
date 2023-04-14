@@ -1,2 +1,2 @@
-# lavaarena_snapper.md
+# lavaarena_snapper.lua
 

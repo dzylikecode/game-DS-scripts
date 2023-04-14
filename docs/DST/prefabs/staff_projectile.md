@@ -1,2 +1,2 @@
-# staff_projectile.md
+# staff_projectile.lua
 

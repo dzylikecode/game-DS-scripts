@@ -1,2 +1,2 @@
-# newhostpicker.md
+# newhostpicker.lua
 

@@ -1,2 +1,2 @@
-# characterdetailspanel.md
+# characterdetailspanel.lua
 

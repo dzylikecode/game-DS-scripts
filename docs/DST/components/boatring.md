@@ -1,2 +1,2 @@
-# boatring.md
+# boatring.lua
 

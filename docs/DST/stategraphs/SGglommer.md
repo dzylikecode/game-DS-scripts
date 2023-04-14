@@ -1,2 +1,2 @@
-# SGglommer.md
+# SGglommer.lua
 

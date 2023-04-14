@@ -1,2 +1,2 @@
-# damagetypebonus.md
+# damagetypebonus.lua
 

@@ -1,2 +1,2 @@
-# resource_substitution.md
+# resource_substitution.lua
 

@@ -1,2 +1,2 @@
-# canary_poisoned.md
+# canary_poisoned.lua
 

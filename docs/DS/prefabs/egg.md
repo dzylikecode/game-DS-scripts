@@ -1,2 +1,2 @@
-# egg.md
+# egg.lua
 

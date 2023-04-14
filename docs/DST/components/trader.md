@@ -1,2 +1,2 @@
-# trader.md
+# trader.lua
 

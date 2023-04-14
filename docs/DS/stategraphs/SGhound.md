@@ -1,2 +1,2 @@
-# SGhound.md
+# SGhound.lua
 

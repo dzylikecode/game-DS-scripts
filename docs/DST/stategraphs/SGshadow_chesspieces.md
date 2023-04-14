@@ -1,2 +1,2 @@
-# SGshadow_chesspieces.md
+# SGshadow_chesspieces.lua
 

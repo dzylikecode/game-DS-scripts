@@ -1,2 +1,2 @@
-# survival.md
+# survival.lua
 

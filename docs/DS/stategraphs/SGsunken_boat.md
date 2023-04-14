@@ -1,2 +1,2 @@
-# SGsunken_boat.md
+# SGsunken_boat.lua
 

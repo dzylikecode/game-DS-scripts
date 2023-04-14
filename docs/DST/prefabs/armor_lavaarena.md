@@ -1,2 +1,2 @@
-# armor_lavaarena.md
+# armor_lavaarena.lua
 

@@ -1,2 +1,2 @@
-# SGcarnivalgame_memory_card.md
+# SGcarnivalgame_memory_card.lua
 

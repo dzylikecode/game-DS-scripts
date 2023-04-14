@@ -1,2 +1,2 @@
-# craftslots.md
+# craftslots.lua
 

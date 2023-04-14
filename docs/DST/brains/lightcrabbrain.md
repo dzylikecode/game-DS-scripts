@@ -1,2 +1,2 @@
-# lightcrabbrain.md
+# lightcrabbrain.lua
 

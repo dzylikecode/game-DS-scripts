@@ -1,2 +1,2 @@
-# event_deps.md
+# event_deps.lua
 

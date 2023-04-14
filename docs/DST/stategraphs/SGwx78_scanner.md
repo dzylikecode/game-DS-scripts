@@ -1,2 +1,2 @@
-# SGwx78_scanner.md
+# SGwx78_scanner.lua
 

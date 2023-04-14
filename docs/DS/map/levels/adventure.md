@@ -1,2 +1,2 @@
-# adventure.md
+# adventure.lua
 

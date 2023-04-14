@@ -1,2 +1,2 @@
-# walls_straight2.md
+# walls_straight2.lua
 

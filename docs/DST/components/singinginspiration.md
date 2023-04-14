@@ -1,2 +1,2 @@
-# singinginspiration.md
+# singinginspiration.lua
 

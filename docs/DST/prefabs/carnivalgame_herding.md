@@ -1,2 +1,2 @@
-# carnivalgame_herding.md
+# carnivalgame_herding.lua
 

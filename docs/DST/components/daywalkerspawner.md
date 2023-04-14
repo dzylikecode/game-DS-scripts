@@ -1,2 +1,2 @@
-# daywalkerspawner.md
+# daywalkerspawner.lua
 

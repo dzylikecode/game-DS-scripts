@@ -1,2 +1,2 @@
-# transistor.md
+# transistor.lua
 

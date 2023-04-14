@@ -1,2 +1,2 @@
-# slurperbrain.md
+# slurperbrain.lua
 

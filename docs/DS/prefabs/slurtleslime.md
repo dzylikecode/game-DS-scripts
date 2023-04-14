@@ -1,2 +1,2 @@
-# slurtleslime.md
+# slurtleslime.lua
 

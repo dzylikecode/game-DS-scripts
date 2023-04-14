@@ -1,2 +1,2 @@
-# onlinestatus.md
+# onlinestatus.lua
 

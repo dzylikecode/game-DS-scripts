@@ -1,2 +1,2 @@
-# stalker.md
+# stalker.lua
 

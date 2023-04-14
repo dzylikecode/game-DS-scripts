@@ -1,2 +1,2 @@
-# savedata.md
+# savedata.lua
 

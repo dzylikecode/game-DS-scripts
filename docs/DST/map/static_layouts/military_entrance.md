@@ -1,2 +1,2 @@
-# military_entrance.md
+# military_entrance.lua
 

@@ -1,2 +1,2 @@
-# quagmire_burnt_ingredients.md
+# quagmire_burnt_ingredients.lua
 

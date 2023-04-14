@@ -1,2 +1,2 @@
-# tent.md
+# tent.lua
 

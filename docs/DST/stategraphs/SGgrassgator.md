@@ -1,2 +1,2 @@
-# SGgrassgator.md
+# SGgrassgator.lua
 

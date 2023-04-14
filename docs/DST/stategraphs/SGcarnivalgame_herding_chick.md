@@ -1,2 +1,2 @@
-# SGcarnivalgame_herding_chick.md
+# SGcarnivalgame_herding_chick.lua
 

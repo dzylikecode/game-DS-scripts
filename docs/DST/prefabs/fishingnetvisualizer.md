@@ -1,2 +1,2 @@
-# fishingnetvisualizer.md
+# fishingnetvisualizer.lua
 

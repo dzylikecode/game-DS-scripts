@@ -1,2 +1,2 @@
-# textedit.md
+# textedit.lua
 

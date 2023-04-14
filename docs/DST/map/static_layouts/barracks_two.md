@@ -1,2 +1,2 @@
-# barracks_two.md
+# barracks_two.lua
 

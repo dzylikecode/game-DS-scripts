@@ -1,2 +1,2 @@
-# quagmire_beefalo.md
+# quagmire_beefalo.lua
 

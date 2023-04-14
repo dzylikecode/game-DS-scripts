@@ -1,3 +1,2 @@
-# widget.md
+# widget.lua
 
-- return Widget

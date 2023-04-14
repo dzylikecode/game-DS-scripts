@@ -1,2 +1,2 @@
-# statueharp_hedgespawner.md
+# statueharp_hedgespawner.lua
 

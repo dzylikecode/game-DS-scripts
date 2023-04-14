@@ -1,2 +1,2 @@
-# minigametile.md
+# minigametile.lua
 

@@ -1,2 +1,2 @@
-# ghostsailorbrain.md
+# ghostsailorbrain.lua
 

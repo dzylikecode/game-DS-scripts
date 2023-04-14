@@ -1,2 +1,2 @@
-# wormlight_plant.md
+# wormlight_plant.lua
 

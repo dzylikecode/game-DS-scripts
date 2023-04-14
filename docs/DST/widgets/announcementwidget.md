@@ -1,2 +1,2 @@
-# announcementwidget.md
+# announcementwidget.lua
 

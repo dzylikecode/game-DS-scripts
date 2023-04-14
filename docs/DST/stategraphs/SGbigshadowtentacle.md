@@ -1,2 +1,2 @@
-# SGbigshadowtentacle.md
+# SGbigshadowtentacle.lua
 

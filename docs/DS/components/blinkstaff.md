@@ -1,2 +1,2 @@
-# blinkstaff.md
+# blinkstaff.lua
 

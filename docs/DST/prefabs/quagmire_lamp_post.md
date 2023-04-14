@@ -1,2 +1,2 @@
-# quagmire_lamp_post.md
+# quagmire_lamp_post.lua
 

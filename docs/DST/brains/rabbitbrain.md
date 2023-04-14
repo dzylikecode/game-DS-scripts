@@ -1,2 +1,2 @@
-# rabbitbrain.md
+# rabbitbrain.lua
 

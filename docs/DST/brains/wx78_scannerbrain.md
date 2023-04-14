@@ -1,2 +1,2 @@
-# wx78_scannerbrain.md
+# wx78_scannerbrain.lua
 

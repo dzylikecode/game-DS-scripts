@@ -1,2 +1,2 @@
-# craftingmenuprofile.md
+# craftingmenuprofile.lua
 

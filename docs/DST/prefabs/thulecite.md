@@ -1,2 +1,2 @@
-# thulecite.md
+# thulecite.lua
 

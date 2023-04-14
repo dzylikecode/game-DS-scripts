@@ -1,2 +1,2 @@
-# SGmultiplayerportal.md
+# SGmultiplayerportal.lua
 

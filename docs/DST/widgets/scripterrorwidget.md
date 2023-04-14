@@ -1,2 +1,2 @@
-# scripterrorwidget.md
+# scripterrorwidget.lua
 

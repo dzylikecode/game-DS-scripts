@@ -1,2 +1,2 @@
-# toadstool.md
+# toadstool.lua
 

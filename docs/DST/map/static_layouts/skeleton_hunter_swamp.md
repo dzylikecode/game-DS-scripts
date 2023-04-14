@@ -1,2 +1,2 @@
-# skeleton_hunter_swamp.md
+# skeleton_hunter_swamp.lua
 

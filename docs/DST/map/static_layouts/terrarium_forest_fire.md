@@ -1,2 +1,2 @@
-# terrarium_forest_fire.md
+# terrarium_forest_fire.lua
 

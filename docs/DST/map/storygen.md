@@ -1,2 +1,2 @@
-# storygen.md
+# storygen.lua
 

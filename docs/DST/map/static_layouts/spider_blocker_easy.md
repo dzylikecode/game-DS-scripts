@@ -1,2 +1,2 @@
-# spider_blocker_easy.md
+# spider_blocker_easy.lua
 

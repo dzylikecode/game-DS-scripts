@@ -1,2 +1,2 @@
-# penguin.md
+# penguin.lua
 

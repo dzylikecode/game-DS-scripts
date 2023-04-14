@@ -1,2 +1,2 @@
-# skeleton_entomologist.md
+# skeleton_entomologist.lua
 

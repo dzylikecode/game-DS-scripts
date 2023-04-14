@@ -1,2 +1,2 @@
-# startlocations.md
+# startlocations.lua
 

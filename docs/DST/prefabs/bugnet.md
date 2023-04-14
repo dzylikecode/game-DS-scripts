@@ -1,2 +1,2 @@
-# bugnet.md
+# bugnet.lua
 

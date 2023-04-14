@@ -1,2 +1,2 @@
-# blowdart_lava2.md
+# blowdart_lava2.lua
 

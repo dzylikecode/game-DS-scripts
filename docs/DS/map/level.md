@@ -1,2 +1,2 @@
-# level.md
+# level.lua
 

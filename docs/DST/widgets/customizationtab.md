@@ -1,2 +1,2 @@
-# customizationtab.md
+# customizationtab.lua
 

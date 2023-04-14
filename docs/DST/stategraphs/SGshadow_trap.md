@@ -1,2 +1,2 @@
-# SGshadow_trap.md
+# SGshadow_trap.lua
 

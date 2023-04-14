@@ -1,2 +1,2 @@
-# skeleton_wizard_fire.md
+# skeleton_wizard_fire.lua
 

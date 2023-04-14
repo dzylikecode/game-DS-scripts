@@ -1,2 +1,2 @@
-# skinsandequipmentpuppet.md
+# skinsandequipmentpuppet.lua
 

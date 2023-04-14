@@ -1,2 +1,2 @@
-# gnarwailbrain.md
+# gnarwailbrain.lua
 

@@ -1,2 +1,2 @@
-# textcompleter.md
+# textcompleter.lua
 

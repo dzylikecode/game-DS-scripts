@@ -1,2 +1,2 @@
-# fence.md
+# fence.lua
 

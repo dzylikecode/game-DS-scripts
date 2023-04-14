@@ -1,2 +1,2 @@
-# heatrock.md
+# heatrock.lua
 

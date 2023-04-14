@@ -1,2 +1,2 @@
-# scorchedground.md
+# scorchedground.lua
 

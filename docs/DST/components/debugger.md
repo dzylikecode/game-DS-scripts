@@ -1,2 +1,2 @@
-# debugger.md
+# debugger.lua
 

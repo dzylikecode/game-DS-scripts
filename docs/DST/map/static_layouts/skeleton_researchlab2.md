@@ -1,2 +1,2 @@
-# skeleton_researchlab2.md
+# skeleton_researchlab2.lua
 

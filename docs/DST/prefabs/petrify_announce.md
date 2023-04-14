@@ -1,2 +1,2 @@
-# petrify_announce.md
+# petrify_announce.lua
 

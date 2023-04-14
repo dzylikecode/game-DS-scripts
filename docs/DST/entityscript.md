@@ -1,2 +1,2 @@
-# entityscript.md
+# entityscript.lua
 

@@ -1,2 +1,2 @@
-# alterguardian_laser.md
+# alterguardian_laser.lua
 

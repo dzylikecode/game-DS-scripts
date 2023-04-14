@@ -1,2 +1,2 @@
-# moosespawner.md
+# moosespawner.lua
 

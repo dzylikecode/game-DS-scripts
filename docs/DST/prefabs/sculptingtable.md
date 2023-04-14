@@ -1,2 +1,2 @@
-# sculptingtable.md
+# sculptingtable.lua
 

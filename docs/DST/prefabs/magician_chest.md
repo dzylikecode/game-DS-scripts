@@ -1,2 +1,2 @@
-# magician_chest.md
+# magician_chest.lua
 

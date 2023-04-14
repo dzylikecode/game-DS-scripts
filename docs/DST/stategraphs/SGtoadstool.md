@@ -1,2 +1,2 @@
-# SGtoadstool.md
+# SGtoadstool.lua
 

@@ -1,2 +1,2 @@
-# nightmaregrowth.md
+# nightmaregrowth.lua
 

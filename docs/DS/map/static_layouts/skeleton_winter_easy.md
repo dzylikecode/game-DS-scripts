@@ -1,2 +1,2 @@
-# skeleton_winter_easy.md
+# skeleton_winter_easy.lua
 

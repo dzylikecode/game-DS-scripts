@@ -1,2 +1,2 @@
-# finiteuses.md
+# finiteuses.lua
 

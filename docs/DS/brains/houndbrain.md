@@ -1,2 +1,2 @@
-# houndbrain.md
+# houndbrain.lua
 

@@ -1,2 +1,2 @@
-# combat_replica.md
+# combat_replica.lua
 

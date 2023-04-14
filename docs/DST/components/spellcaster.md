@@ -1,2 +1,2 @@
-# spellcaster.md
+# spellcaster.lua
 

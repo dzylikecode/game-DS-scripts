@@ -1,2 +1,2 @@
-# wobsterbrain.md
+# wobsterbrain.lua
 

@@ -1,2 +1,2 @@
-# amphibiouscreature.md
+# amphibiouscreature.lua
 

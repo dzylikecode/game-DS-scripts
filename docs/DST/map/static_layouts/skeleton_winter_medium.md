@@ -1,2 +1,2 @@
-# skeleton_winter_medium.md
+# skeleton_winter_medium.lua
 

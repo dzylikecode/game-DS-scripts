@@ -1,2 +1,2 @@
-# schoolherd.md
+# schoolherd.lua
 

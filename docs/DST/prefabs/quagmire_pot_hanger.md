@@ -1,2 +1,2 @@
-# quagmire_pot_hanger.md
+# quagmire_pot_hanger.lua
 

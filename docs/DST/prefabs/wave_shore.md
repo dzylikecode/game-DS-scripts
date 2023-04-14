@@ -1,2 +1,2 @@
-# wave_shore.md
+# wave_shore.lua
 

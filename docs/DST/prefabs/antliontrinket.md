@@ -1,2 +1,2 @@
-# antliontrinket.md
+# antliontrinket.lua
 

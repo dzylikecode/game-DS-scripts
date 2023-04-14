@@ -1,2 +1,2 @@
-# oceanfishable.md
+# oceanfishable.lua
 

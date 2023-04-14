@@ -1,2 +1,2 @@
-# smallbirdbrain.md
+# smallbirdbrain.lua
 

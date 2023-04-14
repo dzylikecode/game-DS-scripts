@@ -1,2 +1,2 @@
-# SGwaveyjoneshand.md
+# SGwaveyjoneshand.lua
 

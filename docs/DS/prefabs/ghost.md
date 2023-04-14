@@ -1,2 +1,2 @@
-# ghost.md
+# ghost.lua
 

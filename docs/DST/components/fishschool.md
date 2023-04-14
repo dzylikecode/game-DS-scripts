@@ -1,2 +1,2 @@
-# fishschool.md
+# fishschool.lua
 

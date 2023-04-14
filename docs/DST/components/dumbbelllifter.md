@@ -1,2 +1,2 @@
-# dumbbelllifter.md
+# dumbbelllifter.lua
 

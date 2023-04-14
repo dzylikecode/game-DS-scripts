@@ -1,2 +1,2 @@
-# healingstaff.md
+# healingstaff.lua
 

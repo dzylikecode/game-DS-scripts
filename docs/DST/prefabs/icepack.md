@@ -1,2 +1,2 @@
-# icepack.md
+# icepack.lua
 

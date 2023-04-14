@@ -1,2 +1,2 @@
-# bunnymanbrain.md
+# bunnymanbrain.lua
 

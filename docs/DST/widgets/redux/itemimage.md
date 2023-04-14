@@ -1,2 +1,2 @@
-# itemimage.md
+# itemimage.lua
 

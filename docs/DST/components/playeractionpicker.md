@@ -1,2 +1,2 @@
-# playeractionpicker.md
+# playeractionpicker.lua
 

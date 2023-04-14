@@ -1,2 +1,2 @@
-# deerclops_eyeball.md
+# deerclops_eyeball.lua
 

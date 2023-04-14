@@ -1,2 +1,2 @@
-# fishschoolspawnblocker.md
+# fishschoolspawnblocker.lua
 

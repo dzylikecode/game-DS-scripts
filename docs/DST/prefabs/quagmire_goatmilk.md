@@ -1,2 +1,2 @@
-# quagmire_goatmilk.md
+# quagmire_goatmilk.lua
 

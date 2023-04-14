@@ -1,2 +1,2 @@
-# ruinsrespawner.md
+# ruinsrespawner.lua
 

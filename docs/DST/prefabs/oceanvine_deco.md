@@ -1,2 +1,2 @@
-# oceanvine_deco.md
+# oceanvine_deco.lua
 

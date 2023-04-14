@@ -1,2 +1,2 @@
-# config.md
+# config.lua
 

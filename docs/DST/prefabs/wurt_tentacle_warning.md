@@ -1,2 +1,2 @@
-# wurt_tentacle_warning.md
+# wurt_tentacle_warning.lua
 

@@ -1,2 +1,2 @@
-# bishop_charge.md
+# bishop_charge.lua
 

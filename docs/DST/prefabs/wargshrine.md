@@ -1,2 +1,2 @@
-# wargshrine.md
+# wargshrine.lua
 

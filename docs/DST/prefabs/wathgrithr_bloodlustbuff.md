@@ -1,2 +1,2 @@
-# wathgrithr_bloodlustbuff.md
+# wathgrithr_bloodlustbuff.lua
 

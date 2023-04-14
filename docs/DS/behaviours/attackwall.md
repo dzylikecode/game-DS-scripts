@@ -1,2 +1,2 @@
-# attackwall.md
+# attackwall.lua
 

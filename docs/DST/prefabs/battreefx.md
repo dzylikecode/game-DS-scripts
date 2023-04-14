@@ -1,2 +1,2 @@
-# battreefx.md
+# battreefx.lua
 

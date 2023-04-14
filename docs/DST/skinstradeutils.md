@@ -1,2 +1,2 @@
-# skinstradeutils.md
+# skinstradeutils.lua
 

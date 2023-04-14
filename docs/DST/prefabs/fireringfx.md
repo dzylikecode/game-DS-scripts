@@ -1,2 +1,2 @@
-# fireringfx.md
+# fireringfx.lua
 

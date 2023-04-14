@@ -1,2 +1,2 @@
-# cannonballs.md
+# cannonballs.lua
 

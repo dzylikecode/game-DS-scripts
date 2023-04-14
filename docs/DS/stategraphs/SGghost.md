@@ -1,2 +1,2 @@
-# SGghost.md
+# SGghost.lua
 

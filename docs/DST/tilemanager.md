@@ -1,2 +1,2 @@
-# tilemanager.md
+# tilemanager.lua
 

@@ -1,2 +1,2 @@
-# damagetyperesist.md
+# damagetyperesist.lua
 

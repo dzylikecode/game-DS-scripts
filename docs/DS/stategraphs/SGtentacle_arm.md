@@ -1,2 +1,2 @@
-# SGtentacle_arm.md
+# SGtentacle_arm.lua
 

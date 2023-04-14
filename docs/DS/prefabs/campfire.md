@@ -1,2 +1,2 @@
-# campfire.md
+# campfire.lua
 

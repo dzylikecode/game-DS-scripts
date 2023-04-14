@@ -1,2 +1,2 @@
-# historyoftravelspanel.md
+# historyoftravelspanel.lua
 

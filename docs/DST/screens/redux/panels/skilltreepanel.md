@@ -1,2 +1,2 @@
-# skilltreepanel.md
+# skilltreepanel.lua
 

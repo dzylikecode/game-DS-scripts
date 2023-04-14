@@ -1,2 +1,2 @@
-# quagmire_achievements.md
+# quagmire_achievements.lua
 

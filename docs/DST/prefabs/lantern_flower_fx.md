@@ -1,2 +1,2 @@
-# lantern_flower_fx.md
+# lantern_flower_fx.lua
 

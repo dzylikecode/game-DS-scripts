@@ -1,2 +1,2 @@
-# carnivalgame_memory.md
+# carnivalgame_memory.lua
 

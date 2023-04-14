@@ -1,2 +1,2 @@
-# healingsalve.md
+# healingsalve.lua
 

@@ -1,2 +1,2 @@
-# notetable_dsmaintheme.md
+# notetable_dsmaintheme.lua
 

@@ -1,2 +1,2 @@
-# wargbrain.md
+# wargbrain.lua
 

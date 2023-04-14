@@ -1,2 +1,2 @@
-# lantern_tesla_fx.md
+# lantern_tesla_fx.lua
 

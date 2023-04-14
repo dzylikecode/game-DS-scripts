@@ -1,2 +1,2 @@
-# genericwaitingpopup.md
+# genericwaitingpopup.lua
 

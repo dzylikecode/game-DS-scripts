@@ -1,2 +1,2 @@
-# klaussackspawner.md
+# klaussackspawner.lua
 

@@ -1,2 +1,2 @@
-# bat.md
+# bat.lua
 

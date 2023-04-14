@@ -1,2 +1,2 @@
-# texteditlinked.md
+# texteditlinked.lua
 

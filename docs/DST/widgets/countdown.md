@@ -1,2 +1,2 @@
-# countdown.md
+# countdown.lua
 

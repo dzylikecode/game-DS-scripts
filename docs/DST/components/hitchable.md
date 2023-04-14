@@ -1,2 +1,2 @@
-# hitchable.md
+# hitchable.lua
 

@@ -1,2 +1,2 @@
-# maze_layouts.md
+# maze_layouts.lua
 

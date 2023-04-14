@@ -1,2 +1,2 @@
-# stacktrace.md
+# stacktrace.lua
 

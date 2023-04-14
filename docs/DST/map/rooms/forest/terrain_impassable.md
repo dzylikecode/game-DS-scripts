@@ -1,2 +1,2 @@
-# terrain_impassable.md
+# terrain_impassable.lua
 

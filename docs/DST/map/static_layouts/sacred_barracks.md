@@ -1,2 +1,2 @@
-# sacred_barracks.md
+# sacred_barracks.lua
 

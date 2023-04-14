@@ -1,2 +1,2 @@
-# SGwerebeaver.md
+# SGwerebeaver.lua
 

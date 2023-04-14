@@ -1,2 +1,2 @@
-# wormwarning.md
+# wormwarning.lua
 

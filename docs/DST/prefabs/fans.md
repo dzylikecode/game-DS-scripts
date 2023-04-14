@@ -1,2 +1,2 @@
-# fans.md
+# fans.lua
 

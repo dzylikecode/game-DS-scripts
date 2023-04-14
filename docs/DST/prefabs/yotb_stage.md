@@ -1,2 +1,2 @@
-# yotb_stage.md
+# yotb_stage.lua
 

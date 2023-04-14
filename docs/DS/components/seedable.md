@@ -1,2 +1,2 @@
-# seedable.md
+# seedable.lua
 

@@ -1,2 +1,2 @@
-# componentutil.md
+# componentutil.lua
 

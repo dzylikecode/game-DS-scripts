@@ -1,2 +1,2 @@
-# insane_eyebone.md
+# insane_eyebone.lua
 

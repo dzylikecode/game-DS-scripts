@@ -1,2 +1,2 @@
-# tab.md
+# tab.lua
 

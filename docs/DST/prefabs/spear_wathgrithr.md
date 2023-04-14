@@ -1,2 +1,2 @@
-# spear_wathgrithr.md
+# spear_wathgrithr.lua
 

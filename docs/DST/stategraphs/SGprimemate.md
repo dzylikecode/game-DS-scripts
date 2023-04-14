@@ -1,2 +1,2 @@
-# SGprimemate.md
+# SGprimemate.lua
 

@@ -1,2 +1,2 @@
-# terrain_cave.md
+# terrain_cave.lua
 

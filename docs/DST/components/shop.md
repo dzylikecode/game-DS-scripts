@@ -1,2 +1,2 @@
-# shop.md
+# shop.lua
 

@@ -1,2 +1,2 @@
-# SGspider.md
+# SGspider.lua
 

@@ -1,2 +1,2 @@
-# moon_mushroom.md
+# moon_mushroom.lua
 

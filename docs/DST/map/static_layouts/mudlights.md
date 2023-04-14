@@ -1,2 +1,2 @@
-# mudlights.md
+# mudlights.lua
 

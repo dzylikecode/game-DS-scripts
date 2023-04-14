@@ -1,2 +1,2 @@
-# targetindicator.md
+# targetindicator.lua
 

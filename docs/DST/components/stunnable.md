@@ -1,2 +1,2 @@
-# stunnable.md
+# stunnable.lua
 

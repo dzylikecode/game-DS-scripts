@@ -1,2 +1,2 @@
-# rechargeable.md
+# rechargeable.lua
 

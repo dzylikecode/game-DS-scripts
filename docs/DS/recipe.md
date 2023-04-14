@@ -1,2 +1,2 @@
-# recipe.md
+# recipe.lua
 

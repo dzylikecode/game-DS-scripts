@@ -1,2 +1,2 @@
-# ghostflower.md
+# ghostflower.lua
 

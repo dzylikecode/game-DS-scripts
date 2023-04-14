@@ -1,2 +1,2 @@
-# followcamera.md
+# followcamera.lua
 

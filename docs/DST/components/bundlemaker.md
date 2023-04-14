@@ -1,2 +1,2 @@
-# bundlemaker.md
+# bundlemaker.lua
 

@@ -1,2 +1,2 @@
-# scienceprototyper.md
+# scienceprototyper.lua
 

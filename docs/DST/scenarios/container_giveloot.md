@@ -1,2 +1,2 @@
-# container_giveloot.md
+# container_giveloot.lua
 

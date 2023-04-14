@@ -1,2 +1,2 @@
-# eyeflame.md
+# eyeflame.lua
 

@@ -1,2 +1,2 @@
-# prefabutil.md
+# prefabutil.lua
 

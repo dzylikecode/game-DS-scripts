@@ -1,2 +1,2 @@
-# wormlight.md
+# wormlight.lua
 

@@ -1,2 +1,2 @@
-# skeleton_camper.md
+# skeleton_camper.lua
 

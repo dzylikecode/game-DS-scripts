@@ -1,2 +1,2 @@
-# mightiness.md
+# mightiness.lua
 

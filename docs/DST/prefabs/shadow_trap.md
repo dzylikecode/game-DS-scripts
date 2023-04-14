@@ -1,2 +1,2 @@
-# shadow_trap.md
+# shadow_trap.lua
 

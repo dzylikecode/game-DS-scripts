@@ -1,2 +1,2 @@
-# worldcustomizationlist.md
+# worldcustomizationlist.lua
 

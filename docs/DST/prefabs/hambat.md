@@ -1,2 +1,2 @@
-# hambat.md
+# hambat.lua
 

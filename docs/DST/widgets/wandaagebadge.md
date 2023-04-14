@@ -1,2 +1,2 @@
-# wandaagebadge.md
+# wandaagebadge.lua
 

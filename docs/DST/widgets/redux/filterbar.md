@@ -1,2 +1,2 @@
-# filterbar.md
+# filterbar.lua
 

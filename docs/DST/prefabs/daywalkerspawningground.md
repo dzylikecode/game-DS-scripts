@@ -1,2 +1,2 @@
-# daywalkerspawningground.md
+# daywalkerspawningground.lua
 

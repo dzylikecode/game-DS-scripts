@@ -1,2 +1,2 @@
-# SGcarnivalgame_shooting_button.md
+# SGcarnivalgame_shooting_button.lua
 

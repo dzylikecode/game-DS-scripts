@@ -1,2 +1,2 @@
-# deathscreen.md
+# deathscreen.lua
 

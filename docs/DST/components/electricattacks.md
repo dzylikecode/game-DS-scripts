@@ -1,2 +1,2 @@
-# electricattacks.md
+# electricattacks.lua
 

@@ -1,2 +1,2 @@
-# periodicthreat.md
+# periodicthreat.lua
 

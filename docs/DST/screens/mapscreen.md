@@ -1,2 +1,2 @@
-# mapscreen.md
+# mapscreen.lua
 

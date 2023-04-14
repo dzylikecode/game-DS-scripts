@@ -1,2 +1,2 @@
-# wortox.md
+# wortox.lua
 

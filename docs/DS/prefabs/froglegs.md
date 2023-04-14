@@ -1,2 +1,2 @@
-# froglegs.md
+# froglegs.lua
 

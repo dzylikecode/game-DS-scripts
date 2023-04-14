@@ -1,2 +1,2 @@
-# profiler.md
+# profiler.lua
 

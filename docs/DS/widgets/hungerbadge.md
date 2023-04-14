@@ -1,2 +1,2 @@
-# hungerbadge.md
+# hungerbadge.lua
 

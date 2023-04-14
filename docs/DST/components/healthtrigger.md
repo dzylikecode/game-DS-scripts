@@ -1,2 +1,2 @@
-# healthtrigger.md
+# healthtrigger.lua
 

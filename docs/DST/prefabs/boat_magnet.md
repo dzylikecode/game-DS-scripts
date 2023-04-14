@@ -1,2 +1,2 @@
-# boat_magnet.md
+# boat_magnet.lua
 

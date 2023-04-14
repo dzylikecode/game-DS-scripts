@@ -1,2 +1,2 @@
-# yotb_placer_common.md
+# yotb_placer_common.lua
 

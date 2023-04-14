@@ -1,2 +1,2 @@
-# loadersexplorerpanel.md
+# loadersexplorerpanel.lua
 

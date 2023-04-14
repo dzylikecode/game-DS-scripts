@@ -1,2 +1,2 @@
-# wax.md
+# wax.lua
 

@@ -1,2 +1,2 @@
-# SGlightflier.md
+# SGlightflier.lua
 

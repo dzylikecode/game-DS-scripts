@@ -1,2 +1,2 @@
-# forestpetrification.md
+# forestpetrification.lua
 

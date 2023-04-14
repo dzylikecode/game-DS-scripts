@@ -1,2 +1,2 @@
-# waterprojectiles.md
+# waterprojectiles.lua
 

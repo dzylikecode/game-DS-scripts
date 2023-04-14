@@ -1,2 +1,2 @@
-# plantregrowth.md
+# plantregrowth.lua
 

@@ -1,2 +1,2 @@
-# pointsofinterest.md
+# pointsofinterest.lua
 

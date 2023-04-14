@@ -1,2 +1,2 @@
-# tentaclespike.md
+# tentaclespike.lua
 

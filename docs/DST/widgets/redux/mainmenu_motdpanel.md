@@ -1,2 +1,2 @@
-# mainmenu_motdpanel.md
+# mainmenu_motdpanel.lua
 

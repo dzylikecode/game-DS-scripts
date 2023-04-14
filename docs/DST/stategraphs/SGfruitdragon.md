@@ -1,2 +1,2 @@
-# SGfruitdragon.md
+# SGfruitdragon.lua
 

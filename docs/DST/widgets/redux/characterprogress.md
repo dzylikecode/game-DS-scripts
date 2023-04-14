@@ -1,2 +1,2 @@
-# characterprogress.md
+# characterprogress.lua
 

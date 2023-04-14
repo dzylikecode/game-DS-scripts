@@ -1,2 +1,2 @@
-# torchfire_pillar.md
+# torchfire_pillar.lua
 

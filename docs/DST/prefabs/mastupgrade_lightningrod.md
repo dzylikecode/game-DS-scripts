@@ -1,2 +1,2 @@
-# mastupgrade_lightningrod.md
+# mastupgrade_lightningrod.lua
 

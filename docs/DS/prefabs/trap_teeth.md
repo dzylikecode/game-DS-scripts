@@ -1,2 +1,2 @@
-# trap_teeth.md
+# trap_teeth.lua
 

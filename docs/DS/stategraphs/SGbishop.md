@@ -1,2 +1,2 @@
-# SGbishop.md
+# SGbishop.lua
 

@@ -1,2 +1,2 @@
-# shadowcreaturespawner.md
+# shadowcreaturespawner.lua
 

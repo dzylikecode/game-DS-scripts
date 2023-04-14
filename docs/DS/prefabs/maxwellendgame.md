@@ -1,2 +1,2 @@
-# maxwellendgame.md
+# maxwellendgame.lua
 

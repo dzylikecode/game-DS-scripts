@@ -1,2 +1,2 @@
-# bishopbrain.md
+# bishopbrain.lua
 

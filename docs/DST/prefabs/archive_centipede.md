@@ -1,2 +1,2 @@
-# archive_centipede.md
+# archive_centipede.lua
 

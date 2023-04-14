@@ -1,2 +1,2 @@
-# consolehistorywidget.md
+# consolehistorywidget.lua
 

@@ -1,2 +1,2 @@
-# papereraser.md
+# papereraser.lua
 

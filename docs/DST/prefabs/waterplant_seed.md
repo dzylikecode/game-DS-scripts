@@ -1,2 +1,2 @@
-# waterplant_seed.md
+# waterplant_seed.lua
 

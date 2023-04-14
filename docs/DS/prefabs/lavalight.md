@@ -1,2 +1,2 @@
-# lavalight.md
+# lavalight.lua
 

@@ -1,2 +1,2 @@
-# halloweenpotion_embers.md
+# halloweenpotion_embers.lua
 

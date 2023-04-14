@@ -1,2 +1,2 @@
-# fuelmaster.md
+# fuelmaster.lua
 

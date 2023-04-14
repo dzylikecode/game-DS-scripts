@@ -1,2 +1,2 @@
-# fungusnoise.md
+# fungusnoise.lua
 

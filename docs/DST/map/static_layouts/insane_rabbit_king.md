@@ -1,2 +1,2 @@
-# insane_rabbit_king.md
+# insane_rabbit_king.lua
 

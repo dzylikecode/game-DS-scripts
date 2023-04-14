@@ -1,2 +1,2 @@
-# skeletonsweeper.md
+# skeletonsweeper.lua
 

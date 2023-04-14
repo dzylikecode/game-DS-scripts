@@ -1,2 +1,2 @@
-# default_pigking.md
+# default_pigking.lua
 

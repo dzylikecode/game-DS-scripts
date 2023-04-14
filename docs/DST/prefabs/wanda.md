@@ -1,2 +1,2 @@
-# wanda.md
+# wanda.lua
 

@@ -1,2 +1,2 @@
-# SGfrog.md
+# SGfrog.lua
 

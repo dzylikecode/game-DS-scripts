@@ -1,2 +1,2 @@
-# anim_test.md
+# anim_test.lua
 

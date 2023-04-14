@@ -1,2 +1,2 @@
-# tallbird_blocker.md
+# tallbird_blocker.lua
 

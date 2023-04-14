@@ -1,2 +1,2 @@
-# SGspore.md
+# SGspore.lua
 

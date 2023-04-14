@@ -1,2 +1,2 @@
-# SGshadowcreature.md
+# SGshadowcreature.lua
 

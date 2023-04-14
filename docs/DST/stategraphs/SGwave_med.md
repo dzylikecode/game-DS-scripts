@@ -1,2 +1,2 @@
-# SGwave_med.md
+# SGwave_med.lua
 

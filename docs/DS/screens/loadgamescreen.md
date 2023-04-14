@@ -1,2 +1,2 @@
-# loadgamescreen.md
+# loadgamescreen.lua
 

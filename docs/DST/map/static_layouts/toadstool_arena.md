@@ -1,2 +1,2 @@
-# toadstool_arena.md
+# toadstool_arena.lua
 

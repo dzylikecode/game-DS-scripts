@@ -1,2 +1,2 @@
-# minionspawner.md
+# minionspawner.lua
 

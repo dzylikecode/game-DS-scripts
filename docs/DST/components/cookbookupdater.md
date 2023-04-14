@@ -1,2 +1,2 @@
-# cookbookupdater.md
+# cookbookupdater.lua
 

@@ -1,2 +1,2 @@
-# customizationscreen.md
+# customizationscreen.lua
 

@@ -1,2 +1,2 @@
-# SGthumper.md
+# SGthumper.lua
 

@@ -1,2 +1,2 @@
-# minotaurbrain.md
+# minotaurbrain.lua
 

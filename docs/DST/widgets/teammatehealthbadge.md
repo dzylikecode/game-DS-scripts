@@ -1,2 +1,2 @@
-# teammatehealthbadge.md
+# teammatehealthbadge.lua
 

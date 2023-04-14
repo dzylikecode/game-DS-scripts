@@ -1,2 +1,2 @@
-# sunderarmordebuff.md
+# sunderarmordebuff.lua
 

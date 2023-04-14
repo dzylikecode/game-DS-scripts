@@ -1,2 +1,2 @@
-# spawner.md
+# spawner.lua
 

@@ -1,2 +1,2 @@
-# fishingnet.md
+# fishingnet.lua
 

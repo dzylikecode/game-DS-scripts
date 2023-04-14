@@ -1,2 +1,2 @@
-# wordpredictionwidget.md
+# wordpredictionwidget.lua
 

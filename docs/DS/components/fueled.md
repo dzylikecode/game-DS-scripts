@@ -1,2 +1,2 @@
-# fueled.md
+# fueled.lua
 

@@ -1,2 +1,2 @@
-# flint.md
+# flint.lua
 

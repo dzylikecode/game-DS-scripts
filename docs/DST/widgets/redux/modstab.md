@@ -1,2 +1,2 @@
-# modstab.md
+# modstab.lua
 

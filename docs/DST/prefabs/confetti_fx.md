@@ -1,2 +1,2 @@
-# confetti_fx.md
+# confetti_fx.lua
 

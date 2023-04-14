@@ -1,2 +1,2 @@
-# SGcritter_perdling.md
+# SGcritter_perdling.lua
 

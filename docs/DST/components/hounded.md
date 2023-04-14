@@ -1,2 +1,2 @@
-# hounded.md
+# hounded.lua
 

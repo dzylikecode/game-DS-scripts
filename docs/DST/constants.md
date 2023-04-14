@@ -1,2 +1,2 @@
-# constants.md
+# constants.lua
 

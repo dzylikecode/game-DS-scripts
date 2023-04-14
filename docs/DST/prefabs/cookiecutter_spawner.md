@@ -1,2 +1,2 @@
-# cookiecutter_spawner.md
+# cookiecutter_spawner.lua
 

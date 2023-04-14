@@ -1,2 +1,2 @@
-# pigtown.md
+# pigtown.lua
 

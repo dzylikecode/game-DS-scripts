@@ -1,2 +1,2 @@
-# cookiecuttershell.md
+# cookiecuttershell.lua
 

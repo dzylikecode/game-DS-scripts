@@ -1,2 +1,2 @@
-# bunnyman.md
+# bunnyman.lua
 

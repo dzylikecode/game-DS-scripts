@@ -1,2 +1,2 @@
-# walter.md
+# walter.lua
 

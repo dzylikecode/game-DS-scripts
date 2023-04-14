@@ -1,2 +1,2 @@
-# scripterrorscreen.md
+# scripterrorscreen.lua
 

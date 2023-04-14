@@ -1,2 +1,2 @@
-# houndbone.md
+# houndbone.lua
 

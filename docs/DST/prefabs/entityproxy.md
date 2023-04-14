@@ -1,2 +1,2 @@
-# entityproxy.md
+# entityproxy.lua
 

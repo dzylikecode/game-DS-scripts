@@ -1,2 +1,2 @@
-# tentacle_arm.md
+# tentacle_arm.lua
 

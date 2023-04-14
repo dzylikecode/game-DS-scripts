@@ -1,2 +1,2 @@
-# wes.md
+# wes.lua
 

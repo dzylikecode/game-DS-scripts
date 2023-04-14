@@ -1,2 +1,2 @@
-# pirate_stash.md
+# pirate_stash.lua
 

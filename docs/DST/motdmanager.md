@@ -1,2 +1,2 @@
-# motdmanager.md
+# motdmanager.lua
 

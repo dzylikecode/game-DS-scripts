@@ -1,2 +1,2 @@
-# townportalregistry.md
+# townportalregistry.lua
 

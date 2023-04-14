@@ -1,2 +1,2 @@
-# yotr_fightring.md
+# yotr_fightring.lua
 

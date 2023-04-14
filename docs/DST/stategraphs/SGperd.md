@@ -1,2 +1,2 @@
-# SGperd.md
+# SGperd.lua
 

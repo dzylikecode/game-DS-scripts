@@ -1,2 +1,2 @@
-# transparentonsanity.md
+# transparentonsanity.lua
 

@@ -1,2 +1,2 @@
-# wallupdater.md
+# wallupdater.lua
 

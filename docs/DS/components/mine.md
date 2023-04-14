@@ -1,2 +1,2 @@
-# mine.md
+# mine.lua
 

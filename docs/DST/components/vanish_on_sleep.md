@@ -1,2 +1,2 @@
-# vanish_on_sleep.md
+# vanish_on_sleep.lua
 

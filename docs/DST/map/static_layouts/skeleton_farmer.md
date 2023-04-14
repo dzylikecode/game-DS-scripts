@@ -1,2 +1,2 @@
-# skeleton_farmer.md
+# skeleton_farmer.lua
 

@@ -1,2 +1,2 @@
-# penguinherd.md
+# penguinherd.lua
 

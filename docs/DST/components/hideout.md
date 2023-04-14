@@ -1,2 +1,2 @@
-# hideout.md
+# hideout.lua
 

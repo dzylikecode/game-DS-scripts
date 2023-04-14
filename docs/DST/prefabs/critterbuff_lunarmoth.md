@@ -1,2 +1,2 @@
-# critterbuff_lunarmoth.md
+# critterbuff_lunarmoth.lua
 

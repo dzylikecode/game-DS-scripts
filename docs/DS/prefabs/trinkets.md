@@ -1,2 +1,2 @@
-# trinkets.md
+# trinkets.lua
 

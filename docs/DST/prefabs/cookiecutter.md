@@ -1,2 +1,2 @@
-# cookiecutter.md
+# cookiecutter.lua
 

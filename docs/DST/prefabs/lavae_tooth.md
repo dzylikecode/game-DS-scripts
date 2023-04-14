@@ -1,2 +1,2 @@
-# lavae_tooth.md
+# lavae_tooth.lua
 

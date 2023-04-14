@@ -1,2 +1,2 @@
-# speech_wanda.md
+# speech_wanda.lua
 

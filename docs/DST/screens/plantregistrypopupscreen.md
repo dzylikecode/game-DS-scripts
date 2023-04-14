@@ -1,2 +1,2 @@
-# plantregistrypopupscreen.md
+# plantregistrypopupscreen.lua
 

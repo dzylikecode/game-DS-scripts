@@ -1,2 +1,2 @@
-# beardsexplorerpanel.md
+# beardsexplorerpanel.lua
 

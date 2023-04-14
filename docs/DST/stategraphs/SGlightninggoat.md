@@ -1,2 +1,2 @@
-# SGlightninggoat.md
+# SGlightninggoat.lua
 

@@ -1,2 +1,2 @@
-# specialeventsetup.md
+# specialeventsetup.lua
 

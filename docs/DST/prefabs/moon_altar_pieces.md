@@ -1,2 +1,2 @@
-# moon_altar_pieces.md
+# moon_altar_pieces.lua
 

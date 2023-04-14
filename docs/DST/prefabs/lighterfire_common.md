@@ -1,2 +1,2 @@
-# lighterfire_common.md
+# lighterfire_common.lua
 

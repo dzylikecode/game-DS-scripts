@@ -1,2 +1,2 @@
-# ivy_snare.md
+# ivy_snare.lua
 

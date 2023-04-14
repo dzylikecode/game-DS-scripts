@@ -1,2 +1,2 @@
-# characterbio.md
+# characterbio.lua
 

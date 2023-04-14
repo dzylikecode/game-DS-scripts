@@ -1,2 +1,2 @@
-# inkover_splat.md
+# inkover_splat.lua
 

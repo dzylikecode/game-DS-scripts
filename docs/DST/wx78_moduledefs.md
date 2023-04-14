@@ -1,2 +1,2 @@
-# wx78_moduledefs.md
+# wx78_moduledefs.lua
 

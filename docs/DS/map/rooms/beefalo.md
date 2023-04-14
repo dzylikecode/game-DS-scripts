@@ -1,2 +1,2 @@
-# beefalo.md
+# beefalo.lua
 

@@ -1,2 +1,2 @@
-# SGmoonspore.md
+# SGmoonspore.lua
 

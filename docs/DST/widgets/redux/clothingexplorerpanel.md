@@ -1,2 +1,2 @@
-# clothingexplorerpanel.md
+# clothingexplorerpanel.lua
 

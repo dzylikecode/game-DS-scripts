@@ -1,2 +1,2 @@
-# resurrectionstatue.md
+# resurrectionstatue.lua
 

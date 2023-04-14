@@ -1,2 +1,2 @@
-# maxlightspawner.md
+# maxlightspawner.lua
 

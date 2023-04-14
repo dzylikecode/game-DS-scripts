@@ -1,2 +1,2 @@
-# DLC001_prefab_files.md
+# DLC001_prefab_files.lua
 

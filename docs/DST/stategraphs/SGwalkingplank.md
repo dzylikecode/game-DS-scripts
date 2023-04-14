@@ -1,2 +1,2 @@
-# SGwalkingplank.md
+# SGwalkingplank.lua
 

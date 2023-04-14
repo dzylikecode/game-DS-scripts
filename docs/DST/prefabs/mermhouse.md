@@ -1,2 +1,2 @@
-# mermhouse.md
+# mermhouse.lua
 

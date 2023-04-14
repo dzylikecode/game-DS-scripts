@@ -1,2 +1,2 @@
-# birdinteractscreen.md
+# birdinteractscreen.lua
 

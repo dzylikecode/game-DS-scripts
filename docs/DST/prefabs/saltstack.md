@@ -1,2 +1,2 @@
-# saltstack.md
+# saltstack.lua
 

@@ -1,2 +1,2 @@
-# lavaarena.md
+# lavaarena.lua
 

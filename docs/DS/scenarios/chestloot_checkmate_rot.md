@@ -1,2 +1,2 @@
-# chestloot_checkmate_rot.md
+# chestloot_checkmate_rot.lua
 

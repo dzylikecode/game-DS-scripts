@@ -1,2 +1,2 @@
-# snowbirdgamescreen.md
+# snowbirdgamescreen.lua
 

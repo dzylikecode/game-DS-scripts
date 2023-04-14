@@ -1,2 +1,2 @@
-# createstringspo_dlc.md
+# createstringspo_dlc.lua
 

@@ -1,2 +1,2 @@
-# explode_small.md
+# explode_small.lua
 

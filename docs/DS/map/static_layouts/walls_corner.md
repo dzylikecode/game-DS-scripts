@@ -1,2 +1,2 @@
-# walls_corner.md
+# walls_corner.lua
 

@@ -1,2 +1,2 @@
-# loadoutselect_beefalo.md
+# loadoutselect_beefalo.lua
 

@@ -1,2 +1,2 @@
-# carnival_prizeticket.md
+# carnival_prizeticket.lua
 

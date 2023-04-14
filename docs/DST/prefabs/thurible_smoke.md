@@ -1,2 +1,2 @@
-# thurible_smoke.md
+# thurible_smoke.lua
 

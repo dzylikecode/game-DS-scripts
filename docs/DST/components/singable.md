@@ -1,2 +1,2 @@
-# singable.md
+# singable.lua
 

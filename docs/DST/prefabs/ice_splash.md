@@ -1,2 +1,2 @@
-# ice_splash.md
+# ice_splash.lua
 

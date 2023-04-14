@@ -1,2 +1,2 @@
-# farm_plant_defs.md
+# farm_plant_defs.lua
 

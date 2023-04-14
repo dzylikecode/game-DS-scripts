@@ -1,2 +1,2 @@
-# flotsamgenerator.md
+# flotsamgenerator.lua
 

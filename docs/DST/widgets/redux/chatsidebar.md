@@ -1,2 +1,2 @@
-# chatsidebar.md
+# chatsidebar.lua
 

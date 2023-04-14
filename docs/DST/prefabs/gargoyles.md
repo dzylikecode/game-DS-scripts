@@ -1,2 +1,2 @@
-# gargoyles.md
+# gargoyles.lua
 

@@ -1,2 +1,2 @@
-# hats_lavaarena.md
+# hats_lavaarena.lua
 

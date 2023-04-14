@@ -1,2 +1,2 @@
-# characterloadoutpopup.md
+# characterloadoutpopup.lua
 

@@ -1,2 +1,2 @@
-# researchpointconverter.md
+# researchpointconverter.lua
 

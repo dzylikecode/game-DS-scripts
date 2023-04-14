@@ -1,2 +1,2 @@
-# crabking.md
+# crabking.lua
 

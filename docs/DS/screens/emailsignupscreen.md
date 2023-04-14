@@ -1,2 +1,2 @@
-# emailsignupscreen.md
+# emailsignupscreen.lua
 

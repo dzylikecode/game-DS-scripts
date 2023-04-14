@@ -1,2 +1,2 @@
-# skinsutils.md
+# skinsutils.lua
 

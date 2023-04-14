@@ -1,2 +1,2 @@
-# controls.md
+# controls.lua
 

@@ -1,2 +1,2 @@
-# lighting.md
+# lighting.lua
 

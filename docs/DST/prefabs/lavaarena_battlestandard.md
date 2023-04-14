@@ -1,2 +1,2 @@
-# lavaarena_battlestandard.md
+# lavaarena_battlestandard.lua
 

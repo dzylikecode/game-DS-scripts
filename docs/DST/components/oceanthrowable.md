@@ -1,2 +1,2 @@
-# oceanthrowable.md
+# oceanthrowable.lua
 

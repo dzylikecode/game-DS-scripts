@@ -1,2 +1,2 @@
-# quagmire_spiceshrub.md
+# quagmire_spiceshrub.lua
 

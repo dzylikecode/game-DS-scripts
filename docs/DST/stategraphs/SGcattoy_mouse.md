@@ -1,2 +1,2 @@
-# SGcattoy_mouse.md
+# SGcattoy_mouse.lua
 

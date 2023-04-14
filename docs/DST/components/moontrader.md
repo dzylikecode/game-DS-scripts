@@ -1,2 +1,2 @@
-# moontrader.md
+# moontrader.lua
 

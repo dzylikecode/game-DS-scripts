@@ -1,2 +1,2 @@
-# amulet.md
+# amulet.lua
 

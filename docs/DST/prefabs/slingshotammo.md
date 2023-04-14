@@ -1,2 +1,2 @@
-# slingshotammo.md
+# slingshotammo.lua
 

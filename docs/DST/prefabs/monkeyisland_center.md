@@ -1,2 +1,2 @@
-# monkeyisland_center.md
+# monkeyisland_center.lua
 

@@ -1,2 +1,2 @@
-# lava_arena.md
+# lava_arena.lua
 

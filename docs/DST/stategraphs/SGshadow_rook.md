@@ -1,2 +1,2 @@
-# SGshadow_rook.md
+# SGshadow_rook.lua
 

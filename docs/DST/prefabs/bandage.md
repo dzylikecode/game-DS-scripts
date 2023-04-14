@@ -1,2 +1,2 @@
-# bandage.md
+# bandage.lua
 

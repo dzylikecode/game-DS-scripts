@@ -1,2 +1,2 @@
-# SGboatcannon.md
+# SGboatcannon.lua
 

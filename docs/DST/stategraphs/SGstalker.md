@@ -1,2 +1,2 @@
-# SGstalker.md
+# SGstalker.lua
 

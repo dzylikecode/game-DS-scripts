@@ -1,2 +1,2 @@
-# symbolswapdata.md
+# symbolswapdata.lua
 

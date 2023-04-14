@@ -1,2 +1,2 @@
-# snapdragonbrain.md
+# snapdragonbrain.lua
 

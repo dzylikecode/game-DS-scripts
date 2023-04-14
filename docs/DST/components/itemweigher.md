@@ -1,2 +1,2 @@
-# itemweigher.md
+# itemweigher.lua
 

@@ -1,2 +1,2 @@
-# minisign.md
+# minisign.lua
 

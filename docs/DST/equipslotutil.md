@@ -1,2 +1,2 @@
-# equipslotutil.md
+# equipslotutil.lua
 

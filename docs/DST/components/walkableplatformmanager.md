@@ -1,2 +1,2 @@
-# walkableplatformmanager.md
+# walkableplatformmanager.lua
 

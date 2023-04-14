@@ -1,2 +1,2 @@
-# resurrectable.md
+# resurrectable.lua
 

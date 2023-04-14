@@ -1,2 +1,2 @@
-# sentryward.md
+# sentryward.lua
 

@@ -1,2 +1,2 @@
-# placer.md
+# placer.lua
 

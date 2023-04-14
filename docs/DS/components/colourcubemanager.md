@@ -1,2 +1,2 @@
-# colourcubemanager.md
+# colourcubemanager.lua
 

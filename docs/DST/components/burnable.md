@@ -1,2 +1,2 @@
-# burnable.md
+# burnable.lua
 

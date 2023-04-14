@@ -1,2 +1,2 @@
-# pickable.md
+# pickable.lua
 

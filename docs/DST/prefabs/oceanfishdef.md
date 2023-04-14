@@ -1,2 +1,2 @@
-# oceanfishdef.md
+# oceanfishdef.lua
 

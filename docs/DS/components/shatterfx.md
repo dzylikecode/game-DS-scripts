@@ -1,2 +1,2 @@
-# shatterfx.md
+# shatterfx.lua
 

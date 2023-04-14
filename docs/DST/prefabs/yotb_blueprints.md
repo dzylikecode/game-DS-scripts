@@ -1,2 +1,2 @@
-# yotb_blueprints.md
+# yotb_blueprints.lua
 

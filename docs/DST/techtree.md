@@ -1,2 +1,2 @@
-# techtree.md
+# techtree.lua
 

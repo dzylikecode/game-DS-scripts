@@ -1,2 +1,2 @@
-# npc_talker.md
+# npc_talker.lua
 

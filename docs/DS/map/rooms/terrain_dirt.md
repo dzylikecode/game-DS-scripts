@@ -1,2 +1,2 @@
-# terrain_dirt.md
+# terrain_dirt.lua
 

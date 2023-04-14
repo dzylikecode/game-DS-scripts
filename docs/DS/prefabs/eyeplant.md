@@ -1,2 +1,2 @@
-# eyeplant.md
+# eyeplant.lua
 

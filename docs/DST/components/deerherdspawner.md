@@ -1,2 +1,2 @@
-# deerherdspawner.md
+# deerherdspawner.lua
 

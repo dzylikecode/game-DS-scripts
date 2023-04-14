@@ -1,2 +1,2 @@
-# grassgator.md
+# grassgator.lua
 

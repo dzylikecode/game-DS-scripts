@@ -1,2 +1,2 @@
-# kitcoonpuppet.md
+# kitcoonpuppet.lua
 

@@ -1,2 +1,2 @@
-# ruin.md
+# ruin.lua
 

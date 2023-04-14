@@ -1,2 +1,2 @@
-# winona_catapult_projectile.md
+# winona_catapult_projectile.lua
 

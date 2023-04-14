@@ -1,2 +1,2 @@
-# obituariespanel.md
+# obituariespanel.lua
 

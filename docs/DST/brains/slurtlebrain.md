@@ -1,2 +1,2 @@
-# slurtlebrain.md
+# slurtlebrain.lua
 

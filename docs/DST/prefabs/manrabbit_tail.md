@@ -1,2 +1,2 @@
-# manrabbit_tail.md
+# manrabbit_tail.lua
 

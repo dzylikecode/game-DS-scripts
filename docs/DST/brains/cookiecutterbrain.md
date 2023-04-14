@@ -1,2 +1,2 @@
-# cookiecutterbrain.md
+# cookiecutterbrain.lua
 

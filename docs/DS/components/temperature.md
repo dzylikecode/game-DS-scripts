@@ -1,2 +1,2 @@
-# temperature.md
+# temperature.lua
 

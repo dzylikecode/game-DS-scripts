@@ -1,2 +1,2 @@
-# SGcookiecutter.md
+# SGcookiecutter.lua
 

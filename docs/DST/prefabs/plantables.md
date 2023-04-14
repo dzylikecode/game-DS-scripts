@@ -1,2 +1,2 @@
-# plantables.md
+# plantables.lua
 

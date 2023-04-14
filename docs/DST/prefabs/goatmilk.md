@@ -1,2 +1,2 @@
-# goatmilk.md
+# goatmilk.lua
 

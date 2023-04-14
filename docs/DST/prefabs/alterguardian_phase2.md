@@ -1,2 +1,2 @@
-# alterguardian_phase2.md
+# alterguardian_phase2.lua
 

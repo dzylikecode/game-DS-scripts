@@ -1,2 +1,2 @@
-# seastack.md
+# seastack.lua
 

@@ -1,2 +1,2 @@
-# SGcentipede.md
+# SGcentipede.lua
 

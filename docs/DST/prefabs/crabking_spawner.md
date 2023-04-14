@@ -1,2 +1,2 @@
-# crabking_spawner.md
+# crabking_spawner.lua
 

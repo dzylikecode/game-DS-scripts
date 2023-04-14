@@ -1,2 +1,2 @@
-# primemate.md
+# primemate.lua
 

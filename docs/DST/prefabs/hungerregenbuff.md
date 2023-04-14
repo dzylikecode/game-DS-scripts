@@ -1,2 +1,2 @@
-# hungerregenbuff.md
+# hungerregenbuff.lua
 

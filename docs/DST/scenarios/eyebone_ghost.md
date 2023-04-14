@@ -1,2 +1,2 @@
-# eyebone_ghost.md
+# eyebone_ghost.lua
 

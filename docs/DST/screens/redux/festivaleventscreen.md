@@ -1,2 +1,2 @@
-# festivaleventscreen.md
+# festivaleventscreen.lua
 

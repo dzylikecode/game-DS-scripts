@@ -1,2 +1,2 @@
-# votedialog.md
+# votedialog.lua
 

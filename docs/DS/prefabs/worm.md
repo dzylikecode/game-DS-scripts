@@ -1,2 +1,2 @@
-# worm.md
+# worm.lua
 

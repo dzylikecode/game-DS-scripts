@@ -1,2 +1,2 @@
-# pethealthbar.md
+# pethealthbar.lua
 

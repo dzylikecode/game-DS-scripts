@@ -1,2 +1,2 @@
-# SGboatmagnet.md
+# SGboatmagnet.lua
 

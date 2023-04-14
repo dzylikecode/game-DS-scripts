@@ -1,2 +1,2 @@
-# carnivalgameitem.md
+# carnivalgameitem.lua
 

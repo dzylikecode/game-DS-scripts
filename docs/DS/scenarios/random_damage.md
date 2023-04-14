@@ -1,2 +1,2 @@
-# random_damage.md
+# random_damage.lua
 

@@ -1,2 +1,2 @@
-# skinner.md
+# skinner.lua
 

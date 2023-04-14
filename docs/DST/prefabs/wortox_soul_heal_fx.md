@@ -1,2 +1,2 @@
-# wortox_soul_heal_fx.md
+# wortox_soul_heal_fx.lua
 

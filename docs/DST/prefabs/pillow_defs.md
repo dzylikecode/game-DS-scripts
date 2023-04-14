@@ -1,2 +1,2 @@
-# pillow_defs.md
+# pillow_defs.lua
 

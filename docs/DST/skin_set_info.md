@@ -1,2 +1,2 @@
-# skin_set_info.md
+# skin_set_info.lua
 

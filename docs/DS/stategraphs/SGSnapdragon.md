@@ -1,2 +1,2 @@
-# SGSnapdragon.md
+# SGSnapdragon.lua
 

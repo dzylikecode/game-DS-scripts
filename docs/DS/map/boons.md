@@ -1,2 +1,2 @@
-# boons.md
+# boons.lua
 

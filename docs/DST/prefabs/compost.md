@@ -1,2 +1,2 @@
-# compost.md
+# compost.lua
 

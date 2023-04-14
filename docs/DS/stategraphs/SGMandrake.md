@@ -1,2 +1,2 @@
-# SGMandrake.md
+# SGMandrake.lua
 

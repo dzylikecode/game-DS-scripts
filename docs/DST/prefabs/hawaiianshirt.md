@@ -1,2 +1,2 @@
-# hawaiianshirt.md
+# hawaiianshirt.lua
 

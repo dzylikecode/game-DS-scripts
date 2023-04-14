@@ -1,2 +1,2 @@
-# burnable_locator_medium.md
+# burnable_locator_medium.lua
 

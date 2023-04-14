@@ -1,2 +1,2 @@
-# shard_worldreset.md
+# shard_worldreset.lua
 

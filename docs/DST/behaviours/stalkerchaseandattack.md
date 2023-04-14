@@ -1,2 +1,2 @@
-# stalkerchaseandattack.md
+# stalkerchaseandattack.lua
 

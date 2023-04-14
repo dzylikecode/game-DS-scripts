@@ -1,2 +1,2 @@
-# viewcustomizationmodalscreen.md
+# viewcustomizationmodalscreen.lua
 

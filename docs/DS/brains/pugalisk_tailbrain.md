@@ -1,2 +1,2 @@
-# pugalisk_tailbrain.md
+# pugalisk_tailbrain.lua
 

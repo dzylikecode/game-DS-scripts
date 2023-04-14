@@ -1,2 +1,2 @@
-# wateringcan.md
+# wateringcan.lua
 

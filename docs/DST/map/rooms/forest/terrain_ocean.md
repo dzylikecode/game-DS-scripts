@@ -1,2 +1,2 @@
-# terrain_ocean.md
+# terrain_ocean.lua
 

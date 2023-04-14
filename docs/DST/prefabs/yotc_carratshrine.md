@@ -1,2 +1,2 @@
-# yotc_carratshrine.md
+# yotc_carratshrine.lua
 

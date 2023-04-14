@@ -1,2 +1,2 @@
-# terrain_grass.md
+# terrain_grass.lua
 

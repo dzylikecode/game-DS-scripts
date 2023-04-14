@@ -1,2 +1,2 @@
-# SGbuzzard.md
+# SGbuzzard.lua
 

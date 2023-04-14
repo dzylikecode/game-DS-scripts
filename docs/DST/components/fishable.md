@@ -1,2 +1,2 @@
-# fishable.md
+# fishable.lua
 

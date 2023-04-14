@@ -1,2 +1,2 @@
-# cutlichen.md
+# cutlichen.lua
 

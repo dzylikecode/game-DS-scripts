@@ -1,2 +1,2 @@
-# ocean_trawler.md
+# ocean_trawler.lua
 

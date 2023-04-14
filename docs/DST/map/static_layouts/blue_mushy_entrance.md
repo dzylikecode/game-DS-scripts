@@ -1,2 +1,2 @@
-# blue_mushy_entrance.md
+# blue_mushy_entrance.lua
 

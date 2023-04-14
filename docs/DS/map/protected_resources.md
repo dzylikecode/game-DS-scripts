@@ -1,2 +1,2 @@
-# protected_resources.md
+# protected_resources.lua
 

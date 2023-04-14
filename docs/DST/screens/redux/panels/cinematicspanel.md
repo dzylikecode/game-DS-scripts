@@ -1,2 +1,2 @@
-# cinematicspanel.md
+# cinematicspanel.lua
 

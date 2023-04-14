@@ -1,2 +1,2 @@
-# metaclass.md
+# metaclass.lua
 

@@ -1,2 +1,2 @@
-# mushroom_light.md
+# mushroom_light.lua
 

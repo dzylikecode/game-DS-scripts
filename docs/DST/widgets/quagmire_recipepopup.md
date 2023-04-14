@@ -1,2 +1,2 @@
-# quagmire_recipepopup.md
+# quagmire_recipepopup.lua
 

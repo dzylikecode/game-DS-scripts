@@ -1,2 +1,2 @@
-# itemboxpreviewer.md
+# itemboxpreviewer.lua
 

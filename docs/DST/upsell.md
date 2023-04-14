@@ -1,2 +1,2 @@
-# upsell.md
+# upsell.lua
 

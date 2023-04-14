@@ -1,2 +1,2 @@
-# quagmire_hangriness.md
+# quagmire_hangriness.lua
 

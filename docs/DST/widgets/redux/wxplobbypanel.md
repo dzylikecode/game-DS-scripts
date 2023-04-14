@@ -1,2 +1,2 @@
-# wxplobbypanel.md
+# wxplobbypanel.lua
 

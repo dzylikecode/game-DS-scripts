@@ -1,2 +1,2 @@
-# cookbookpanel.md
+# cookbookpanel.lua
 

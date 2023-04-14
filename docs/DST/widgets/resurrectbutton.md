@@ -1,2 +1,2 @@
-# resurrectbutton.md
+# resurrectbutton.lua
 

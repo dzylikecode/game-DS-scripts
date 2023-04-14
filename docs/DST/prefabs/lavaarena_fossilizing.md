@@ -1,2 +1,2 @@
-# lavaarena_fossilizing.md
+# lavaarena_fossilizing.lua
 

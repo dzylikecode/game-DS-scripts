@@ -1,2 +1,2 @@
-# SGRo_Bin.md
+# SGRo_Bin.lua
 

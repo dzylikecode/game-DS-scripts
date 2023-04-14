@@ -1,2 +1,2 @@
-# rainometer.md
+# rainometer.lua
 

@@ -1,2 +1,2 @@
-# wortox_soul_spawn.md
+# wortox_soul_spawn.lua
 

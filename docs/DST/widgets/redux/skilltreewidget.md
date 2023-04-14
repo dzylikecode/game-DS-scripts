@@ -1,2 +1,2 @@
-# skilltreewidget.md
+# skilltreewidget.lua
 

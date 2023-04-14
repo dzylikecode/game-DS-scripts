@@ -1,2 +1,2 @@
-# quagmire_grill.md
+# quagmire_grill.lua
 

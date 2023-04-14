@@ -1,2 +1,2 @@
-# stafflight.md
+# stafflight.lua
 

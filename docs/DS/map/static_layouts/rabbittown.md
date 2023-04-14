@@ -1,2 +1,2 @@
-# rabbittown.md
+# rabbittown.lua
 

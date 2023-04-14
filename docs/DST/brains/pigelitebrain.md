@@ -1,2 +1,2 @@
-# pigelitebrain.md
+# pigelitebrain.lua
 

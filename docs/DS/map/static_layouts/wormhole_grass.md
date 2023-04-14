@@ -1,2 +1,2 @@
-# wormhole_grass.md
+# wormhole_grass.lua
 

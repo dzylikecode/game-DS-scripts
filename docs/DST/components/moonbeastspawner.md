@@ -1,2 +1,2 @@
-# moonbeastspawner.md
+# moonbeastspawner.lua
 

@@ -1,2 +1,2 @@
-# bait.md
+# bait.lua
 

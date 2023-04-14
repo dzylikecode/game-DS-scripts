@@ -1,2 +1,2 @@
-# splitscreenutils_pc.md
+# splitscreenutils_pc.lua
 

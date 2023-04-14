@@ -1,2 +1,2 @@
-# rampingspawner.md
+# rampingspawner.lua
 

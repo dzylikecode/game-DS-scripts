@@ -1,2 +1,2 @@
-# fruitdragon.md
+# fruitdragon.lua
 

@@ -1,2 +1,2 @@
-# reskin_tool.md
+# reskin_tool.lua
 

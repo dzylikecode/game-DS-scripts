@@ -1,2 +1,2 @@
-# SGantlion.md
+# SGantlion.lua
 

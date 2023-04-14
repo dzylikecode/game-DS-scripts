@@ -1,2 +1,2 @@
-# statue_enemywave.md
+# statue_enemywave.lua
 

@@ -1,2 +1,2 @@
-# hiddendanger.md
+# hiddendanger.lua
 

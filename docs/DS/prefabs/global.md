@@ -1,2 +1,2 @@
-# global.md
+# global.lua
 

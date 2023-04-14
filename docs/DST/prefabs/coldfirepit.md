@@ -1,2 +1,2 @@
-# coldfirepit.md
+# coldfirepit.lua
 

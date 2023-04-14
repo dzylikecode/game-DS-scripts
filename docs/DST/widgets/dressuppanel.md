@@ -1,2 +1,2 @@
-# dressuppanel.md
+# dressuppanel.lua
 

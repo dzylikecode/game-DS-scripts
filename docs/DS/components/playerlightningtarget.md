@@ -1,2 +1,2 @@
-# playerlightningtarget.md
+# playerlightningtarget.lua
 

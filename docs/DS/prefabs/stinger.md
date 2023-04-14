@@ -1,2 +1,2 @@
-# stinger.md
+# stinger.lua
 

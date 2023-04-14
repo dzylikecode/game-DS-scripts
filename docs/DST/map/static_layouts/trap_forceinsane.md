@@ -1,2 +1,2 @@
-# trap_forceinsane.md
+# trap_forceinsane.lua
 

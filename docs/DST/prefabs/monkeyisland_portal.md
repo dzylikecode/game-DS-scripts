@@ -1,2 +1,2 @@
-# monkeyisland_portal.md
+# monkeyisland_portal.lua
 

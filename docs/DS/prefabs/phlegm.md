@@ -1,2 +1,2 @@
-# phlegm.md
+# phlegm.lua
 

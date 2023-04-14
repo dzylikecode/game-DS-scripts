@@ -1,2 +1,2 @@
-# stairs.md
+# stairs.lua
 

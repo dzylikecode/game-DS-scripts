@@ -1,2 +1,2 @@
-# seedpouch.md
+# seedpouch.lua
 

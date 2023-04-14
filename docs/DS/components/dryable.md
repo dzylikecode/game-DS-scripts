@@ -1,2 +1,2 @@
-# dryable.md
+# dryable.lua
 

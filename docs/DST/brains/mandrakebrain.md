@@ -1,2 +1,2 @@
-# mandrakebrain.md
+# mandrakebrain.lua
 

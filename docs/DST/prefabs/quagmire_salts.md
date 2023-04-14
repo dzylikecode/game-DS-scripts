@@ -1,2 +1,2 @@
-# quagmire_salts.md
+# quagmire_salts.lua
 

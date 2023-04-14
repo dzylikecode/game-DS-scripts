@@ -1,2 +1,2 @@
-# SGpigelite.md
+# SGpigelite.lua
 

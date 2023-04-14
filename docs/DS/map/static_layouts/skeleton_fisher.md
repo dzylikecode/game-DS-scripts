@@ -1,2 +1,2 @@
-# skeleton_fisher.md
+# skeleton_fisher.lua
 

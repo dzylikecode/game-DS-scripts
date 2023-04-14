@@ -1,2 +1,2 @@
-# walkableplatform.md
+# walkableplatform.lua
 

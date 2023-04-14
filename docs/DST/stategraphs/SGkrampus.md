@@ -1,2 +1,2 @@
-# SGkrampus.md
+# SGkrampus.lua
 

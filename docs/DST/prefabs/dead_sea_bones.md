@@ -1,2 +1,2 @@
-# dead_sea_bones.md
+# dead_sea_bones.lua
 

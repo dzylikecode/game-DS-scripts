@@ -1,2 +1,2 @@
-# antlion_sinkhole.md
+# antlion_sinkhole.lua
 

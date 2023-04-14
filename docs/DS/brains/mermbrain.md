@@ -1,2 +1,2 @@
-# mermbrain.md
+# mermbrain.lua
 

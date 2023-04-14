@@ -1,2 +1,2 @@
-# lootdropper.md
+# lootdropper.lua
 

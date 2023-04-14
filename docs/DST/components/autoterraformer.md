@@ -1,2 +1,2 @@
-# autoterraformer.md
+# autoterraformer.lua
 

@@ -1,2 +1,2 @@
-# sacred_chest.md
+# sacred_chest.lua
 

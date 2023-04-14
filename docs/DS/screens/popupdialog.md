@@ -1,2 +1,2 @@
-# popupdialog.md
+# popupdialog.lua
 

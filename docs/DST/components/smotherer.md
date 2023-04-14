@@ -1,2 +1,2 @@
-# smotherer.md
+# smotherer.lua
 

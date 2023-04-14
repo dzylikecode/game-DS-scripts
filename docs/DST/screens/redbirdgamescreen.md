@@ -1,2 +1,2 @@
-# redbirdgamescreen.md
+# redbirdgamescreen.lua
 

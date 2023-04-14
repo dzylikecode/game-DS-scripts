@@ -1,2 +1,2 @@
-# warly.md
+# warly.lua
 

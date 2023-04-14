@@ -1,2 +1,2 @@
-# inkover.md
+# inkover.lua
 

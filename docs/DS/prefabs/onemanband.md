@@ -1,2 +1,2 @@
-# onemanband.md
+# onemanband.lua
 

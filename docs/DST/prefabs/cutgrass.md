@@ -1,2 +1,2 @@
-# cutgrass.md
+# cutgrass.lua
 

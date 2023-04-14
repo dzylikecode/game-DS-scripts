@@ -1,2 +1,2 @@
-# timer.md
+# timer.lua
 

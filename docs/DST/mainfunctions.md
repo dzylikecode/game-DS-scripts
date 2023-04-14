@@ -1,2 +1,2 @@
-# mainfunctions.md
+# mainfunctions.lua
 

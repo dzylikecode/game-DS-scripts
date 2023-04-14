@@ -1,2 +1,2 @@
-# crittersbrain.md
+# crittersbrain.lua
 

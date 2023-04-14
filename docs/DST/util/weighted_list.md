@@ -1,2 +1,2 @@
-# weighted_list.md
+# weighted_list.lua
 

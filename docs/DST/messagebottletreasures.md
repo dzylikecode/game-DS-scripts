@@ -1,2 +1,2 @@
-# messagebottletreasures.md
+# messagebottletreasures.lua
 

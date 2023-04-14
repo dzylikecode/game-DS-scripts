@@ -1,2 +1,2 @@
-# fertilizable.md
+# fertilizable.lua
 

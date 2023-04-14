@@ -1,2 +1,2 @@
-# skilltreeupdater.md
+# skilltreeupdater.lua
 

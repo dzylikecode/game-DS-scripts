@@ -1,2 +1,2 @@
-# globalvariableoverrides.md
+# globalvariableoverrides.lua
 

@@ -1,2 +1,2 @@
-# ocean_gen_config.md
+# ocean_gen_config.lua
 

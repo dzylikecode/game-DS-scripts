@@ -1,2 +1,2 @@
-# modslistpopup.md
+# modslistpopup.lua
 

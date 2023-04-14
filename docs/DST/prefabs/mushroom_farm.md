@@ -1,2 +1,2 @@
-# mushroom_farm.md
+# mushroom_farm.lua
 

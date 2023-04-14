@@ -1,2 +1,2 @@
-# wurt.md
+# wurt.lua
 

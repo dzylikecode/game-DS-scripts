@@ -1,2 +1,2 @@
-# armor_dreadstone.md
+# armor_dreadstone.lua
 

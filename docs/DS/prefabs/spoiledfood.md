@@ -1,2 +1,2 @@
-# spoiledfood.md
+# spoiledfood.lua
 

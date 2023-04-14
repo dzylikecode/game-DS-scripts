@@ -1,2 +1,2 @@
-# hudindicatable.md
+# hudindicatable.lua
 

@@ -1,2 +1,2 @@
-# wagstaff_npc.md
+# wagstaff_npc.lua
 

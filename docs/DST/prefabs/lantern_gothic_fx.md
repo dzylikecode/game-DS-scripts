@@ -1,2 +1,2 @@
-# lantern_gothic_fx.md
+# lantern_gothic_fx.lua
 

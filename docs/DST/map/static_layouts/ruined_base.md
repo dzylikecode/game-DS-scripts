@@ -1,2 +1,2 @@
-# ruined_base.md
+# ruined_base.lua
 

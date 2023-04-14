@@ -1,2 +1,2 @@
-# tumbleweedspawner.md
+# tumbleweedspawner.lua
 

@@ -1,2 +1,2 @@
-# quagmire_goatkid.md
+# quagmire_goatkid.lua
 

@@ -1,2 +1,2 @@
-# amorphous.md
+# amorphous.lua
 

@@ -1,2 +1,2 @@
-# reviver_cupid_beat_fx.md
+# reviver_cupid_beat_fx.lua
 

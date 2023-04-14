@@ -1,2 +1,2 @@
-# craftingmenu_ingredients.md
+# craftingmenu_ingredients.lua
 

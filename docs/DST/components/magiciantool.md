@@ -1,2 +1,2 @@
-# magiciantool.md
+# magiciantool.lua
 

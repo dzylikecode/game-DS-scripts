@@ -1,2 +1,2 @@
-# firehits.md
+# firehits.lua
 

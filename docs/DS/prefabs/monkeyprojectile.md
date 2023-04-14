@@ -1,2 +1,2 @@
-# monkeyprojectile.md
+# monkeyprojectile.lua
 

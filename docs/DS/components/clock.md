@@ -1,2 +1,2 @@
-# clock.md
+# clock.lua
 

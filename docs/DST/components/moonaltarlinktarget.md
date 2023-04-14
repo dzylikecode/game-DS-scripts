@@ -1,2 +1,2 @@
-# moonaltarlinktarget.md
+# moonaltarlinktarget.lua
 

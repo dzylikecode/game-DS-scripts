@@ -1,2 +1,2 @@
-# SGchester.md
+# SGchester.lua
 

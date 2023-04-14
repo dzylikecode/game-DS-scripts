@@ -1,2 +1,2 @@
-# SGcritter_dragonling.md
+# SGcritter_dragonling.lua
 

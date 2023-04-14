@@ -1,2 +1,2 @@
-# maxwelllight.md
+# maxwelllight.lua
 

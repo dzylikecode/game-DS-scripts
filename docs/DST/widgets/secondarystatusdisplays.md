@@ -1,2 +1,2 @@
-# secondarystatusdisplays.md
+# secondarystatusdisplays.lua
 

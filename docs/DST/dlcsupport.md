@@ -1,2 +1,2 @@
-# dlcsupport.md
+# dlcsupport.lua
 

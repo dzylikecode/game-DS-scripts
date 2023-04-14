@@ -1,2 +1,2 @@
-# pigguard_berries_easy.md
+# pigguard_berries_easy.lua
 

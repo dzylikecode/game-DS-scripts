@@ -1,2 +1,2 @@
-# skeleton_mushjack.md
+# skeleton_mushjack.lua
 

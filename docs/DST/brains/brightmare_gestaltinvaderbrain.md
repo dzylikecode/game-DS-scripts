@@ -1,2 +1,2 @@
-# brightmare_gestaltinvaderbrain.md
+# brightmare_gestaltinvaderbrain.lua
 

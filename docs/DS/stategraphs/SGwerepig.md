@@ -1,2 +1,2 @@
-# SGwerepig.md
+# SGwerepig.lua
 

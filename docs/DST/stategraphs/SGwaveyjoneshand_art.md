@@ -1,2 +1,2 @@
-# SGwaveyjoneshand_art.md
+# SGwaveyjoneshand_art.lua
 

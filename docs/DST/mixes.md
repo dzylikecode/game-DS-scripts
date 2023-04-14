@@ -1,2 +1,2 @@
-# mixes.md
+# mixes.lua
 

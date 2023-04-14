@@ -1,2 +1,2 @@
-# dlccompatibilityprompt.md
+# dlccompatibilityprompt.lua
 

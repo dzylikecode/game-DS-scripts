@@ -1,2 +1,2 @@
-# bathbomb.md
+# bathbomb.lua
 

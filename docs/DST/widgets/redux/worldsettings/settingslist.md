@@ -1,2 +1,2 @@
-# settingslist.md
+# settingslist.lua
 

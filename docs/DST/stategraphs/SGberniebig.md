@@ -1,2 +1,2 @@
-# SGberniebig.md
+# SGberniebig.lua
 

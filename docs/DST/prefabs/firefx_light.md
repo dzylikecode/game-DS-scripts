@@ -1,2 +1,2 @@
-# firefx_light.md
+# firefx_light.lua
 

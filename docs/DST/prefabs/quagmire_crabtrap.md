@@ -1,2 +1,2 @@
-# quagmire_crabtrap.md
+# quagmire_crabtrap.lua
 

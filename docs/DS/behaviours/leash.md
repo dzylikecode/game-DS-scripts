@@ -1,2 +1,2 @@
-# leash.md
+# leash.lua
 

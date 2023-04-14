@@ -1,2 +1,2 @@
-# atrium_gate_activatedfx.md
+# atrium_gate_activatedfx.lua
 

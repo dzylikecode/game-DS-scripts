@@ -1,2 +1,2 @@
-# pickaxe.md
+# pickaxe.lua
 

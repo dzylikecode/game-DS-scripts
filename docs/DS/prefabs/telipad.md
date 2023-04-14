@@ -1,2 +1,2 @@
-# telipad.md
+# telipad.lua
 

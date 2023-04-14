@@ -1,2 +1,2 @@
-# SGeyeofterror_mini.md
+# SGeyeofterror_mini.lua
 

@@ -1,2 +1,2 @@
-# sculptures_1.md
+# sculptures_1.lua
 

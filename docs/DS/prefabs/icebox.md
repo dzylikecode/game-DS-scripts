@@ -1,2 +1,2 @@
-# icebox.md
+# icebox.lua
 

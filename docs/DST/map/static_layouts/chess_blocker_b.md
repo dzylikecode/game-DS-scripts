@@ -1,2 +1,2 @@
-# chess_blocker_b.md
+# chess_blocker_b.lua
 

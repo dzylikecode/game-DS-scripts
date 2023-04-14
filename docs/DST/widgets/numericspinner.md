@@ -1,2 +1,2 @@
-# numericspinner.md
+# numericspinner.lua
 

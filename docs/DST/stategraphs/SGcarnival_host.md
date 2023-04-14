@@ -1,2 +1,2 @@
-# SGcarnival_host.md
+# SGcarnival_host.lua
 

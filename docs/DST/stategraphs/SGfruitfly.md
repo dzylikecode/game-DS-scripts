@@ -1,2 +1,2 @@
-# SGfruitfly.md
+# SGfruitfly.lua
 

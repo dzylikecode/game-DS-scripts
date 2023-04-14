@@ -1,2 +1,2 @@
-# shadowhandspawner.md
+# shadowhandspawner.lua
 

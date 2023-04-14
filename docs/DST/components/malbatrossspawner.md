@@ -1,2 +1,2 @@
-# malbatrossspawner.md
+# malbatrossspawner.lua
 

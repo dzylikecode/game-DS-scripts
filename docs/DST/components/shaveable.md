@@ -1,2 +1,2 @@
-# shaveable.md
+# shaveable.lua
 

@@ -1,2 +1,2 @@
-# yotc_carrat_scale.md
+# yotc_carrat_scale.lua
 

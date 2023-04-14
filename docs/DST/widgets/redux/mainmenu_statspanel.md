@@ -1,2 +1,2 @@
-# mainmenu_statspanel.md
+# mainmenu_statspanel.lua
 

@@ -1,2 +1,2 @@
-# skinpresetspopup.md
+# skinpresetspopup.lua
 

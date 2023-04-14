@@ -1,2 +1,2 @@
-# cutstone.md
+# cutstone.lua
 

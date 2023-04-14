@@ -1,2 +1,2 @@
-# spellmasterybuff.md
+# spellmasterybuff.lua
 

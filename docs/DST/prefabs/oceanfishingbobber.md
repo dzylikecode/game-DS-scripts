@@ -1,2 +1,2 @@
-# oceanfishingbobber.md
+# oceanfishingbobber.lua
 

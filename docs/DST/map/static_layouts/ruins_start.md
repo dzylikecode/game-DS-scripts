@@ -1,2 +1,2 @@
-# ruins_start.md
+# ruins_start.lua
 

@@ -1,2 +1,2 @@
-# wintersfeastfuel.md
+# wintersfeastfuel.lua
 

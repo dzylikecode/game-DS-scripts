@@ -1,2 +1,2 @@
-# mandrake_planted.md
+# mandrake_planted.lua
 

@@ -1,2 +1,2 @@
-# grass.md
+# grass.lua
 

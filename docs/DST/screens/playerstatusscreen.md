@@ -1,2 +1,2 @@
-# playerstatusscreen.md
+# playerstatusscreen.lua
 

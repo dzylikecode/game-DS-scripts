@@ -1,2 +1,2 @@
-# modwarningscreen.md
+# modwarningscreen.lua
 

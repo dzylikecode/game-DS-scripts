@@ -1,2 +1,2 @@
-# equippable_replica.md
+# equippable_replica.lua
 

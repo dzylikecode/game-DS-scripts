@@ -1,2 +1,2 @@
-# trophyscale_oversizedveggies.md
+# trophyscale_oversizedveggies.lua
 

@@ -1,2 +1,2 @@
-# carrat_ghostracer.md
+# carrat_ghostracer.lua
 

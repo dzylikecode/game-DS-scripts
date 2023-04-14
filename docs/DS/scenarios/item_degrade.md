@@ -1,2 +1,2 @@
-# item_degrade.md
+# item_degrade.lua
 

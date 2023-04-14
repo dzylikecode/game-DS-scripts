@@ -1,2 +1,2 @@
-# SGwobsterland.md
+# SGwobsterland.lua
 

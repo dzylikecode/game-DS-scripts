@@ -1,2 +1,2 @@
-# optionsscreen_ps4.md
+# optionsscreen_ps4.lua
 

@@ -1,2 +1,2 @@
-# miniboatlanternbrain.md
+# miniboatlanternbrain.lua
 

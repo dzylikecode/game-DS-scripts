@@ -1,2 +1,2 @@
-# scaler.md
+# scaler.lua
 

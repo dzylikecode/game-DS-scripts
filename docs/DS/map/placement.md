@@ -1,2 +1,2 @@
-# placement.md
+# placement.lua
 

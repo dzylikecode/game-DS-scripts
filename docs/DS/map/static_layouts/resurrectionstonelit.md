@@ -1,2 +1,2 @@
-# resurrectionstonelit.md
+# resurrectionstonelit.lua
 

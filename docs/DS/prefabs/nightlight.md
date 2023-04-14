@@ -1,2 +1,2 @@
-# nightlight.md
+# nightlight.lua
 

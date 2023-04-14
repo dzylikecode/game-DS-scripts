@@ -1,2 +1,2 @@
-# packloot_winter_start_medium.md
+# packloot_winter_start_medium.lua
 

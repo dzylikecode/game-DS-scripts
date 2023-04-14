@@ -1,2 +1,2 @@
-# characterspecific.md
+# characterspecific.lua
 

@@ -1,2 +1,2 @@
-# migrate.md
+# migrate.lua
 

@@ -1,2 +1,2 @@
-# puppet.md
+# puppet.lua
 

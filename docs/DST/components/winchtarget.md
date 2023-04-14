@@ -1,2 +1,2 @@
-# winchtarget.md
+# winchtarget.lua
 

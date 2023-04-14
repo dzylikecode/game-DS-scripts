@@ -1,2 +1,2 @@
-# mushtree_spores.md
+# mushtree_spores.lua
 

@@ -1,2 +1,2 @@
-# squidbrain.md
+# squidbrain.lua
 

@@ -1,2 +1,2 @@
-# trophyscale.md
+# trophyscale.lua
 

@@ -1,2 +1,2 @@
-# dumbbells.md
+# dumbbells.lua
 

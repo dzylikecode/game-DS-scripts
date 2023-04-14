@@ -1,2 +1,2 @@
-# stalagmite_tall.md
+# stalagmite_tall.lua
 

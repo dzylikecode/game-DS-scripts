@@ -1,2 +1,2 @@
-# terrarium.md
+# terrarium.lua
 

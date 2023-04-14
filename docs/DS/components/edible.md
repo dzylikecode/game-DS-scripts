@@ -1,2 +1,2 @@
-# edible.md
+# edible.lua
 

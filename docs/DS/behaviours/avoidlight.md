@@ -1,2 +1,2 @@
-# avoidlight.md
+# avoidlight.lua
 

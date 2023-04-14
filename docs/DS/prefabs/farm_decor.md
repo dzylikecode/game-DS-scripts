@@ -1,2 +1,2 @@
-# farm_decor.md
+# farm_decor.lua
 

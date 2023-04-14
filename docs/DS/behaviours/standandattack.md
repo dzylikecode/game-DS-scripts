@@ -1,2 +1,2 @@
-# standandattack.md
+# standandattack.lua
 

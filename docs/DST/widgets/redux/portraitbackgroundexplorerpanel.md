@@ -1,2 +1,2 @@
-# portraitbackgroundexplorerpanel.md
+# portraitbackgroundexplorerpanel.lua
 

@@ -1,2 +1,2 @@
-# knownlocations.md
+# knownlocations.lua
 

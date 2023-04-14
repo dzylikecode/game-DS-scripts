@@ -1,2 +1,2 @@
-# smallghostbrain.md
+# smallghostbrain.lua
 

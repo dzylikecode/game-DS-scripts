@@ -1,2 +1,2 @@
-# fertilizer.md
+# fertilizer.lua
 

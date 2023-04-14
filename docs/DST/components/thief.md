@@ -1,2 +1,2 @@
-# thief.md
+# thief.lua
 

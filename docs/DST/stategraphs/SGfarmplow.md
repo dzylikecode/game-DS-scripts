@@ -1,2 +1,2 @@
-# SGfarmplow.md
+# SGfarmplow.lua
 

@@ -1,2 +1,2 @@
-# useabletargeteditem.md
+# useabletargeteditem.lua
 

@@ -1,2 +1,2 @@
-# seasonmanager.md
+# seasonmanager.lua
 

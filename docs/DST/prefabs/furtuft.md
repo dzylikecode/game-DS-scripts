@@ -1,2 +1,2 @@
-# furtuft.md
+# furtuft.lua
 

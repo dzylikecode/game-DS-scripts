@@ -1,2 +1,2 @@
-# heavyobstaclephysics.md
+# heavyobstaclephysics.lua
 

@@ -1,2 +1,2 @@
-# skinannouncement.md
+# skinannouncement.lua
 

@@ -1,2 +1,2 @@
-# boneshard.md
+# boneshard.lua
 

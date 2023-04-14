@@ -1,2 +1,2 @@
-# penguinspawner.md
+# penguinspawner.lua
 

@@ -1,2 +1,2 @@
-# chest_ghosts.md
+# chest_ghosts.lua
 

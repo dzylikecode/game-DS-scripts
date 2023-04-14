@@ -1,2 +1,2 @@
-# redeemdialog.md
+# redeemdialog.lua
 

@@ -1,2 +1,2 @@
-# lavaarena_rhinobuff.md
+# lavaarena_rhinobuff.lua
 

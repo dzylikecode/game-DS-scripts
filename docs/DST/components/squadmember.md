@@ -1,2 +1,2 @@
-# squadmember.md
+# squadmember.lua
 

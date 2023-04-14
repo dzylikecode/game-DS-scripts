@@ -1,2 +1,2 @@
-# stategraph.md
+# stategraph.lua
 

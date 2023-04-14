@@ -1,2 +1,2 @@
-# moonaltarrockseed.md
+# moonaltarrockseed.lua
 

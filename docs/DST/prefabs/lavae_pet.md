@@ -1,2 +1,2 @@
-# lavae_pet.md
+# lavae_pet.lua
 

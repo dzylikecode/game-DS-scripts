@@ -1,2 +1,2 @@
-# mushroombomb.md
+# mushroombomb.lua
 

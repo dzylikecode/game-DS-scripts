@@ -1,2 +1,2 @@
-# sinkholespawner.md
+# sinkholespawner.lua
 

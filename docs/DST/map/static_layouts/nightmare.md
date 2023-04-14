@@ -1,2 +1,2 @@
-# nightmare.md
+# nightmare.lua
 

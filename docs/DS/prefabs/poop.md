@@ -1,2 +1,2 @@
-# poop.md
+# poop.lua
 

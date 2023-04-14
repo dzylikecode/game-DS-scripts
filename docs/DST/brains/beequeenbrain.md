@@ -1,2 +1,2 @@
-# beequeenbrain.md
+# beequeenbrain.lua
 

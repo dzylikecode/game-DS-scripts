@@ -1,2 +1,2 @@
-# maxwelllock.md
+# maxwelllock.lua
 

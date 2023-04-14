@@ -1,2 +1,2 @@
-# hideandseekgame.md
+# hideandseekgame.lua
 

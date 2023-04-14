@@ -1,2 +1,2 @@
-# SGantlion_angry.md
+# SGantlion_angry.lua
 

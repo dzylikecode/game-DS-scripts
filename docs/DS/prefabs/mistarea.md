@@ -1,2 +1,2 @@
-# mistarea.md
+# mistarea.lua
 

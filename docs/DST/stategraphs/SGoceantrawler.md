@@ -1,2 +1,2 @@
-# SGoceantrawler.md
+# SGoceantrawler.lua
 

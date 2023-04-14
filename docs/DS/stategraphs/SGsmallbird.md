@@ -1,2 +1,2 @@
-# SGsmallbird.md
+# SGsmallbird.lua
 

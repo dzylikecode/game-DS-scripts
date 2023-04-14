@@ -1,2 +1,2 @@
-# schoolspawner.md
+# schoolspawner.lua
 

@@ -1,2 +1,2 @@
-# seamlessplayerswapper.md
+# seamlessplayerswapper.lua
 

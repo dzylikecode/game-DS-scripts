@@ -1,2 +1,2 @@
-# distancefade.md
+# distancefade.lua
 

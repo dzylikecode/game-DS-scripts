@@ -1,2 +1,2 @@
-# easing.md
+# easing.lua
 

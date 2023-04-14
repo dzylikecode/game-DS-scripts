@@ -1,2 +1,2 @@
-# sunken_boat_trinkets.md
+# sunken_boat_trinkets.lua
 

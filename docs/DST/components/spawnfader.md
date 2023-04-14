@@ -1,2 +1,2 @@
-# spawnfader.md
+# spawnfader.lua
 

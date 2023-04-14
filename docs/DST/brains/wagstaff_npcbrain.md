@@ -1,2 +1,2 @@
-# wagstaff_npcbrain.md
+# wagstaff_npcbrain.lua
 

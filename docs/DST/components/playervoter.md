@@ -1,2 +1,2 @@
-# playervoter.md
+# playervoter.lua
 

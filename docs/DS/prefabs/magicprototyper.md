@@ -1,2 +1,2 @@
-# magicprototyper.md
+# magicprototyper.lua
 

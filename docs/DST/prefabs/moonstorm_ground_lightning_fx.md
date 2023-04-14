@@ -1,2 +1,2 @@
-# moonstorm_ground_lightning_fx.md
+# moonstorm_ground_lightning_fx.lua
 

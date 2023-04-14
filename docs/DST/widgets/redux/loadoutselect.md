@@ -1,2 +1,2 @@
-# loadoutselect.md
+# loadoutselect.lua
 

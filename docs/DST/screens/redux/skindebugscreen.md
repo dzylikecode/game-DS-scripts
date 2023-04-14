@@ -1,2 +1,2 @@
-# skindebugscreen.md
+# skindebugscreen.lua
 

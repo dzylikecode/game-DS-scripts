@@ -1,2 +1,2 @@
-# minigame_participator.md
+# minigame_participator.lua
 

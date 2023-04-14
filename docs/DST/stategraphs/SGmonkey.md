@@ -1,2 +1,2 @@
-# SGmonkey.md
+# SGmonkey.lua
 

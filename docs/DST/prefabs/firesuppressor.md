@@ -1,2 +1,2 @@
-# firesuppressor.md
+# firesuppressor.lua
 

@@ -1,2 +1,2 @@
-# speech_wx78.md
+# speech_wx78.lua
 

@@ -1,2 +1,2 @@
-# controlsscreen.md
+# controlsscreen.lua
 

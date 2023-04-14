@@ -1,2 +1,2 @@
-# container_replica.md
+# container_replica.lua
 

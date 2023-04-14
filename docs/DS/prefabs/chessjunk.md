@@ -1,2 +1,2 @@
-# chessjunk.md
+# chessjunk.lua
 

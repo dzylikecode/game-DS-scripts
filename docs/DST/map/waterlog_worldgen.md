@@ -1,2 +1,2 @@
-# waterlog_worldgen.md
+# waterlog_worldgen.lua
 

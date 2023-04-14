@@ -1,2 +1,2 @@
-# scarecrowpopupgridloadout.md
+# scarecrowpopupgridloadout.lua
 

@@ -1,2 +1,2 @@
-# pigguards_easy.md
+# pigguards_easy.lua
 

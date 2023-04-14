@@ -1,2 +1,2 @@
-# debuffable.md
+# debuffable.lua
 

@@ -1,2 +1,2 @@
-# wintersfeastbuff.md
+# wintersfeastbuff.lua
 

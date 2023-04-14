@@ -1,2 +1,2 @@
-# insane_wormhole.md
+# insane_wormhole.lua
 

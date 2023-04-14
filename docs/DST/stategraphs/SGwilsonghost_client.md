@@ -1,2 +1,2 @@
-# SGwilsonghost_client.md
+# SGwilsonghost_client.lua
 

@@ -1,2 +1,2 @@
-# shroom_skin.md
+# shroom_skin.lua
 

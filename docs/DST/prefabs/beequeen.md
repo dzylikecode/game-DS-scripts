@@ -1,2 +1,2 @@
-# beequeen.md
+# beequeen.lua
 

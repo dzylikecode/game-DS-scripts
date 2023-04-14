@@ -1,2 +1,2 @@
-# snapshottab.md
+# snapshottab.lua
 

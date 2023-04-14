@@ -1,2 +1,2 @@
-# lavaarena_bernie.md
+# lavaarena_bernie.lua
 

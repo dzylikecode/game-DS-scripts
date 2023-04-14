@@ -1,2 +1,2 @@
-# SGcozy_bunnyman.md
+# SGcozy_bunnyman.lua
 

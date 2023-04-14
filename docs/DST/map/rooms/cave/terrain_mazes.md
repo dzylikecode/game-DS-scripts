@@ -1,2 +1,2 @@
-# terrain_mazes.md
+# terrain_mazes.lua
 

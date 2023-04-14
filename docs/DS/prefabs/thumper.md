@@ -1,2 +1,2 @@
-# thumper.md
+# thumper.lua
 

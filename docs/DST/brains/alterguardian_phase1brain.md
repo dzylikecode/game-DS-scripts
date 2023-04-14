@@ -1,2 +1,2 @@
-# alterguardian_phase1brain.md
+# alterguardian_phase1brain.lua
 

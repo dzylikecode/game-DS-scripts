@@ -1,2 +1,2 @@
-# customize.md
+# customize.lua
 

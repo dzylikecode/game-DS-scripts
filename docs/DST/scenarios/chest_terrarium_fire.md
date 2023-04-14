@@ -1,2 +1,2 @@
-# chest_terrarium_fire.md
+# chest_terrarium_fire.lua
 

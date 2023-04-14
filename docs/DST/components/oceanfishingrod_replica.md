@@ -1,2 +1,2 @@
-# oceanfishingrod_replica.md
+# oceanfishingrod_replica.lua
 

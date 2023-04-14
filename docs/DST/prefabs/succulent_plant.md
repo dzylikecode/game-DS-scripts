@@ -1,2 +1,2 @@
-# succulent_plant.md
+# succulent_plant.lua
 

@@ -1,2 +1,2 @@
-# warg_gooicing.md
+# warg_gooicing.lua
 

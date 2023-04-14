@@ -1,2 +1,2 @@
-# bargain_start.md
+# bargain_start.lua
 

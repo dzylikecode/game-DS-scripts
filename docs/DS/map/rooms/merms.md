@@ -1,2 +1,2 @@
-# merms.md
+# merms.lua
 

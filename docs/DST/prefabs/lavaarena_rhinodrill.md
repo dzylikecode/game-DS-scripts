@@ -1,2 +1,2 @@
-# lavaarena_rhinodrill.md
+# lavaarena_rhinodrill.lua
 

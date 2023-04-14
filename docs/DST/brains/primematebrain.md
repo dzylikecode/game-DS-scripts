@@ -1,2 +1,2 @@
-# primematebrain.md
+# primematebrain.lua
 

@@ -1,2 +1,2 @@
-# fireball_projectile.md
+# fireball_projectile.lua
 

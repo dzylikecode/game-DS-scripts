@@ -1,2 +1,2 @@
-# grotto_pool_small.md
+# grotto_pool_small.lua
 

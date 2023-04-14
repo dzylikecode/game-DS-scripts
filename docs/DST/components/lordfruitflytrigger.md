@@ -1,2 +1,2 @@
-# lordfruitflytrigger.md
+# lordfruitflytrigger.lua
 

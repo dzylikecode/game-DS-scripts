@@ -1,2 +1,2 @@
-# wxputils.md
+# wxputils.lua
 

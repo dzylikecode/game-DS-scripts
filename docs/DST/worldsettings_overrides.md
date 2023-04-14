@@ -1,2 +1,2 @@
-# worldsettings_overrides.md
+# worldsettings_overrides.lua
 

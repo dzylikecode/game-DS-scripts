@@ -1,2 +1,2 @@
-# SGknight.md
+# SGknight.lua
 

@@ -1,2 +1,2 @@
-# sinkhole.md
+# sinkhole.lua
 

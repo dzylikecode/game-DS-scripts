@@ -1,2 +1,2 @@
-# cattoy.md
+# cattoy.lua
 

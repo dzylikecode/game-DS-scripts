@@ -1,2 +1,2 @@
-# thurible.md
+# thurible.lua
 

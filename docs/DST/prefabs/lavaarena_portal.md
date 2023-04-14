@@ -1,2 +1,2 @@
-# lavaarena_portal.md
+# lavaarena_portal.lua
 

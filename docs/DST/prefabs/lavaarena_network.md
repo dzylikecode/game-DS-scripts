@@ -1,2 +1,2 @@
-# lavaarena_network.md
+# lavaarena_network.lua
 

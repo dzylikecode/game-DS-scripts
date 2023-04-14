@@ -1,2 +1,2 @@
-# approach.md
+# approach.lua
 

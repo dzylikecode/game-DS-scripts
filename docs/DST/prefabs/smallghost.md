@@ -1,2 +1,2 @@
-# smallghost.md
+# smallghost.lua
 

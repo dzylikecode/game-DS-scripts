@@ -1,2 +1,2 @@
-# halloweenpotion_buffs.md
+# halloweenpotion_buffs.lua
 

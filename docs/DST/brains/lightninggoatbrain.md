@@ -1,2 +1,2 @@
-# lightninggoatbrain.md
+# lightninggoatbrain.lua
 

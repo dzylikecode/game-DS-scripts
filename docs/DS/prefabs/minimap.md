@@ -1,2 +1,2 @@
-# minimap.md
+# minimap.lua
 

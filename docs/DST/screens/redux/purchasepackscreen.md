@@ -1,2 +1,2 @@
-# purchasepackscreen.md
+# purchasepackscreen.lua
 

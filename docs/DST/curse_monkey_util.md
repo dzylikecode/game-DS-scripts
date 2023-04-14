@@ -1,2 +1,2 @@
-# curse_monkey_util.md
+# curse_monkey_util.lua
 

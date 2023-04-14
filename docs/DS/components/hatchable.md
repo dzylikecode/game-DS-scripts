@@ -1,2 +1,2 @@
-# hatchable.md
+# hatchable.lua
 

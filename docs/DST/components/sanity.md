@@ -1,2 +1,2 @@
-# sanity.md
+# sanity.lua
 

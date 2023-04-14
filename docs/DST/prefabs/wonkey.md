@@ -1,2 +1,2 @@
-# wonkey.md
+# wonkey.lua
 

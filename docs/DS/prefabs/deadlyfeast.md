@@ -1,2 +1,2 @@
-# deadlyfeast.md
+# deadlyfeast.lua
 

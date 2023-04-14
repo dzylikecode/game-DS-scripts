@@ -1,2 +1,2 @@
-# healthbadge.md
+# healthbadge.lua
 

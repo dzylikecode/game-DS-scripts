@@ -1,2 +1,2 @@
-# monkeyisland_retrofitsmall_02.md
+# monkeyisland_retrofitsmall_02.lua
 

@@ -1,2 +1,2 @@
-# maptags.md
+# maptags.lua
 

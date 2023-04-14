@@ -1,2 +1,2 @@
-# regrowthutil.md
+# regrowthutil.lua
 

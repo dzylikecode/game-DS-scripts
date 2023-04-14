@@ -1,2 +1,2 @@
-# SGbernie.md
+# SGbernie.lua
 

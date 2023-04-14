@@ -1,2 +1,2 @@
-# fertilizer_nutrient_defs.md
+# fertilizer_nutrient_defs.lua
 

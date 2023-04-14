@@ -1,2 +1,2 @@
-# sanity_wormhole_oneshot.md
+# sanity_wormhole_oneshot.lua
 

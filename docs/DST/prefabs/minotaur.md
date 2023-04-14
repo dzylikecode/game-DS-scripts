@@ -1,2 +1,2 @@
-# minotaur.md
+# minotaur.lua
 

@@ -1,2 +1,2 @@
-# sporebrain.md
+# sporebrain.lua
 

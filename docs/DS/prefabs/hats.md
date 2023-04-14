@@ -1,2 +1,2 @@
-# hats.md
+# hats.lua
 

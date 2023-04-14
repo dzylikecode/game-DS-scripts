@@ -1,2 +1,2 @@
-# telebrella.md
+# telebrella.lua
 

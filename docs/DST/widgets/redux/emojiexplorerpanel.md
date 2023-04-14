@@ -1,2 +1,2 @@
-# emojiexplorerpanel.md
+# emojiexplorerpanel.lua
 

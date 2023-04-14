@@ -1,2 +1,2 @@
-# inkable.md
+# inkable.lua
 

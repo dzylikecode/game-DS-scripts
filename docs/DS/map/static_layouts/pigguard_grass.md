@@ -1,2 +1,2 @@
-# pigguard_grass.md
+# pigguard_grass.lua
 

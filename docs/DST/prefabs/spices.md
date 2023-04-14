@@ -1,2 +1,2 @@
-# spices.md
+# spices.lua
 

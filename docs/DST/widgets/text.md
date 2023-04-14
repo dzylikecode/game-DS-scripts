@@ -1,2 +1,2 @@
-# text.md
+# text.lua
 

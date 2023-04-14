@@ -1,2 +1,2 @@
-# mermking.md
+# mermking.lua
 

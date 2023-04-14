@@ -1,2 +1,2 @@
-# bananabush.md
+# bananabush.lua
 

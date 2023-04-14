@@ -1,2 +1,2 @@
-# beeswax.md
+# beeswax.lua
 

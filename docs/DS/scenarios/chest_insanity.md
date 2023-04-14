@@ -1,2 +1,2 @@
-# chest_insanity.md
+# chest_insanity.lua
 

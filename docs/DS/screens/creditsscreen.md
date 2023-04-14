@@ -1,2 +1,2 @@
-# creditsscreen.md
+# creditsscreen.lua
 

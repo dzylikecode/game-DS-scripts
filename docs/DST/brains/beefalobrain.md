@@ -1,2 +1,2 @@
-# beefalobrain.md
+# beefalobrain.lua
 

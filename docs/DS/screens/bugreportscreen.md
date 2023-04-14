@@ -1,2 +1,2 @@
-# bugreportscreen.md
+# bugreportscreen.lua
 

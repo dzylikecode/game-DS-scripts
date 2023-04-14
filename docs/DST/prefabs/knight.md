@@ -1,2 +1,2 @@
-# knight.md
+# knight.lua
 

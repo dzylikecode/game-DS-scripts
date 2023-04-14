@@ -1,2 +1,2 @@
-# templates.md
+# templates.lua
 

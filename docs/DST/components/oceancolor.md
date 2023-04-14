@@ -1,2 +1,2 @@
-# oceancolor.md
+# oceancolor.lua
 

@@ -1,2 +1,2 @@
-# archive_cookpot.md
+# archive_cookpot.lua
 

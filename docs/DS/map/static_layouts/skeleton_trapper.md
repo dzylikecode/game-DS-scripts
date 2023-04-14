@@ -1,2 +1,2 @@
-# skeleton_trapper.md
+# skeleton_trapper.lua
 

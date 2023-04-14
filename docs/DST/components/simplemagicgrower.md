@@ -1,2 +1,2 @@
-# simplemagicgrower.md
+# simplemagicgrower.lua
 

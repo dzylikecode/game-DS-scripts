@@ -1,2 +1,2 @@
-# SGworm.md
+# SGworm.lua
 

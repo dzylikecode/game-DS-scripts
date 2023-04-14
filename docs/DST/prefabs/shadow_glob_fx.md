@@ -1,2 +1,2 @@
-# shadow_glob_fx.md
+# shadow_glob_fx.lua
 

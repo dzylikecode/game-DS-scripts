@@ -1,2 +1,2 @@
-# vecutil.md
+# vecutil.lua
 

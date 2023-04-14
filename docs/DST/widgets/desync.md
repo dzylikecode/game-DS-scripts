@@ -1,2 +1,2 @@
-# desync.md
+# desync.lua
 

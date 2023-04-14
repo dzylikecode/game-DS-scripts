@@ -1,2 +1,2 @@
-# potatosack.md
+# potatosack.lua
 

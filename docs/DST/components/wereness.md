@@ -1,2 +1,2 @@
-# wereness.md
+# wereness.lua
 

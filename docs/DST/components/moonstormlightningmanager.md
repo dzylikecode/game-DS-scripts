@@ -1,2 +1,2 @@
-# moonstormlightningmanager.md
+# moonstormlightningmanager.lua
 

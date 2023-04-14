@@ -1,2 +1,2 @@
-# reviver.md
+# reviver.lua
 

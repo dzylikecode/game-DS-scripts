@@ -1,2 +1,2 @@
-# quagmire_map.md
+# quagmire_map.lua
 

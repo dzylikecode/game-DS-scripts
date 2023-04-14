@@ -1,2 +1,2 @@
-# language.md
+# language.lua
 

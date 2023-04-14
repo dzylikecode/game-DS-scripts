@@ -1,2 +1,2 @@
-# SGpigelitefighter.md
+# SGpigelitefighter.lua
 

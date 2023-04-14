@@ -1,2 +1,2 @@
-# groundpoundringfx.md
+# groundpoundringfx.lua
 

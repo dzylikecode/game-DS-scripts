@@ -1,2 +1,2 @@
-# SGhippopotamoose.md
+# SGhippopotamoose.lua
 

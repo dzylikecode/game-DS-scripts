@@ -1,2 +1,2 @@
-# SGfiresuppressor.md
+# SGfiresuppressor.lua
 

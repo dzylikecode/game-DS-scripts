@@ -1,2 +1,2 @@
-# SGkitcoon.md
+# SGkitcoon.lua
 

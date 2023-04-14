@@ -1,2 +1,2 @@
-# SGbat.md
+# SGbat.lua
 

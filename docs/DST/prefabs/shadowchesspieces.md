@@ -1,2 +1,2 @@
-# shadowchesspieces.md
+# shadowchesspieces.lua
 

@@ -1,2 +1,2 @@
-# lightninggoathorn.md
+# lightninggoathorn.lua
 

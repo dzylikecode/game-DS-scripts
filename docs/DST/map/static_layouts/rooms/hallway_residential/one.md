@@ -1,2 +1,2 @@
-# one.md
+# one.lua
 

@@ -1,2 +1,2 @@
-# light_rays.md
+# light_rays.lua
 

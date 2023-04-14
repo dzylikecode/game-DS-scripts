@@ -1,2 +1,2 @@
-# skeleton_lightfarmer.md
+# skeleton_lightfarmer.lua
 

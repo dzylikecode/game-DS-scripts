@@ -1,2 +1,2 @@
-# serverpausewidget.md
+# serverpausewidget.lua
 

@@ -1,2 +1,2 @@
-# slotdetailsscreen.md
+# slotdetailsscreen.lua
 

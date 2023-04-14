@@ -1,2 +1,2 @@
-# mushgnome_spawner.md
+# mushgnome_spawner.lua
 

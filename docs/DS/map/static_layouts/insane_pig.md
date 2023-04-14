@@ -1,2 +1,2 @@
-# insane_pig.md
+# insane_pig.lua
 

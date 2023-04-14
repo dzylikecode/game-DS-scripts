@@ -1,2 +1,2 @@
-# knightbrain.md
+# knightbrain.lua
 

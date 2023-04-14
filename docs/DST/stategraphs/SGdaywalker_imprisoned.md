@@ -1,2 +1,2 @@
-# SGdaywalker_imprisoned.md
+# SGdaywalker_imprisoned.lua
 

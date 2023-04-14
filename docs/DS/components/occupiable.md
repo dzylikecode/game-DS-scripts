@@ -1,2 +1,2 @@
-# occupiable.md
+# occupiable.lua
 

@@ -1,2 +1,2 @@
-# distancetracker.md
+# distancetracker.lua
 

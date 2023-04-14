@@ -1,2 +1,2 @@
-# shadowedtext.md
+# shadowedtext.lua
 

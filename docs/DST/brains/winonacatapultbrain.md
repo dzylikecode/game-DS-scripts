@@ -1,2 +1,2 @@
-# winonacatapultbrain.md
+# winonacatapultbrain.lua
 

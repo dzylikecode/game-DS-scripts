@@ -1,2 +1,2 @@
-# skins_defs_data.md
+# skins_defs_data.lua
 

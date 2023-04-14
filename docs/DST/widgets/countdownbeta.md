@@ -1,2 +1,2 @@
-# countdownbeta.md
+# countdownbeta.lua
 

@@ -1,2 +1,2 @@
-# witherable.md
+# witherable.lua
 

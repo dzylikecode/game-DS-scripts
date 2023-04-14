@@ -1,2 +1,2 @@
-# lavaarena_spawner.md
+# lavaarena_spawner.lua
 

@@ -1,2 +1,2 @@
-# SGoceanshadowcreature.md
+# SGoceanshadowcreature.lua
 

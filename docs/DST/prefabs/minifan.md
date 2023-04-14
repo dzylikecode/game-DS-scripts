@@ -1,2 +1,2 @@
-# minifan.md
+# minifan.lua
 

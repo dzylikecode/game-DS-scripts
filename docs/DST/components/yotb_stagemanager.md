@@ -1,2 +1,2 @@
-# yotb_stagemanager.md
+# yotb_stagemanager.lua
 

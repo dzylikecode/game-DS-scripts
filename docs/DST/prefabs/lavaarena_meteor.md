@@ -1,2 +1,2 @@
-# lavaarena_meteor.md
+# lavaarena_meteor.lua
 

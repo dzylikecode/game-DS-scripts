@@ -1,2 +1,2 @@
-# pigs.md
+# pigs.lua
 

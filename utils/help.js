@@ -8,12 +8,12 @@ const dsCodeDir = path.join(rootPath, "code/DS");
 const dstDocsDir = path.join(rootPath, "docs/DST");
 const dstCodeDir = path.join(rootPath, "code/DST");
 
-function createMdFile(filePath) {
+function createMdFile(filePath, ext) {
   const mdPath = filePath;
   if (fs.existsSync(mdPath)) return;
-  const mdDir = path.dirname(mdPath);
+  const { dir: mdDir, name: mdName } = path.parse(mdPath);
   if (!fs.existsSync(mdDir)) fs.mkdirSync(mdDir, { recursive: true });
-  const baseName = path.basename(mdPath);
+  const baseName = mdName + ext;
   const content = `# ${baseName}\n\n`;
   return new Promise((resolve, reject) => {
     fs.writeFile(mdPath, content, (err) => {
@@ -107,12 +107,14 @@ function generateDocs(mdDir, codeDir, root, ext) {
         .relative(codeDir, msg.fullPath)
         .slice(0, -ext.length);
       const mdPath = path.join(mdDir, virtualPath + ".md");
-      createMdFile(mdPath);
+      createMdFile(mdPath, ext);
     }
   }
 }
 
 function generate(mdDir, codeDir, root, ext) {
+  console.log("generate docs");
+  generateDocs(mdDir, codeDir, root, ext);
   console.log("generate summary");
   generateSummary(mdDir, root);
   console.log("done");

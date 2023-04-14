@@ -1,2 +1,2 @@
-# cooking.md
+# cooking.lua
 

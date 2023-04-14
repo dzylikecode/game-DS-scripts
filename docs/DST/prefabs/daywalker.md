@@ -1,2 +1,2 @@
-# daywalker.md
+# daywalker.lua
 

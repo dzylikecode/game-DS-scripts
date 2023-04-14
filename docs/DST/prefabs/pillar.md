@@ -1,2 +1,2 @@
-# pillar.md
+# pillar.lua
 

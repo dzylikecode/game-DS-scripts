@@ -1,2 +1,2 @@
-# SGwinch.md
+# SGwinch.lua
 

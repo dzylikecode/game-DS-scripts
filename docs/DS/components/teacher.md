@@ -1,2 +1,2 @@
-# teacher.md
+# teacher.lua
 

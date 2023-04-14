@@ -1,2 +1,2 @@
-# winterometer.md
+# winterometer.lua
 

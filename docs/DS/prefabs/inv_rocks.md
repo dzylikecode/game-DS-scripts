@@ -1,2 +1,2 @@
-# inv_rocks.md
+# inv_rocks.lua
 

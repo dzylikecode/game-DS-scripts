@@ -1,2 +1,2 @@
-# ping.md
+# ping.lua
 

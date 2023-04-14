@@ -1,2 +1,2 @@
-# hitcher.md
+# hitcher.lua
 

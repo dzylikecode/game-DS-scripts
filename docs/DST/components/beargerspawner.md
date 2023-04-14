@@ -1,2 +1,2 @@
-# beargerspawner.md
+# beargerspawner.lua
 

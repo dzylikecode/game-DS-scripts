@@ -1,2 +1,2 @@
-# wobybig.md
+# wobybig.lua
 

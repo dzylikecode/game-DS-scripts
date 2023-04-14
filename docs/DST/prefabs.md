@@ -1,2 +1,2 @@
-# prefabs.md
+# prefabs.lua
 

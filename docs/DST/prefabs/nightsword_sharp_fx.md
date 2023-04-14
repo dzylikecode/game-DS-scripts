@@ -1,2 +1,2 @@
-# nightsword_sharp_fx.md
+# nightsword_sharp_fx.lua
 

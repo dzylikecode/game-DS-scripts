@@ -1,2 +1,2 @@
-# beefalo_farm.md
+# beefalo_farm.lua
 

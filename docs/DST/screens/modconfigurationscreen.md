@@ -1,2 +1,2 @@
-# modconfigurationscreen.md
+# modconfigurationscreen.lua
 

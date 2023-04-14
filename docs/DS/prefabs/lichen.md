@@ -1,2 +1,2 @@
-# lichen.md
+# lichen.lua
 

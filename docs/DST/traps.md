@@ -1,2 +1,2 @@
-# traps.md
+# traps.lua
 

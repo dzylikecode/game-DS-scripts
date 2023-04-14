@@ -1,2 +1,2 @@
-# lavaarena_trails.md
+# lavaarena_trails.lua
 

@@ -1,2 +1,2 @@
-# walledgarden.md
+# walledgarden.lua
 

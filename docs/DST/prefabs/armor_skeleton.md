@@ -1,2 +1,2 @@
-# armor_skeleton.md
+# armor_skeleton.lua
 

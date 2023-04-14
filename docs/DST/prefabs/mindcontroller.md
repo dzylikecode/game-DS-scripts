@@ -1,2 +1,2 @@
-# mindcontroller.md
+# mindcontroller.lua
 

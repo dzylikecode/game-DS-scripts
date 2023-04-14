@@ -1,2 +1,2 @@
-# invslot.md
+# invslot.lua
 

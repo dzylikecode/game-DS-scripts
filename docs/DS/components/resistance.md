@@ -1,2 +1,2 @@
-# resistance.md
+# resistance.lua
 

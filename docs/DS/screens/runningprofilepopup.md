@@ -1,2 +1,2 @@
-# runningprofilepopup.md
+# runningprofilepopup.lua
 

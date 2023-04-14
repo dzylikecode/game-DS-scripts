@@ -1,2 +1,2 @@
-# encounterspanel.md
+# encounterspanel.lua
 

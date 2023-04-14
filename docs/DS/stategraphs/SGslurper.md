@@ -1,2 +1,2 @@
-# SGslurper.md
+# SGslurper.lua
 

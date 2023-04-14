@@ -1,2 +1,2 @@
-# lavaarena_achievement_quest_defs.md
+# lavaarena_achievement_quest_defs.lua
 

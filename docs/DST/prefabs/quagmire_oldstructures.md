@@ -1,2 +1,2 @@
-# quagmire_oldstructures.md
+# quagmire_oldstructures.lua
 

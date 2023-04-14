@@ -1,2 +1,2 @@
-# waxable.md
+# waxable.lua
 

@@ -1,2 +1,2 @@
-# worldgenscreen.md
+# worldgenscreen.lua
 

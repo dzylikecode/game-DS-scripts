@@ -1,2 +1,2 @@
-# damagetracker.md
+# damagetracker.lua
 

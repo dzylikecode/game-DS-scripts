@@ -1,2 +1,2 @@
-# SGbird.md
+# SGbird.lua
 

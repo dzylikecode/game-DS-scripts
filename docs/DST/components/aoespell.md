@@ -1,2 +1,2 @@
-# aoespell.md
+# aoespell.lua
 

@@ -1,2 +1,2 @@
-# fan_wheel.md
+# fan_wheel.lua
 

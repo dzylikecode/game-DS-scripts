@@ -1,2 +1,2 @@
-# modsscreen.md
+# modsscreen.lua
 

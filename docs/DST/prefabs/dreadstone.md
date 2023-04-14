@@ -1,2 +1,2 @@
-# dreadstone.md
+# dreadstone.lua
 

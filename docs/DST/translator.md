@@ -1,2 +1,2 @@
-# translator.md
+# translator.lua
 

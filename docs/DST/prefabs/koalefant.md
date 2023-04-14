@@ -1,2 +1,2 @@
-# koalefant.md
+# koalefant.lua
 

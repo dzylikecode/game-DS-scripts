@@ -1,2 +1,2 @@
-# nightmarecreaturebrain.md
+# nightmarecreaturebrain.lua
 

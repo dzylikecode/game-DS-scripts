@@ -1,2 +1,2 @@
-# followtext.md
+# followtext.lua
 

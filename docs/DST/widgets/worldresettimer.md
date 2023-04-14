@@ -1,2 +1,2 @@
-# worldresettimer.md
+# worldresettimer.lua
 

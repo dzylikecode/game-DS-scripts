@@ -1,2 +1,2 @@
-# beefalo_groomer.md
+# beefalo_groomer.lua
 

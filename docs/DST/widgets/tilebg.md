@@ -1,2 +1,2 @@
-# tilebg.md
+# tilebg.lua
 

@@ -1,2 +1,2 @@
-# lavaarena_lucy.md
+# lavaarena_lucy.lua
 

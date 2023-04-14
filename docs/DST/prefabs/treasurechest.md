@@ -1,2 +1,2 @@
-# treasurechest.md
+# treasurechest.lua
 

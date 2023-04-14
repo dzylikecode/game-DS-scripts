@@ -1,2 +1,2 @@
-# yotc_raceprizemanager.md
+# yotc_raceprizemanager.lua
 

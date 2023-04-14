@@ -1,2 +1,2 @@
-# murderable.md
+# murderable.lua
 

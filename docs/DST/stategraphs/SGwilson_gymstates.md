@@ -1,2 +1,2 @@
-# SGwilson_gymstates.md
+# SGwilson_gymstates.lua
 

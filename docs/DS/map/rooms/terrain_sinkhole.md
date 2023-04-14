@@ -1,2 +1,2 @@
-# terrain_sinkhole.md
+# terrain_sinkhole.lua
 

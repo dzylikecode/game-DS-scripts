@@ -1,2 +1,2 @@
-# pocketwatch_weapon_fx.md
+# pocketwatch_weapon_fx.lua
 

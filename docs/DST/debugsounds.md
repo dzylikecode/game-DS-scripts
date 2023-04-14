@@ -1,2 +1,2 @@
-# debugsounds.md
+# debugsounds.lua
 

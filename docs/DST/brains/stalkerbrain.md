@@ -1,2 +1,2 @@
-# stalkerbrain.md
+# stalkerbrain.lua
 

@@ -1,2 +1,2 @@
-# skincollector.md
+# skincollector.lua
 

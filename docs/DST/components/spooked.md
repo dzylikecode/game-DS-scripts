@@ -1,2 +1,2 @@
-# spooked.md
+# spooked.lua
 

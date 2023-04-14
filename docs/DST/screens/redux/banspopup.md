@@ -1,2 +1,2 @@
-# banspopup.md
+# banspopup.lua
 

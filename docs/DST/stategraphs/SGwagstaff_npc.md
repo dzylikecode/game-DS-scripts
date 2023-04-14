@@ -1,2 +1,2 @@
-# SGwagstaff_npc.md
+# SGwagstaff_npc.lua
 

@@ -1,2 +1,2 @@
-# SGtrap.md
+# SGtrap.lua
 

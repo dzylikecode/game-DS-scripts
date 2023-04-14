@@ -1,2 +1,2 @@
-# uniqueprefabids.md
+# uniqueprefabids.lua
 

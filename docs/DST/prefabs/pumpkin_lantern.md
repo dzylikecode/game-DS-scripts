@@ -1,2 +1,2 @@
-# pumpkin_lantern.md
+# pumpkin_lantern.lua
 

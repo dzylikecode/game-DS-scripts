@@ -1,2 +1,2 @@
-# SGwormhole.md
+# SGwormhole.lua
 

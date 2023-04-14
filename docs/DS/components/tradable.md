@@ -1,2 +1,2 @@
-# tradable.md
+# tradable.lua
 

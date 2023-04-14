@@ -1,2 +1,2 @@
-# chest_random_good.md
+# chest_random_good.lua
 

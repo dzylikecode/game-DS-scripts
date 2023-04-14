@@ -1,2 +1,2 @@
-# mapwidget.md
+# mapwidget.lua
 

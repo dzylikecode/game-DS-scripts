@@ -1,2 +1,2 @@
-# mapspotrevealer.md
+# mapspotrevealer.lua
 

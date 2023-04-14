@@ -1,2 +1,2 @@
-# worldvoter.md
+# worldvoter.lua
 

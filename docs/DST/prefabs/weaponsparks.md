@@ -1,2 +1,2 @@
-# weaponsparks.md
+# weaponsparks.lua
 

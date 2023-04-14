@@ -1,2 +1,2 @@
-# pillow_equipment.md
+# pillow_equipment.lua
 

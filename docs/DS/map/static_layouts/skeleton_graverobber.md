@@ -1,2 +1,2 @@
-# skeleton_graverobber.md
+# skeleton_graverobber.lua
 

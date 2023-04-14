@@ -1,2 +1,2 @@
-# static_layout.md
+# static_layout.lua
 

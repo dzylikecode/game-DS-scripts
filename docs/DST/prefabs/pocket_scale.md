@@ -1,2 +1,2 @@
-# pocket_scale.md
+# pocket_scale.lua
 

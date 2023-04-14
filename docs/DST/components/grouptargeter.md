@@ -1,2 +1,2 @@
-# grouptargeter.md
+# grouptargeter.lua
 

@@ -1,2 +1,2 @@
-# beeguard.md
+# beeguard.lua
 

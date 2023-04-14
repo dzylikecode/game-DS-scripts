@@ -1,2 +1,2 @@
-# highlight.md
+# highlight.lua
 

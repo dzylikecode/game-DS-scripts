@@ -1,2 +1,2 @@
-# thankyoupopup.md
+# thankyoupopup.lua
 

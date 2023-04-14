@@ -1,2 +1,2 @@
-# moonrelic.md
+# moonrelic.lua
 

@@ -1,2 +1,2 @@
-# pigelitefighterbrain.md
+# pigelitefighterbrain.lua
 

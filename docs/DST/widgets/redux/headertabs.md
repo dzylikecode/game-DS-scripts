@@ -1,2 +1,2 @@
-# headertabs.md
+# headertabs.lua
 

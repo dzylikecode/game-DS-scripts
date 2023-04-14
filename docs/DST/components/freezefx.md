@@ -1,2 +1,2 @@
-# freezefx.md
+# freezefx.lua
 

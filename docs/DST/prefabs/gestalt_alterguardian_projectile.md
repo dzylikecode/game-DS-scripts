@@ -1,2 +1,2 @@
-# gestalt_alterguardian_projectile.md
+# gestalt_alterguardian_projectile.lua
 

@@ -1,2 +1,2 @@
-# panicandavoid.md
+# panicandavoid.lua
 

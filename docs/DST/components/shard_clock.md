@@ -1,2 +1,2 @@
-# shard_clock.md
+# shard_clock.lua
 

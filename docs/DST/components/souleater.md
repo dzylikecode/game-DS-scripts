@@ -1,2 +1,2 @@
-# souleater.md
+# souleater.lua
 

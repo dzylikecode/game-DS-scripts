@@ -1,2 +1,2 @@
-# chessy_3.md
+# chessy_3.lua
 

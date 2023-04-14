@@ -1,2 +1,2 @@
-# accomplishment_shrine.md
+# accomplishment_shrine.lua
 

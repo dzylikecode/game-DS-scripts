@@ -1,2 +1,2 @@
-# smallbird.md
+# smallbird.lua
 

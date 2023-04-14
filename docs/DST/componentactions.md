@@ -1,2 +1,2 @@
-# componentactions.md
+# componentactions.lua
 

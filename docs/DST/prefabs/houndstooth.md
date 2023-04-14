@@ -1,2 +1,2 @@
-# houndstooth.md
+# houndstooth.lua
 

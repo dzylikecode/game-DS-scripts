@@ -1,2 +1,2 @@
-# spicedfoods.md
+# spicedfoods.lua
 

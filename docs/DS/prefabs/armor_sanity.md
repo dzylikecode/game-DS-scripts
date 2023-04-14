@@ -1,2 +1,2 @@
-# armor_sanity.md
+# armor_sanity.lua
 

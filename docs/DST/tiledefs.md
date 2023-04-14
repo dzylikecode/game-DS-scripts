@@ -1,2 +1,2 @@
-# tiledefs.md
+# tiledefs.lua
 

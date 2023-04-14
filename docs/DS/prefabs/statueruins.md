@@ -1,2 +1,2 @@
-# statueruins.md
+# statueruins.lua
 

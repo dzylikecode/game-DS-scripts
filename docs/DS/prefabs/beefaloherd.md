@@ -1,2 +1,2 @@
-# beefaloherd.md
+# beefaloherd.lua
 

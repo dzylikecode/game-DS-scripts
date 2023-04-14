@@ -1,2 +1,2 @@
-# weapon.md
+# weapon.lua
 

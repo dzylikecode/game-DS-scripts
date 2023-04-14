@@ -1,2 +1,2 @@
-# monkeyisland_portal_fxloot.md
+# monkeyisland_portal_fxloot.lua
 

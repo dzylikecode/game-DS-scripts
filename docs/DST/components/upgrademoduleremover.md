@@ -1,2 +1,2 @@
-# upgrademoduleremover.md
+# upgrademoduleremover.lua
 

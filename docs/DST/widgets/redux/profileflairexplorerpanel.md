@@ -1,2 +1,2 @@
-# profileflairexplorerpanel.md
+# profileflairexplorerpanel.lua
 

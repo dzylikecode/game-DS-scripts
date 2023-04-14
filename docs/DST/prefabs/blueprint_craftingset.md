@@ -1,2 +1,2 @@
-# blueprint_craftingset.md
+# blueprint_craftingset.lua
 

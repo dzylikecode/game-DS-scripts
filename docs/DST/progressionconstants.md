@@ -1,2 +1,2 @@
-# progressionconstants.md
+# progressionconstants.lua
 

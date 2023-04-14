@@ -1,2 +1,2 @@
-# nightstickfire.md
+# nightstickfire.lua
 

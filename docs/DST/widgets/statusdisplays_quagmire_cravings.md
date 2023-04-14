@@ -1,2 +1,2 @@
-# statusdisplays_quagmire_cravings.md
+# statusdisplays_quagmire_cravings.lua
 

@@ -1,2 +1,2 @@
-# boomerang.md
+# boomerang.lua
 

@@ -1,2 +1,2 @@
-# waitingforplayers.md
+# waitingforplayers.lua
 

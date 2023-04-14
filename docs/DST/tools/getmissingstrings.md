@@ -1,2 +1,2 @@
-# getmissingstrings.md
+# getmissingstrings.lua
 

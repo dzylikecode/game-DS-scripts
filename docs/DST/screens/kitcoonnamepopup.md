@@ -1,2 +1,2 @@
-# kitcoonnamepopup.md
+# kitcoonnamepopup.lua
 

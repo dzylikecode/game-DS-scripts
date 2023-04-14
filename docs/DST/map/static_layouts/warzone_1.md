@@ -1,2 +1,2 @@
-# warzone_1.md
+# warzone_1.lua
 

@@ -1,2 +1,2 @@
-# yotc_carrat_race_checkpoint.md
+# yotc_carrat_race_checkpoint.lua
 

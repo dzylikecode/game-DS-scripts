@@ -1,2 +1,2 @@
-# yotb_post.md
+# yotb_post.lua
 

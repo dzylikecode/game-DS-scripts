@@ -1,2 +1,2 @@
-# spicepack.md
+# spicepack.lua
 

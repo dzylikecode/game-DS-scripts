@@ -1,2 +1,2 @@
-# customizationlist.md
+# customizationlist.lua
 

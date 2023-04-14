@@ -1,2 +1,2 @@
-# brightmarespawner.md
+# brightmarespawner.lua
 

@@ -1,2 +1,2 @@
-# cutless.md
+# cutless.lua
 

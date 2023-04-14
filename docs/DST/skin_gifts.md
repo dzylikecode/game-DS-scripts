@@ -1,2 +1,2 @@
-# skin_gifts.md
+# skin_gifts.lua
 

@@ -1,2 +1,2 @@
-# wx78_scanner.md
+# wx78_scanner.lua
 

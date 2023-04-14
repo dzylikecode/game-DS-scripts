@@ -1,2 +1,2 @@
-# spinner.md
+# spinner.lua
 

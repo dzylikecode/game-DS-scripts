@@ -1,2 +1,2 @@
-# lavaarena_eventstages.md
+# lavaarena_eventstages.lua
 

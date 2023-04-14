@@ -1,2 +1,2 @@
-# spat.md
+# spat.lua
 

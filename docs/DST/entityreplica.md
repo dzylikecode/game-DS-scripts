@@ -1,2 +1,2 @@
-# entityreplica.md
+# entityreplica.lua
 

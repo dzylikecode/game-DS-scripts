@@ -1,2 +1,2 @@
-# mermcandidate.md
+# mermcandidate.lua
 

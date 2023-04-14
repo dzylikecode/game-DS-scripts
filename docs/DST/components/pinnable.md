@@ -1,2 +1,2 @@
-# pinnable.md
+# pinnable.lua
 

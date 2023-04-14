@@ -1,2 +1,2 @@
-# SGboat.md
+# SGboat.lua
 

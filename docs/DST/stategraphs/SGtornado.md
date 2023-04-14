@@ -1,2 +1,2 @@
-# SGtornado.md
+# SGtornado.lua
 

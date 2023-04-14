@@ -1,2 +1,2 @@
-# pigtorch_flame.md
+# pigtorch_flame.lua
 

@@ -1,2 +1,2 @@
-# aoetargeting.md
+# aoetargeting.lua
 

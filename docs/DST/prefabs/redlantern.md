@@ -1,2 +1,2 @@
-# redlantern.md
+# redlantern.lua
 

@@ -1,2 +1,2 @@
-# lavaarena_floorgrate.md
+# lavaarena_floorgrate.lua
 

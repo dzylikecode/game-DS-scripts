@@ -1,2 +1,2 @@
-# carnivaldecor_eggride.md
+# carnivaldecor_eggride.lua
 

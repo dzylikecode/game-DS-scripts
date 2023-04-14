@@ -1,2 +1,2 @@
-# armor_slurper.md
+# armor_slurper.lua
 

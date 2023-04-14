@@ -1,2 +1,2 @@
-# soul.md
+# soul.lua
 

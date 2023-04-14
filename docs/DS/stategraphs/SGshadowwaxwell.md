@@ -1,2 +1,2 @@
-# SGshadowwaxwell.md
+# SGshadowwaxwell.lua
 

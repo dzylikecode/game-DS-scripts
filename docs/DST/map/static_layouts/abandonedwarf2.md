@@ -1,2 +1,2 @@
-# abandonedwarf2.md
+# abandonedwarf2.lua
 

@@ -1,2 +1,2 @@
-# quagmire_altar.md
+# quagmire_altar.lua
 

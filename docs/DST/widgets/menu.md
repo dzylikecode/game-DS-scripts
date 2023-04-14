@@ -1,2 +1,2 @@
-# menu.md
+# menu.lua
 

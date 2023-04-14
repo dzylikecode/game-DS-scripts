@@ -1,2 +1,2 @@
-# lightningrod.md
+# lightningrod.lua
 

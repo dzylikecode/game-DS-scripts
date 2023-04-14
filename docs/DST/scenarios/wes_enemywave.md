@@ -1,2 +1,2 @@
-# wes_enemywave.md
+# wes_enemywave.lua
 

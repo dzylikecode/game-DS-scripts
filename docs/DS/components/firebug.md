@@ -1,2 +1,2 @@
-# firebug.md
+# firebug.lua
 

@@ -1,2 +1,2 @@
-# characterselect.md
+# characterselect.lua
 

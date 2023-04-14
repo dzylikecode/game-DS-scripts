@@ -1,2 +1,2 @@
-# petrify_fx.md
+# petrify_fx.lua
 

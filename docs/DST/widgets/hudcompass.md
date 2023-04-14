@@ -1,2 +1,2 @@
-# hudcompass.md
+# hudcompass.lua
 

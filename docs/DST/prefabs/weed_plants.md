@@ -1,2 +1,2 @@
-# weed_plants.md
+# weed_plants.lua
 

@@ -1,2 +1,2 @@
-# treegrowthsolution.md
+# treegrowthsolution.lua
 

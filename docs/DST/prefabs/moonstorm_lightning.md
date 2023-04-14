@@ -1,2 +1,2 @@
-# moonstorm_lightning.md
+# moonstorm_lightning.lua
 

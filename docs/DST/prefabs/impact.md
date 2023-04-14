@@ -1,2 +1,2 @@
-# impact.md
+# impact.lua
 

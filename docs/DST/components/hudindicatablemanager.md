@@ -1,2 +1,2 @@
-# hudindicatablemanager.md
+# hudindicatablemanager.lua
 

@@ -1,2 +1,2 @@
-# spear_lance.md
+# spear_lance.lua
 

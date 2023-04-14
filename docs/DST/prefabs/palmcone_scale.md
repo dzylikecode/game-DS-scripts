@@ -1,2 +1,2 @@
-# palmcone_scale.md
+# palmcone_scale.lua
 

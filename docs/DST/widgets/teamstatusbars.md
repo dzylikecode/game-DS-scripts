@@ -1,2 +1,2 @@
-# teamstatusbars.md
+# teamstatusbars.lua
 

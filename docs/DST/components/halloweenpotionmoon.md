@@ -1,2 +1,2 @@
-# halloweenpotionmoon.md
+# halloweenpotionmoon.lua
 

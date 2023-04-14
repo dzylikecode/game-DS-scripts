@@ -1,2 +1,2 @@
-# werebadge.md
+# werebadge.lua
 

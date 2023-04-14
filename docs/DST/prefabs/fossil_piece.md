@@ -1,2 +1,2 @@
-# fossil_piece.md
+# fossil_piece.lua
 

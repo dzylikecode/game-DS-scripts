@@ -1,2 +1,2 @@
-# weather.md
+# weather.lua
 

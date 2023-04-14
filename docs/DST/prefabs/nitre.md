@@ -1,2 +1,2 @@
-# nitre.md
+# nitre.lua
 

@@ -1,2 +1,2 @@
-# SGgingerdeadpig.md
+# SGgingerdeadpig.lua
 

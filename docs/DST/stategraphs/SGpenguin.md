@@ -1,2 +1,2 @@
-# SGpenguin.md
+# SGpenguin.lua
 

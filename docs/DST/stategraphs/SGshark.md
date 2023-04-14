@@ -1,2 +1,2 @@
-# SGshark.md
+# SGshark.lua
 

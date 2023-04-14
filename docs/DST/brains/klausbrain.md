@@ -1,2 +1,2 @@
-# klausbrain.md
+# klausbrain.lua
 

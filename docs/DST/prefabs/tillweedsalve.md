@@ -1,2 +1,2 @@
-# tillweedsalve.md
+# tillweedsalve.lua
 

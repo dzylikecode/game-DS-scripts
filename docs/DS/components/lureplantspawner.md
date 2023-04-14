@@ -1,2 +1,2 @@
-# lureplantspawner.md
+# lureplantspawner.lua
 

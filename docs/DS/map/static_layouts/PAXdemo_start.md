@@ -1,2 +1,2 @@
-# PAXdemo_start.md
+# PAXdemo_start.lua
 

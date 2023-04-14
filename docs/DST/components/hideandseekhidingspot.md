@@ -1,2 +1,2 @@
-# hideandseekhidingspot.md
+# hideandseekhidingspot.lua
 

@@ -1,2 +1,2 @@
-# maxhealer.md
+# maxhealer.lua
 

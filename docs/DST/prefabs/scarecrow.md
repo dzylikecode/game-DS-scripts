@@ -1,2 +1,2 @@
-# scarecrow.md
+# scarecrow.lua
 

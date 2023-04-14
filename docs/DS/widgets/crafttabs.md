@@ -1,2 +1,2 @@
-# crafttabs.md
+# crafttabs.lua
 

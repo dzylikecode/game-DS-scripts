@@ -1,2 +1,2 @@
-# savegamepatcher.md
+# savegamepatcher.lua
 

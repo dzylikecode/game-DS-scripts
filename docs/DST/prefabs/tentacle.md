@@ -1,2 +1,2 @@
-# tentacle.md
+# tentacle.lua
 

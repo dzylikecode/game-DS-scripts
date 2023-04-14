@@ -1,2 +1,2 @@
-# cozy_bunnymanbrain.md
+# cozy_bunnymanbrain.lua
 

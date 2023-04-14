@@ -1,2 +1,2 @@
-# brush.md
+# brush.lua
 

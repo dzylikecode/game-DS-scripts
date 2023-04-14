@@ -1,2 +1,2 @@
-# spiral.md
+# spiral.lua
 

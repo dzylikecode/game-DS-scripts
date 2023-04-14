@@ -1,2 +1,2 @@
-# SGwobysmall.md
+# SGwobysmall.lua
 

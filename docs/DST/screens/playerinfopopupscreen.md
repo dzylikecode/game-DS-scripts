@@ -1,2 +1,2 @@
-# playerinfopopupscreen.md
+# playerinfopopupscreen.lua
 

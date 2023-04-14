@@ -1,2 +1,2 @@
-# inputdialog.md
+# inputdialog.lua
 

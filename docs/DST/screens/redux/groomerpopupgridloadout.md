@@ -1,2 +1,2 @@
-# groomerpopupgridloadout.md
+# groomerpopupgridloadout.lua
 

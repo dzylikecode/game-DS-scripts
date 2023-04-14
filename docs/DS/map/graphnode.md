@@ -1,2 +1,2 @@
-# graphnode.md
+# graphnode.lua
 

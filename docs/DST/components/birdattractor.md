@@ -1,2 +1,2 @@
-# birdattractor.md
+# birdattractor.lua
 

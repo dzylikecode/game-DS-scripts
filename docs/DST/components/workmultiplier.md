@@ -1,2 +1,2 @@
-# workmultiplier.md
+# workmultiplier.lua
 

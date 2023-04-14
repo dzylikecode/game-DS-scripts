@@ -1,2 +1,2 @@
-# bats.md
+# bats.lua
 

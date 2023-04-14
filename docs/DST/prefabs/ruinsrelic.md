@@ -1,2 +1,2 @@
-# ruinsrelic.md
+# ruinsrelic.lua
 

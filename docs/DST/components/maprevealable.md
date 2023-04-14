@@ -1,2 +1,2 @@
-# maprevealable.md
+# maprevealable.lua
 

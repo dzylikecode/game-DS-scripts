@@ -1,2 +1,2 @@
-# SGcritter_glomling.md
+# SGcritter_glomling.lua
 

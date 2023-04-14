@@ -1,2 +1,2 @@
-# fossilized_fx.md
+# fossilized_fx.lua
 

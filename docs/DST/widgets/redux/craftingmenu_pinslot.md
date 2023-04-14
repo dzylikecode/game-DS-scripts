@@ -1,2 +1,2 @@
-# craftingmenu_pinslot.md
+# craftingmenu_pinslot.lua
 

@@ -1,2 +1,2 @@
-# terrain_moonisland.md
+# terrain_moonisland.lua
 

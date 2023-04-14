@@ -1,2 +1,2 @@
-# SGmoose.md
+# SGmoose.lua
 

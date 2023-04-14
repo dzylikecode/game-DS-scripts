@@ -1,2 +1,2 @@
-# packloot_nightmare.md
+# packloot_nightmare.lua
 

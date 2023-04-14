@@ -1,2 +1,2 @@
-# beemine.md
+# beemine.lua
 

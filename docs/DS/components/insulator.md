@@ -1,2 +1,2 @@
-# insulator.md
+# insulator.lua
 

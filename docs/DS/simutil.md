@@ -1,2 +1,2 @@
-# simutil.md
+# simutil.lua
 

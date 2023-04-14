@@ -1,2 +1,2 @@
-# deerclopsspawner.md
+# deerclopsspawner.lua
 

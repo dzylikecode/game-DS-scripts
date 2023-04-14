@@ -1,2 +1,2 @@
-# defaultskinselection.md
+# defaultskinselection.lua
 

@@ -1,2 +1,2 @@
-# foliage.md
+# foliage.lua
 

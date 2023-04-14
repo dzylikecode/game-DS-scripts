@@ -1,2 +1,2 @@
-# SGminiboatlantern.md
+# SGminiboatlantern.lua
 

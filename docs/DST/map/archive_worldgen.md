@@ -1,2 +1,2 @@
-# archive_worldgen.md
+# archive_worldgen.lua
 

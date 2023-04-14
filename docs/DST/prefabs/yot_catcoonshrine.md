@@ -1,2 +1,2 @@
-# yot_catcoonshrine.md
+# yot_catcoonshrine.lua
 

@@ -1,2 +1,2 @@
-# playstylepicker.md
+# playstylepicker.lua
 

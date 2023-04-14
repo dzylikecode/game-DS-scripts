@@ -1,2 +1,2 @@
-# statueharp.md
+# statueharp.lua
 

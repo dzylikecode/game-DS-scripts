@@ -1,2 +1,2 @@
-# boatlip.md
+# boatlip.lua
 

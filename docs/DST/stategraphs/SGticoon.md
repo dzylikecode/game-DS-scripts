@@ -1,2 +1,2 @@
-# SGticoon.md
+# SGticoon.lua
 

@@ -1,2 +1,2 @@
-# saltrock.md
+# saltrock.lua
 

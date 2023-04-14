@@ -1,2 +1,2 @@
-# dlcsupport_strings.md
+# dlcsupport_strings.lua
 

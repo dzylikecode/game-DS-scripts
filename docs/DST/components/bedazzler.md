@@ -1,2 +1,2 @@
-# bedazzler.md
+# bedazzler.lua
 

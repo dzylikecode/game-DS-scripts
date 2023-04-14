@@ -1,2 +1,2 @@
-# magicskincollector.md
+# magicskincollector.lua
 

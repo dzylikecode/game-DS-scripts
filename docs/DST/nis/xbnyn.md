@@ -1,2 +1,2 @@
-# xbnyn.md
+# xbnyn.lua
 

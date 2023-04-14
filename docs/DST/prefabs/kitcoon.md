@@ -1,2 +1,2 @@
-# kitcoon.md
+# kitcoon.lua
 

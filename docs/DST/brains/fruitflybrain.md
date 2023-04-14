@@ -1,2 +1,2 @@
-# fruitflybrain.md
+# fruitflybrain.lua
 

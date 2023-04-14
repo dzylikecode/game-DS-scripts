@@ -1,2 +1,2 @@
-# healthsyncer.md
+# healthsyncer.lua
 

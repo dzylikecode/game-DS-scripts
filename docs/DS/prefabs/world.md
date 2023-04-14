@@ -1,2 +1,2 @@
-# world.md
+# world.lua
 

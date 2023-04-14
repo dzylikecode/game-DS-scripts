@@ -1,2 +1,2 @@
-# ghostly_elixirs.md
+# ghostly_elixirs.lua
 

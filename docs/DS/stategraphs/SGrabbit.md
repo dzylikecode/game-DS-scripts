@@ -1,2 +1,2 @@
-# SGrabbit.md
+# SGrabbit.lua
 

@@ -1,2 +1,2 @@
-# maxwell_merm_shrine.md
+# maxwell_merm_shrine.lua
 

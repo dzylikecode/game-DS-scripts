@@ -1,2 +1,2 @@
-# oceanfishinglure.md
+# oceanfishinglure.lua
 

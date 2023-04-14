@@ -1,2 +1,2 @@
-# antlion_spawner.md
+# antlion_spawner.lua
 

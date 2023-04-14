@@ -1,2 +1,2 @@
-# subscreener.md
+# subscreener.lua
 

@@ -1,2 +1,2 @@
-# character_fire.md
+# character_fire.lua
 

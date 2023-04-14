@@ -1,2 +1,2 @@
-# perd.md
+# perd.lua
 

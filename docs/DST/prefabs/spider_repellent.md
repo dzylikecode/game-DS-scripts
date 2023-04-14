@@ -1,2 +1,2 @@
-# spider_repellent.md
+# spider_repellent.lua
 

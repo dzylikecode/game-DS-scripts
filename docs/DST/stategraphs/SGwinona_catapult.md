@@ -1,2 +1,2 @@
-# SGwinona_catapult.md
+# SGwinona_catapult.lua
 

@@ -1,2 +1,2 @@
-# eater.md
+# eater.lua
 

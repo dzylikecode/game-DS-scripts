@@ -1,2 +1,2 @@
-# weedspage.md
+# weedspage.lua
 

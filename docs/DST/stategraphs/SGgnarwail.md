@@ -1,2 +1,2 @@
-# SGgnarwail.md
+# SGgnarwail.lua
 

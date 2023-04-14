@@ -1,2 +1,2 @@
-# fossil_mound.md
+# fossil_mound.lua
 

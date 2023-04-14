@@ -1,2 +1,2 @@
-# lavaarena_communityhistory_panel.md
+# lavaarena_communityhistory_panel.lua
 

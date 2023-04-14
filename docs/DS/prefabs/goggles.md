@@ -1,2 +1,2 @@
-# goggles.md
+# goggles.lua
 

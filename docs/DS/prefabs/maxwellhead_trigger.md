@@ -1,2 +1,2 @@
-# maxwellhead_trigger.md
+# maxwellhead_trigger.lua
 

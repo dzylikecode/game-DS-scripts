@@ -1,2 +1,2 @@
-# DebugMenuScreen.md
+# DebugMenuScreen.lua
 

@@ -1,2 +1,2 @@
-# boatai.md
+# boatai.lua
 

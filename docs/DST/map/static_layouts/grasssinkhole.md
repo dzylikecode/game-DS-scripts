@@ -1,2 +1,2 @@
-# grasssinkhole.md
+# grasssinkhole.lua
 

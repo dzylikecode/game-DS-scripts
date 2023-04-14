@@ -1,2 +1,2 @@
-# giants.md
+# giants.lua
 

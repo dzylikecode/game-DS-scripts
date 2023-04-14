@@ -1,2 +1,2 @@
-# newgamescreen.md
+# newgamescreen.lua
 

@@ -1,2 +1,2 @@
-# wordfilter.md
+# wordfilter.lua
 

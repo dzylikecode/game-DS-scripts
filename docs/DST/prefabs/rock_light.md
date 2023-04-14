@@ -1,2 +1,2 @@
-# rock_light.md
+# rock_light.lua
 

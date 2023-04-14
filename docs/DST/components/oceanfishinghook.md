@@ -1,2 +1,2 @@
-# oceanfishinghook.md
+# oceanfishinghook.lua
 

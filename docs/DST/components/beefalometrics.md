@@ -1,2 +1,2 @@
-# beefalometrics.md
+# beefalometrics.lua
 

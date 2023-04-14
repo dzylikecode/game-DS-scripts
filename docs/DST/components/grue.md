@@ -1,2 +1,2 @@
-# grue.md
+# grue.lua
 

@@ -1,2 +1,2 @@
-# quagmire_mushroomstump.md
+# quagmire_mushroomstump.lua
 

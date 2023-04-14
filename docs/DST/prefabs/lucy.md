@@ -1,2 +1,2 @@
-# lucy.md
+# lucy.lua
 

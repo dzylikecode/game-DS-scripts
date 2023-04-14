@@ -1,2 +1,2 @@
-# chestloot_checkmate_refined.md
+# chestloot_checkmate_refined.lua
 

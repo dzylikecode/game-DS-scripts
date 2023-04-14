@@ -1,2 +1,2 @@
-# worldtemperature.md
+# worldtemperature.lua
 

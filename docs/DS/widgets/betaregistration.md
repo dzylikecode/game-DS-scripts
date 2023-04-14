@@ -1,2 +1,2 @@
-# betaregistration.md
+# betaregistration.lua
 

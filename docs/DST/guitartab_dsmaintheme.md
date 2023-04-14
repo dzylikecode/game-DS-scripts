@@ -1,2 +1,2 @@
-# guitartab_dsmaintheme.md
+# guitartab_dsmaintheme.lua
 

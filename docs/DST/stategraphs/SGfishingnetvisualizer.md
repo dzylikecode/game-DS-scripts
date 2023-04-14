@@ -1,2 +1,2 @@
-# SGfishingnetvisualizer.md
+# SGfishingnetvisualizer.lua
 

@@ -1,2 +1,2 @@
-# submittingbugreportpopup.md
+# submittingbugreportpopup.lua
 

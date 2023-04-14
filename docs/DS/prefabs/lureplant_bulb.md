@@ -1,2 +1,2 @@
-# lureplant_bulb.md
+# lureplant_bulb.lua
 

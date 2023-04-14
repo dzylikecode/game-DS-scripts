@@ -1,2 +1,2 @@
-# saltbox.md
+# saltbox.lua
 

@@ -1,2 +1,2 @@
-# equippable.md
+# equippable.lua
 

@@ -1,2 +1,2 @@
-# shadowtentacle.md
+# shadowtentacle.lua
 

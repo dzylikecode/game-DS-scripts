@@ -1,2 +1,2 @@
-# alterguardian_phase3dead.md
+# alterguardian_phase3dead.lua
 

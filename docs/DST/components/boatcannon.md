@@ -1,2 +1,2 @@
-# boatcannon.md
+# boatcannon.lua
 

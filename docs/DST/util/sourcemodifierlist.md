@@ -1,2 +1,2 @@
-# sourcemodifierlist.md
+# sourcemodifierlist.lua
 

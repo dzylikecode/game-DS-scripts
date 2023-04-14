@@ -1,2 +1,2 @@
-# SGshadow_knight.md
+# SGshadow_knight.lua
 

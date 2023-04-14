@@ -1,2 +1,2 @@
-# lightninggoat.md
+# lightninggoat.lua
 

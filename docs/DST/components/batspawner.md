@@ -1,2 +1,2 @@
-# batspawner.md
+# batspawner.lua
 

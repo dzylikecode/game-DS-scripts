@@ -1,2 +1,2 @@
-# spectatorcorpse.md
+# spectatorcorpse.lua
 

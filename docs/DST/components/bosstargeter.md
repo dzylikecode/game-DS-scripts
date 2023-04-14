@@ -1,2 +1,2 @@
-# bosstargeter.md
+# bosstargeter.lua
 

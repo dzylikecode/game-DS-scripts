@@ -1,2 +1,2 @@
-# tradescreen.md
+# tradescreen.lua
 

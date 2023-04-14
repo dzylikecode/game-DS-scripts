@@ -1,2 +1,2 @@
-# petrifiable.md
+# petrifiable.lua
 

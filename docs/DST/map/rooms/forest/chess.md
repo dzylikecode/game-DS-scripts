@@ -1,2 +1,2 @@
-# chess.md
+# chess.lua
 

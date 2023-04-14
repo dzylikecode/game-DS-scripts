@@ -1,2 +1,2 @@
-# oceanshadowcreaturebrain.md
+# oceanshadowcreaturebrain.lua
 

@@ -1,2 +1,2 @@
-# bathbombable.md
+# bathbombable.lua
 

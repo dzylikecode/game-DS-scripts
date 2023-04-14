@@ -1,2 +1,2 @@
-# kitcoonbrain.md
+# kitcoonbrain.lua
 

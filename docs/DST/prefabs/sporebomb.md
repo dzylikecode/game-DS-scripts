@@ -1,2 +1,2 @@
-# sporebomb.md
+# sporebomb.lua
 

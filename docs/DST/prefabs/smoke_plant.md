@@ -1,2 +1,2 @@
-# smoke_plant.md
+# smoke_plant.lua
 

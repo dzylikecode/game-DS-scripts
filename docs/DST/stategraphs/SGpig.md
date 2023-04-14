@@ -1,2 +1,2 @@
-# SGpig.md
+# SGpig.lua
 

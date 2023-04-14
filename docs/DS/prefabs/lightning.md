@@ -1,2 +1,2 @@
-# lightning.md
+# lightning.lua
 

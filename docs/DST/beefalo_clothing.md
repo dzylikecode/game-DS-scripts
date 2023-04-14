@@ -1,2 +1,2 @@
-# beefalo_clothing.md
+# beefalo_clothing.lua
 
