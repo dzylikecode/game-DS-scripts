@@ -1,2 +1,0 @@
-# SGdeciduoustree.lua
-

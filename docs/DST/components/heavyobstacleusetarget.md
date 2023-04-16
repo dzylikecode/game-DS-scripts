@@ -1,2 +1,0 @@
-# heavyobstacleusetarget.lua
-

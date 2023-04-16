@@ -1,2 +1,0 @@
-# SGrocky.lua
-

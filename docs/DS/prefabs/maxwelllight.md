@@ -1,2 +1,0 @@
-# maxwelllight.lua
-

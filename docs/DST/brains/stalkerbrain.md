@@ -1,2 +1,0 @@
-# stalkerbrain.lua
-

@@ -1,2 +1,0 @@
-# critterlab.lua
-

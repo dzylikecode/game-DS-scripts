@@ -1,2 +1,0 @@
-# spooked.lua
-

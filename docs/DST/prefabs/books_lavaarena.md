@@ -1,2 +1,0 @@
-# books_lavaarena.lua
-

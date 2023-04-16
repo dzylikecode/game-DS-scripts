@@ -1,2 +1,0 @@
-# chattynode.lua
-

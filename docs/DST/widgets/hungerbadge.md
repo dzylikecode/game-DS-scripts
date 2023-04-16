@@ -1,2 +1,0 @@
-# hungerbadge.lua
-

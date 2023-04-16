@@ -1,2 +1,0 @@
-# pigguard_berries.lua
-

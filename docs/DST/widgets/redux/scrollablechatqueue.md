@@ -1,2 +1,0 @@
-# scrollablechatqueue.lua
-

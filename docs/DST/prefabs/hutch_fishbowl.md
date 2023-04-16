@@ -1,2 +1,0 @@
-# hutch_fishbowl.lua
-

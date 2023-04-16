@@ -1,2 +1,0 @@
-# sand_spike.lua
-

@@ -1,2 +1,0 @@
-# traps.lua
-

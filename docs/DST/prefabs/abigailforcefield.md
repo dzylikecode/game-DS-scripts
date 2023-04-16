@@ -1,2 +1,0 @@
-# abigailforcefield.lua
-

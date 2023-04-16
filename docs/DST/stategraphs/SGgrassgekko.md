@@ -1,2 +1,0 @@
-# SGgrassgekko.lua
-

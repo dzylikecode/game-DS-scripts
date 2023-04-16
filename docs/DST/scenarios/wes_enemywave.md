@@ -1,2 +1,0 @@
-# wes_enemywave.lua
-

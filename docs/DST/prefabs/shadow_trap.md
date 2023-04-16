@@ -1,2 +1,0 @@
-# shadow_trap.lua
-

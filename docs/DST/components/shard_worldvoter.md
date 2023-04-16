@@ -1,2 +1,0 @@
-# shard_worldvoter.lua
-

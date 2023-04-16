@@ -1,2 +1,0 @@
-# hideandseekgame.lua
-

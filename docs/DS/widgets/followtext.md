@@ -1,2 +1,0 @@
-# followtext.lua
-

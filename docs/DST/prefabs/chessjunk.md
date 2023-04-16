@@ -1,2 +1,0 @@
-# chessjunk.lua
-

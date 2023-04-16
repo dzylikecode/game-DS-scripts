@@ -1,2 +1,0 @@
-# dreadstone.lua
-

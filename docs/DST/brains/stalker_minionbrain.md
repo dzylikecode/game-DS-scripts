@@ -1,2 +1,0 @@
-# stalker_minionbrain.lua
-

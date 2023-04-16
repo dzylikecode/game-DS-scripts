@@ -1,2 +1,0 @@
-# eyeofterror_sinkhole.lua
-

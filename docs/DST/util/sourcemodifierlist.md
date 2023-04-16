@@ -1,2 +1,0 @@
-# sourcemodifierlist.lua
-

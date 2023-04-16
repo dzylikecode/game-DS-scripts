@@ -1,2 +1,0 @@
-# moose.lua
-

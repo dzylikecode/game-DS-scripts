@@ -1,2 +1,0 @@
-# manageserverslotscreen.lua
-

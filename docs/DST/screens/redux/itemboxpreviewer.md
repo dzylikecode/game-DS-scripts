@@ -1,2 +1,0 @@
-# itemboxpreviewer.lua
-

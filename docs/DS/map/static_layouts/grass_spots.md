@@ -1,2 +1,0 @@
-# grass_spots.lua
-

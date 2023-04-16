@@ -1,2 +1,0 @@
-# telebrella.lua
-

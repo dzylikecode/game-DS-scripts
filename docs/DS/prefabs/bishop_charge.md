@@ -1,2 +1,0 @@
-# bishop_charge.lua
-

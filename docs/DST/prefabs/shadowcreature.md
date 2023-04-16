@@ -1,2 +1,0 @@
-# shadowcreature.lua
-

@@ -1,2 +1,0 @@
-# polly_rogers.lua
-

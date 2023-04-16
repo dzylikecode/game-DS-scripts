@@ -1,2 +1,0 @@
-# globalmapicon.lua
-

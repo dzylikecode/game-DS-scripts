@@ -1,2 +1,0 @@
-# explode_small.lua
-

@@ -1,2 +1,0 @@
-# beard_sack.lua
-

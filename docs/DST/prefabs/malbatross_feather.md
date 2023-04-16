@@ -1,2 +1,0 @@
-# malbatross_feather.lua
-

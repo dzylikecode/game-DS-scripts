@@ -1,2 +1,0 @@
-# camera_maxwellthrone.lua
-

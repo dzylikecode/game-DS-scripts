@@ -1,2 +1,0 @@
-# critterbuff_lunarmoth.lua
-

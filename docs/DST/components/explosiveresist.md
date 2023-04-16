@@ -1,2 +1,0 @@
-# explosiveresist.lua
-

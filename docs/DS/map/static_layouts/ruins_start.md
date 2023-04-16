@@ -1,2 +1,0 @@
-# ruins_start.lua
-

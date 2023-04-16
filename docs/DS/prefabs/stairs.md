@@ -1,2 +1,0 @@
-# stairs.lua
-

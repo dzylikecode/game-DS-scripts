@@ -1,2 +1,0 @@
-# pocketwatch_weapon.lua
-

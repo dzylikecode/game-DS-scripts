@@ -1,2 +1,0 @@
-# slurper.lua
-

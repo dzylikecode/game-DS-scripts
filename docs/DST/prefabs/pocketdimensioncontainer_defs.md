@@ -1,2 +1,0 @@
-# pocketdimensioncontainer_defs.lua
-

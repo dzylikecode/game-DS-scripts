@@ -1,2 +1,0 @@
-# SGnightmarerock.lua
-

@@ -1,2 +1,0 @@
-# terrain_dirt.lua
-

@@ -1,2 +1,0 @@
-# diviningrodstart.lua
-

@@ -1,2 +1,0 @@
-# worldsettingstab.lua
-

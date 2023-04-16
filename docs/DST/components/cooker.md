@@ -1,2 +1,0 @@
-# cooker.lua
-

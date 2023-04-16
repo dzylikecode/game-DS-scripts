@@ -1,2 +1,0 @@
-# oceanvine_cocoon.lua
-

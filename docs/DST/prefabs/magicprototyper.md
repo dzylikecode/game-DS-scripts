@@ -1,2 +1,0 @@
-# magicprototyper.lua
-

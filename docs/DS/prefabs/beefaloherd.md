@@ -1,2 +1,0 @@
-# beefaloherd.lua
-

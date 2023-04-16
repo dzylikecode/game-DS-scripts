@@ -1,2 +1,0 @@
-# birdattractor.lua
-

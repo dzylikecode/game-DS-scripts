@@ -1,2 +1,0 @@
-# tentacle_pillar.lua
-

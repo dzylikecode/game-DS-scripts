@@ -1,2 +1,0 @@
-# shadeeffects.lua
-

@@ -1,2 +1,0 @@
-# SGcozy_bunnyman.lua
-

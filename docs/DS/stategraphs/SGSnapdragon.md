@@ -1,2 +1,0 @@
-# SGSnapdragon.lua
-

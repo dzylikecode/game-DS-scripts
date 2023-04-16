@@ -1,2 +1,0 @@
-# cave_entrance.lua
-

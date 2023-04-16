@@ -1,2 +1,0 @@
-# truescrollarea.lua
-

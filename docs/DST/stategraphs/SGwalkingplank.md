@@ -1,2 +1,0 @@
-# SGwalkingplank.lua
-

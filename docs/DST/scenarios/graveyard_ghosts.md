@@ -1,2 +1,0 @@
-# graveyard_ghosts.lua
-

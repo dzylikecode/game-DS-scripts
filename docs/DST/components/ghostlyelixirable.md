@@ -1,2 +1,0 @@
-# ghostlyelixirable.lua
-

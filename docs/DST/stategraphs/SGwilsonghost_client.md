@@ -1,2 +1,0 @@
-# SGwilsonghost_client.lua
-

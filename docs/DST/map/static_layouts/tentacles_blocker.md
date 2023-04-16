@@ -1,2 +1,0 @@
-# tentacles_blocker.lua
-

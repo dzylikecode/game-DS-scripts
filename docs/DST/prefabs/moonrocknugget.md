@@ -1,2 +1,0 @@
-# moonrocknugget.lua
-

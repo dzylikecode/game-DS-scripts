@@ -1,2 +1,0 @@
-# pinnable.lua
-

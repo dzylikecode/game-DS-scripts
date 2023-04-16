@@ -1,2 +1,0 @@
-# SGboatbumper.lua
-

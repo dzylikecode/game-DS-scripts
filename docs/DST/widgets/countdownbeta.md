@@ -1,2 +1,0 @@
-# countdownbeta.lua
-

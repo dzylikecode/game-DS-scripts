@@ -1,2 +1,0 @@
-# worldgen_main.lua
-

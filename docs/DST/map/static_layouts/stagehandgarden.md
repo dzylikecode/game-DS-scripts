@@ -1,2 +1,0 @@
-# stagehandgarden.lua
-

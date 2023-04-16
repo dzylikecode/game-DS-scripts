@@ -1,2 +1,0 @@
-# hound_corpse.lua
-

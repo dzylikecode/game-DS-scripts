@@ -1,2 +1,0 @@
-# sheltered_replica.lua
-

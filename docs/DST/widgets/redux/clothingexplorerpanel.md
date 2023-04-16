@@ -1,2 +1,0 @@
-# clothingexplorerpanel.lua
-

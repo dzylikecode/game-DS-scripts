@@ -1,2 +1,0 @@
-# resurrectionstatue.lua
-

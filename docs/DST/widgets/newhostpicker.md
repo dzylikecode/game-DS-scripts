@@ -1,2 +1,0 @@
-# newhostpicker.lua
-

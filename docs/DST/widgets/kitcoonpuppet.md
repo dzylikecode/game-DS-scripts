@@ -1,2 +1,0 @@
-# kitcoonpuppet.lua
-

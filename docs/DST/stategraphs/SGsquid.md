@@ -1,2 +1,0 @@
-# SGsquid.lua
-

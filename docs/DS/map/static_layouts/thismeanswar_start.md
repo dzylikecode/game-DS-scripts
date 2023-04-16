@@ -1,2 +1,0 @@
-# thismeanswar_start.lua
-

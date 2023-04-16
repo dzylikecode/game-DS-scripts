@@ -1,2 +1,0 @@
-# megaflare.lua
-

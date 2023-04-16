@@ -1,2 +1,0 @@
-# strings_pretranslated.lua
-

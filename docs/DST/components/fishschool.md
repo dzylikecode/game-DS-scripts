@@ -1,2 +1,0 @@
-# fishschool.lua
-

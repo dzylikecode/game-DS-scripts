@@ -1,2 +1,0 @@
-# fishingnetvisualizerfx.lua
-

@@ -1,2 +1,0 @@
-# shadowwaxwellbrain.lua
-

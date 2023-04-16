@@ -1,2 +1,0 @@
-# SGboatmagnet.lua
-

@@ -1,2 +1,0 @@
-# trap_icestaff.lua
-

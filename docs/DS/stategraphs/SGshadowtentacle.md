@@ -1,2 +1,0 @@
-# SGshadowtentacle.lua
-

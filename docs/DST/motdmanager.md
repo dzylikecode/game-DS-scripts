@@ -1,2 +1,0 @@
-# motdmanager.lua
-

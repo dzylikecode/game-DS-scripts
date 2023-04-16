@@ -1,2 +1,0 @@
-# ghostbrain.lua
-

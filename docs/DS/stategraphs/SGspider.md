@@ -1,2 +1,0 @@
-# SGspider.lua
-

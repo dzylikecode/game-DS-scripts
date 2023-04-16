@@ -1,2 +1,0 @@
-# inventoryitem_classified.lua
-

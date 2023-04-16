@@ -1,2 +1,0 @@
-# notetable_dsmaintheme.lua
-

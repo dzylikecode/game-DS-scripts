@@ -1,2 +1,0 @@
-# topmodspanel.lua
-

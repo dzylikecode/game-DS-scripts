@@ -1,2 +1,0 @@
-# underwater_salvageable.lua
-

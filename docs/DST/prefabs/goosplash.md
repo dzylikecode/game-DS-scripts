@@ -1,2 +1,0 @@
-# goosplash.lua
-

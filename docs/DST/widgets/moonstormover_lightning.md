@@ -1,2 +1,0 @@
-# moonstormover_lightning.lua
-

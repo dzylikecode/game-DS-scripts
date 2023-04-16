@@ -1,2 +1,0 @@
-# tilebg_quagmire.lua
-

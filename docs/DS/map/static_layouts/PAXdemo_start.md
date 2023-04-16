@@ -1,2 +1,0 @@
-# PAXdemo_start.lua
-

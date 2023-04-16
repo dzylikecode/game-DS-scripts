@@ -1,2 +1,0 @@
-# miniboatlantern.lua
-

@@ -1,2 +1,0 @@
-# confetti_fx.lua
-

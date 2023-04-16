@@ -1,2 +1,0 @@
-# SGspore.lua
-

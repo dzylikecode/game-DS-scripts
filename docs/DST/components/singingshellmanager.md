@@ -1,2 +1,0 @@
-# singingshellmanager.lua
-

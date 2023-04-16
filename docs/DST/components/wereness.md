@@ -1,2 +1,0 @@
-# wereness.lua
-

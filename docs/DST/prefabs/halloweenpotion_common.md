@@ -1,2 +1,0 @@
-# halloweenpotion_common.lua
-

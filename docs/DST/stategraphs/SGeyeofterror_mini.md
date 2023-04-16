@@ -1,2 +1,0 @@
-# SGeyeofterror_mini.lua
-

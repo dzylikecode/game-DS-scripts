@@ -1,2 +1,0 @@
-# moonstormmanager.lua
-

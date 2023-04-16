@@ -1,2 +1,0 @@
-# maprevealer.lua
-

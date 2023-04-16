@@ -1,2 +1,0 @@
-# talker.lua
-

@@ -1,2 +1,0 @@
-# bantab.lua
-

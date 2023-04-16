@@ -1,2 +1,0 @@
-# healingsalve.lua
-

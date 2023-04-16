@@ -1,2 +1,0 @@
-# diseaseable.lua
-

@@ -1,2 +1,0 @@
-# statueruins.lua
-

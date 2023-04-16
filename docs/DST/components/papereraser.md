@@ -1,2 +1,0 @@
-# papereraser.lua
-

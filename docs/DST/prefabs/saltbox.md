@@ -1,2 +1,0 @@
-# saltbox.lua
-

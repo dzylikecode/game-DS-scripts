@@ -1,2 +1,0 @@
-# SGwormhole_limited.lua
-

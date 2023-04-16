@@ -1,2 +1,0 @@
-# pethealthbadge.lua
-

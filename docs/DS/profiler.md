@@ -1,2 +1,0 @@
-# profiler.lua
-

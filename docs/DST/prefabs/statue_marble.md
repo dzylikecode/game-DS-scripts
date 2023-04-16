@@ -1,2 +1,0 @@
-# statue_marble.lua
-

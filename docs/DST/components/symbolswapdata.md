@@ -1,2 +1,0 @@
-# symbolswapdata.lua
-

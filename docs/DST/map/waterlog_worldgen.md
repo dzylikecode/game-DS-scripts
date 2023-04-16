@@ -1,2 +1,0 @@
-# waterlog_worldgen.lua
-

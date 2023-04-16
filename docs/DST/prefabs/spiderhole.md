@@ -1,2 +1,0 @@
-# spiderhole.lua
-

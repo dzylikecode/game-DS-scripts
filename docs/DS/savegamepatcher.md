@@ -1,2 +1,0 @@
-# savegamepatcher.lua
-

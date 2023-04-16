@@ -1,2 +1,0 @@
-# firesuppressor.lua
-

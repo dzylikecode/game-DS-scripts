@@ -1,2 +1,0 @@
-# trap_summer.lua
-

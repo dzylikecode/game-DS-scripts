@@ -1,2 +1,0 @@
-# primemate.lua
-

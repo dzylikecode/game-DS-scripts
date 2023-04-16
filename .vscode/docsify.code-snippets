@@ -36,11 +36,17 @@
     ],
     "description": "link to github repository, blank"
   },
-  "code blog": {
+  "code block": {
     "scope": "markdown",
-    "prefix": "@codeblog",
+    "prefix": "@codeblock",
     "body": ["```${1:language}", "$2", "```", "$0"],
-    "description": "link to code blog"
+    "description": "code block"
+  },
+  "mermaid": {
+    "scope": "markdown",
+    "prefix": "@mermaid",
+    "body": ["```${mermaid}", "", "$1", "```", "$0"],
+    "description": "mermaid"
   },
   "highlight text": {
     "scope": "markdown",

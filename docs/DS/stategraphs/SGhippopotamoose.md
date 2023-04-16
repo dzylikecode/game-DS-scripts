@@ -1,2 +1,0 @@
-# SGhippopotamoose.lua
-

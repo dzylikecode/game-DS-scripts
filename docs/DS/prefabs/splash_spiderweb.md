@@ -1,2 +1,0 @@
-# splash_spiderweb.lua
-

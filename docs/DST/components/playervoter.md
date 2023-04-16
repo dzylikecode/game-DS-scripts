@@ -1,2 +1,0 @@
-# playervoter.lua
-

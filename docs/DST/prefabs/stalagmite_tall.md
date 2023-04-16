@@ -1,2 +1,0 @@
-# stalagmite_tall.lua
-

@@ -1,2 +1,0 @@
-# shadowcreaturebrain.lua
-

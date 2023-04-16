@@ -1,2 +1,0 @@
-# equippable_replica.lua
-

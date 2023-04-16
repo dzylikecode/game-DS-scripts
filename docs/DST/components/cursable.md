@@ -1,2 +1,0 @@
-# cursable.lua
-

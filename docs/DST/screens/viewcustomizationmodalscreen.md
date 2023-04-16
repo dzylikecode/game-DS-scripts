@@ -1,2 +1,0 @@
-# viewcustomizationmodalscreen.lua
-

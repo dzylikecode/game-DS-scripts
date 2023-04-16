@@ -1,2 +1,0 @@
-# skilltreeupdater.lua
-

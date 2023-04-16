@@ -1,2 +1,0 @@
-# bedroll_straw.lua
-

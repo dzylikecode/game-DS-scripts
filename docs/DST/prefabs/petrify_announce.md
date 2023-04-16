@@ -1,2 +1,0 @@
-# petrify_announce.lua
-

@@ -1,2 +1,0 @@
-# smallghost.lua
-

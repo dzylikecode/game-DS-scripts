@@ -1,2 +1,0 @@
-# craftingmenu_pinbar.lua
-

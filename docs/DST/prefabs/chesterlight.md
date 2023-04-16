@@ -1,2 +1,0 @@
-# chesterlight.lua
-

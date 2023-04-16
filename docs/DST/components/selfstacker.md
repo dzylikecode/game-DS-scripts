@@ -1,2 +1,0 @@
-# selfstacker.lua
-

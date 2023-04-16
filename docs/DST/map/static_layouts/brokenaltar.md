@@ -1,2 +1,0 @@
-# brokenaltar.lua
-

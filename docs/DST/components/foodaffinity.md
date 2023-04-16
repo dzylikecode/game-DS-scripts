@@ -1,2 +1,0 @@
-# foodaffinity.lua
-

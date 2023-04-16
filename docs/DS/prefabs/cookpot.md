@@ -1,2 +1,0 @@
-# cookpot.lua
-

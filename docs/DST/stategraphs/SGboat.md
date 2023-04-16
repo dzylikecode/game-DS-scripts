@@ -1,2 +1,0 @@
-# SGboat.lua
-

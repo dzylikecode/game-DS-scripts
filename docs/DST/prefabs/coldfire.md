@@ -1,2 +1,0 @@
-# coldfire.lua
-

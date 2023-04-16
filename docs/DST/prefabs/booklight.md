@@ -1,2 +1,0 @@
-# booklight.lua
-

@@ -1,2 +1,0 @@
-# krampus.lua
-

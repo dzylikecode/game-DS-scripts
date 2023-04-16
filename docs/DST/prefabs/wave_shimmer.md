@@ -1,2 +1,0 @@
-# wave_shimmer.lua
-

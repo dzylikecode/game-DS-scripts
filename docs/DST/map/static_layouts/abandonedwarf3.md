@@ -1,2 +1,0 @@
-# abandonedwarf3.lua
-

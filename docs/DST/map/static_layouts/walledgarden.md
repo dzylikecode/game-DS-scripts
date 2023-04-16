@@ -1,2 +1,0 @@
-# walledgarden.lua
-

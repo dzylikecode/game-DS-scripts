@@ -1,2 +1,0 @@
-# healthwarningpopup.lua
-

@@ -1,2 +1,0 @@
-# SGshadowwaxwell.lua
-

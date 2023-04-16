@@ -1,2 +1,0 @@
-# bunch_spawner.lua
-

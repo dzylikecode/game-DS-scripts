@@ -1,2 +1,0 @@
-# nightsword.lua
-

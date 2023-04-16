@@ -1,2 +1,0 @@
-# finiteuses.lua
-

@@ -1,2 +1,0 @@
-# damp_trail.lua
-

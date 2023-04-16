@@ -87,6 +87,10 @@
       window.gUserName = "dzylikecode";
       window.gReposName = "game-DS-scripts";
       window.gBranchName = "master";
+    </script>
+    <!-- config 给后面使用 -->
+    <script src="./assets/js/config.js"></script>
+    <script>
       window.gCodeDocMaps = [
         {
           docs: "docs/DS/",
@@ -103,11 +107,33 @@
           exclude: ["README", "SUMMARY"],
           global: ["GLOBAL"],
           ext: ".lua",
+          remoteRepos: [
+            {
+              docs: `${window.gPageLink}#/docs/refDocs/`,
+              code: `${window.gBlobLink}code/refDocs/`,
+              cache: `${window.gPageLink}assets/cache/refDocs/`,
+              ext: ".lua",
+            },
+          ],
+        },
+        {
+          docs: "docs/refDocs/",
+          code: "code/refDocs/",
+          cache: "assets/cache/refDocs/",
+          exclude: ["README", "SUMMARY"],
+          global: ["GLOBAL"],
+          ext: ".lua",
+          remoteRepos: [
+            {
+              docs: `${window.gPageLink}#/docs/DST/`,
+              code: `${window.gBlobLink}code/DST/`,
+              cache: `${window.gPageLink}assets/cache/DST/`,
+              ext: ".lua",
+            },
+          ],
         },
       ];
     </script>
-    <!-- config 给后面使用 -->
-    <script src="./assets/js/config.js"></script>
     <!-- docsify 给后面使用 -->
     <script src="./assets/js/docsify.js"></script>
     <script src="./assets/js/anchor.js"></script>

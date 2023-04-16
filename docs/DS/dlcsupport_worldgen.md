@@ -1,2 +1,0 @@
-# dlcsupport_worldgen.lua
-

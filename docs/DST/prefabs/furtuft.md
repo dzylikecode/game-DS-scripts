@@ -1,2 +1,0 @@
-# furtuft.lua
-

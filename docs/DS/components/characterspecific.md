@@ -1,2 +1,0 @@
-# characterspecific.lua
-

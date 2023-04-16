@@ -1,2 +1,0 @@
-# lavae_tooth.lua
-

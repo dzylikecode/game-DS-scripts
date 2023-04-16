@@ -1,2 +1,0 @@
-# yotr_fightring.lua
-

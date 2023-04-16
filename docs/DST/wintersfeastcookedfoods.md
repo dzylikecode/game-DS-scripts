@@ -1,2 +1,0 @@
-# wintersfeastcookedfoods.lua
-

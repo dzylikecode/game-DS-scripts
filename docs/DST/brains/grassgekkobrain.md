@@ -1,2 +1,0 @@
-# grassgekkobrain.lua
-

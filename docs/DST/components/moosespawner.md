@@ -1,2 +1,0 @@
-# moosespawner.lua
-

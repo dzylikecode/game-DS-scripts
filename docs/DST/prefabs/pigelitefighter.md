@@ -1,2 +1,0 @@
-# pigelitefighter.lua
-

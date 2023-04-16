@@ -1,2 +1,0 @@
-# nightmarelight.lua
-

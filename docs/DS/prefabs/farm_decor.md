@@ -1,2 +1,0 @@
-# farm_decor.lua
-

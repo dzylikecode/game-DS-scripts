@@ -1,2 +1,0 @@
-# livingartifactover.lua
-

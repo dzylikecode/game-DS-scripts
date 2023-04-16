@@ -1,2 +1,0 @@
-# watertree_pillar.lua
-

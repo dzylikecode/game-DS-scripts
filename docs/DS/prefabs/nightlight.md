@@ -1,2 +1,0 @@
-# nightlight.lua
-

@@ -1,2 +1,0 @@
-# SGmermking.lua
-

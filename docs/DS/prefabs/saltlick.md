@@ -1,2 +1,0 @@
-# saltlick.lua
-

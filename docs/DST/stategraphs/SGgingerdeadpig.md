@@ -1,2 +1,0 @@
-# SGgingerdeadpig.lua
-

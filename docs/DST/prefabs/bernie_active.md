@@ -1,2 +1,0 @@
-# bernie_active.lua
-

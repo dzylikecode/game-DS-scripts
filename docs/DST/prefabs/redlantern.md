@@ -1,2 +1,0 @@
-# redlantern.lua
-

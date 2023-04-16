@@ -1,2 +1,0 @@
-# stuckdetection.lua
-

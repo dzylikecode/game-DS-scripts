@@ -1,2 +1,0 @@
-# colourcubemanager.lua
-

@@ -1,2 +1,0 @@
-# nightlight_flame.lua
-

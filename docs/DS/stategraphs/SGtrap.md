@@ -1,2 +1,0 @@
-# SGtrap.lua
-

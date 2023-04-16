@@ -1,2 +1,0 @@
-# SGwaveyjoneshand_art.lua
-

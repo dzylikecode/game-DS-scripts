@@ -1,2 +1,0 @@
-# hermit_pearl.lua
-

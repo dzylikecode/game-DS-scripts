@@ -1,2 +1,0 @@
-# specialeventsetup.lua
-

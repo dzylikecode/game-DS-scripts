@@ -1,2 +1,0 @@
-# characterloadoutselectscreen.lua
-

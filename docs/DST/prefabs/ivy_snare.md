@@ -1,2 +1,0 @@
-# ivy_snare.lua
-

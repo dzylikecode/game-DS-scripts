@@ -1,2 +1,0 @@
-# followcamera.lua
-

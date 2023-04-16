@@ -1,2 +1,0 @@
-# speech_wathgrithr.lua
-

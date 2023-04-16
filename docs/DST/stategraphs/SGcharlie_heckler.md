@@ -1,2 +1,0 @@
-# SGcharlie_heckler.lua
-

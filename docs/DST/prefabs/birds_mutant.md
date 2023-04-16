@@ -1,2 +1,0 @@
-# birds_mutant.lua
-

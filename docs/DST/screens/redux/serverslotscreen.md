@@ -1,2 +1,0 @@
-# serverslotscreen.lua
-

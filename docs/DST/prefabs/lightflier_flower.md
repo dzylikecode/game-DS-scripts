@@ -1,2 +1,0 @@
-# lightflier_flower.lua
-

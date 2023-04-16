@@ -1,2 +1,0 @@
-# toadstoolarena.lua
-

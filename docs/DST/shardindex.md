@@ -1,2 +1,0 @@
-# shardindex.lua
-

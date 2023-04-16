@@ -1,2 +1,0 @@
-# walter.lua
-

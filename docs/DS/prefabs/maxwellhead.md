@@ -1,2 +1,0 @@
-# maxwellhead.lua
-

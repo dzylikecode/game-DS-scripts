@@ -1,2 +1,0 @@
-# hungerregenbuff.lua
-

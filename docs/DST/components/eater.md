@@ -1,2 +1,0 @@
-# eater.lua
-

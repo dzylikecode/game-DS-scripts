@@ -1,2 +1,0 @@
-# firedetector.lua
-

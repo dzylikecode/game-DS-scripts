@@ -1,2 +1,0 @@
-# plantpagewidget.lua
-

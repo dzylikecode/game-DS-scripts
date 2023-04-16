@@ -1,2 +1,0 @@
-# featherpencil.lua
-

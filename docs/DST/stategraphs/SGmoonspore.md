@@ -1,2 +1,0 @@
-# SGmoonspore.lua
-

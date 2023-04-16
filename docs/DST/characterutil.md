@@ -1,2 +1,0 @@
-# characterutil.lua
-

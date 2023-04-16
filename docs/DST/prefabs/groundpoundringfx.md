@@ -1,2 +1,0 @@
-# groundpoundringfx.lua
-

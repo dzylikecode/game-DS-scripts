@@ -1,2 +1,0 @@
-# sleepingspider_spiderambush.lua
-

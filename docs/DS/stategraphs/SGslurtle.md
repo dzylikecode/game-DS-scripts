@@ -1,2 +1,0 @@
-# SGslurtle.lua
-

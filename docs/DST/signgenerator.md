@@ -1,2 +1,0 @@
-# signgenerator.lua
-

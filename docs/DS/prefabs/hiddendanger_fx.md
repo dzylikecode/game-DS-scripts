@@ -1,2 +1,0 @@
-# hiddendanger_fx.lua
-

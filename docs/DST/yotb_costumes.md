@@ -1,2 +1,0 @@
-# yotb_costumes.lua
-

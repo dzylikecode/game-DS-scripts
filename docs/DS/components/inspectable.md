@@ -1,2 +1,0 @@
-# inspectable.lua
-

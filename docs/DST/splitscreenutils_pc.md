@@ -1,2 +1,0 @@
-# splitscreenutils_pc.lua
-

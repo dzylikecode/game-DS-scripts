@@ -1,2 +1,0 @@
-# klaus_sack.lua
-

@@ -1,2 +1,0 @@
-# itemimage.lua
-

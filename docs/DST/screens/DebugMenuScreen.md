@@ -1,2 +1,0 @@
-# DebugMenuScreen.lua
-

@@ -1,2 +1,0 @@
-# questowner.lua
-

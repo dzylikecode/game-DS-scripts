@@ -1,2 +1,0 @@
-# damagetypebonus.lua
-

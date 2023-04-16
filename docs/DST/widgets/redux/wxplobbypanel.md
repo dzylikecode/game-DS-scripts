@@ -1,2 +1,0 @@
-# wxplobbypanel.lua
-

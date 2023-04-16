@@ -1,2 +1,0 @@
-# SGboatrotator.lua
-

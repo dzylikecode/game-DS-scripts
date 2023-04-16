@@ -1,2 +1,0 @@
-# beeguard.lua
-

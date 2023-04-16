@@ -1,2 +1,0 @@
-# tacklesketch.lua
-

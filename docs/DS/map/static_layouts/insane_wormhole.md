@@ -1,2 +1,0 @@
-# insane_wormhole.lua
-

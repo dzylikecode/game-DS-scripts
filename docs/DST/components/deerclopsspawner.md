@@ -1,2 +1,0 @@
-# deerclopsspawner.lua
-

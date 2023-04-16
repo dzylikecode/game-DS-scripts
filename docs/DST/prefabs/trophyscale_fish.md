@@ -1,2 +1,0 @@
-# trophyscale_fish.lua
-

@@ -1,2 +1,0 @@
-# plantregistrypanel.lua
-

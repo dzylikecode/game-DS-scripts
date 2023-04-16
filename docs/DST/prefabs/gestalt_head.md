@@ -1,2 +1,0 @@
-# gestalt_head.lua
-

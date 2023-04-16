@@ -1,2 +1,0 @@
-# minperiod.lua
-

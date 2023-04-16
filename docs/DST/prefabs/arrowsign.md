@@ -1,2 +1,0 @@
-# arrowsign.lua
-

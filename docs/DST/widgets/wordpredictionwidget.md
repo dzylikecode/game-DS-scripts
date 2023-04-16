@@ -1,2 +1,0 @@
-# wordpredictionwidget.lua
-

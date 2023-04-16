@@ -1,2 +1,0 @@
-# textedit_steamdeck.lua
-

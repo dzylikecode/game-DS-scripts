@@ -1,2 +1,0 @@
-# fireball_projectile.lua
-

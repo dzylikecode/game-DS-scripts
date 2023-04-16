@@ -1,2 +1,0 @@
-# vec3util.lua
-

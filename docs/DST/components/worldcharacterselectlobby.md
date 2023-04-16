@@ -1,2 +1,0 @@
-# worldcharacterselectlobby.lua
-

@@ -1,2 +1,0 @@
-# lightningblocker.lua
-

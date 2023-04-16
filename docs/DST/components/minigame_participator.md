@@ -1,2 +1,0 @@
-# minigame_participator.lua
-

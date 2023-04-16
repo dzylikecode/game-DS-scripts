@@ -1,2 +1,0 @@
-# fan_wheel.lua
-

@@ -1,2 +1,0 @@
-# emote_items.lua
-

@@ -1,2 +1,0 @@
-# shedder.lua
-

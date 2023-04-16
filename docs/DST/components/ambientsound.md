@@ -1,2 +1,0 @@
-# ambientsound.lua
-

@@ -1,2 +1,0 @@
-# wathgrithr_bloodlustbuff.lua
-

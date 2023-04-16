@@ -1,2 +1,0 @@
-# SGabigail.lua
-

@@ -1,2 +1,0 @@
-# hermithouse.lua
-

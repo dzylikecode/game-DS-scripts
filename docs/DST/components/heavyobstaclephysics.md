@@ -1,2 +1,0 @@
-# heavyobstaclephysics.lua
-

@@ -1,2 +1,0 @@
-# glommerbrain.lua
-

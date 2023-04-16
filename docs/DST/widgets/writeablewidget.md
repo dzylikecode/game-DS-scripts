@@ -1,2 +1,0 @@
-# writeablewidget.lua
-

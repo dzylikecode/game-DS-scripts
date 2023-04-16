@@ -1,2 +1,0 @@
-# skincollector.lua
-

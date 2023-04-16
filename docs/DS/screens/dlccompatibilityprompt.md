@@ -1,2 +1,0 @@
-# dlccompatibilityprompt.lua
-

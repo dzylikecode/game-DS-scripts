@@ -1,2 +1,0 @@
-# SGwobster.lua
-

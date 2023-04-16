@@ -1,2 +1,0 @@
-# SGwave.lua
-

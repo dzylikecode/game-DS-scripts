@@ -1,2 +1,0 @@
-# beefalo_groomer.lua
-

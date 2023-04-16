@@ -1,2 +1,0 @@
-# mandrakebrain.lua
-

@@ -1,2 +1,0 @@
-# cookbookpanel.lua
-

@@ -1,2 +1,0 @@
-# inventory_replica.lua
-

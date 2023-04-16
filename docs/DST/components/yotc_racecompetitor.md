@@ -1,2 +1,0 @@
-# yotc_racecompetitor.lua
-

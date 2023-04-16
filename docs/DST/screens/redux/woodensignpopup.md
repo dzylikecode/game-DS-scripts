@@ -1,2 +1,0 @@
-# woodensignpopup.lua
-

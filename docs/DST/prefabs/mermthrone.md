@@ -1,2 +1,0 @@
-# mermthrone.lua
-

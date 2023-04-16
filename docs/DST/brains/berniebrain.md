@@ -1,2 +1,0 @@
-# berniebrain.lua
-

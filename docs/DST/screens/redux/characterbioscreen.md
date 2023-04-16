@@ -1,2 +1,0 @@
-# characterbioscreen.lua
-

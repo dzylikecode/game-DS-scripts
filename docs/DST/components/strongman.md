@@ -1,2 +1,0 @@
-# strongman.lua
-

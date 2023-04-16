@@ -1,2 +1,0 @@
-# wallupdater.lua
-

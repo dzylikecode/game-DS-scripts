@@ -1,2 +1,0 @@
-# SGboatmeter.lua
-

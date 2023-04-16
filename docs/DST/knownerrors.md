@@ -1,2 +1,0 @@
-# knownerrors.lua
-

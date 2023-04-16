@@ -1,2 +1,0 @@
-# skinspuppet_beefalo.lua
-

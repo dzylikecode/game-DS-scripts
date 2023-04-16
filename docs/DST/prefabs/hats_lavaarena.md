@@ -1,2 +1,0 @@
-# hats_lavaarena.lua
-

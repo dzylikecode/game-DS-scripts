@@ -1,2 +1,0 @@
-# charlie_lecturn.lua
-

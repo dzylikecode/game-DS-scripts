@@ -1,2 +1,0 @@
-# wx78moisturemeter.lua
-

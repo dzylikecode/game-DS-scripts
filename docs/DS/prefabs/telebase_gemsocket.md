@@ -1,2 +1,0 @@
-# telebase_gemsocket.lua
-

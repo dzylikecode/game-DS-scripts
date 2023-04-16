@@ -1,2 +1,0 @@
-# livingtree_halloween.lua
-

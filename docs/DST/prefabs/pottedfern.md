@@ -1,2 +1,0 @@
-# pottedfern.lua
-

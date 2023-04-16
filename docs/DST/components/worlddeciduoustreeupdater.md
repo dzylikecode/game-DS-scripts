@@ -1,2 +1,0 @@
-# worlddeciduoustreeupdater.lua
-

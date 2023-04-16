@@ -1,2 +1,0 @@
-# waxwelljournal.lua
-

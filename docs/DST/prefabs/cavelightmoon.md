@@ -1,2 +1,0 @@
-# cavelightmoon.lua
-

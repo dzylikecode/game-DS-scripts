@@ -1,2 +1,0 @@
-# accomplishment_shrine.lua
-

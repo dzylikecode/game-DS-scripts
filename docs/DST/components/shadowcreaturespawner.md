@@ -1,2 +1,0 @@
-# shadowcreaturespawner.lua
-

@@ -1,2 +1,0 @@
-# shadowedtext.lua
-

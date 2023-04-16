@@ -1,2 +1,0 @@
-# terrain_rocky.lua
-

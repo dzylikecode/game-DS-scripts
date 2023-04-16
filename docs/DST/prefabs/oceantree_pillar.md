@@ -1,2 +1,0 @@
-# oceantree_pillar.lua
-

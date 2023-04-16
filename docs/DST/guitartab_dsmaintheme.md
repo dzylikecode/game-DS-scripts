@@ -1,2 +1,0 @@
-# guitartab_dsmaintheme.lua
-

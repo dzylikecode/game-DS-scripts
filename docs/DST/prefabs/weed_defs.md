@@ -1,2 +1,0 @@
-# weed_defs.lua
-

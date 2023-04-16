@@ -1,2 +1,0 @@
-# cave_exit.lua
-

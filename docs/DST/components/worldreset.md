@@ -1,2 +1,0 @@
-# worldreset.lua
-

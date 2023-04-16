@@ -1,2 +1,0 @@
-# sacred_chest.lua
-

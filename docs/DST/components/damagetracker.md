@@ -1,2 +1,0 @@
-# damagetracker.lua
-

@@ -1,2 +1,0 @@
-# treegrowthsolution.lua
-

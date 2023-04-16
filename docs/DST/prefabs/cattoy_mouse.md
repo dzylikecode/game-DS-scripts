@@ -1,2 +1,0 @@
-# cattoy_mouse.lua
-

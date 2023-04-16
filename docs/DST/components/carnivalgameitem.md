@@ -1,2 +1,0 @@
-# carnivalgameitem.lua
-

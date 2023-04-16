@@ -1,2 +1,0 @@
-# tallbird.lua
-

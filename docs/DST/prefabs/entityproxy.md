@@ -1,2 +1,0 @@
-# entityproxy.lua
-

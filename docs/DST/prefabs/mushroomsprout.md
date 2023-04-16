@@ -1,2 +1,0 @@
-# mushroomsprout.lua
-

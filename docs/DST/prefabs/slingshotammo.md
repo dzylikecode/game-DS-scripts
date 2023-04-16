@@ -1,2 +1,0 @@
-# slingshotammo.lua
-

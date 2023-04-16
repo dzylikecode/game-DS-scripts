@@ -1,2 +1,0 @@
-# distancefade.lua
-

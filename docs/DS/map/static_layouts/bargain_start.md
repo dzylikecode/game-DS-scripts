@@ -1,2 +1,0 @@
-# bargain_start.lua
-

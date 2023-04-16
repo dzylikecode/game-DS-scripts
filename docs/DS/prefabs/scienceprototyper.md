@@ -1,2 +1,0 @@
-# scienceprototyper.lua
-

@@ -1,2 +1,0 @@
-# fossil_mound.lua
-

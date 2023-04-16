@@ -1,2 +1,0 @@
-# glasscutter.lua
-

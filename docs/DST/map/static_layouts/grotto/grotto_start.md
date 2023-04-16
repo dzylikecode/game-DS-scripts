@@ -1,2 +1,0 @@
-# grotto_start.lua
-

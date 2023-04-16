@@ -1,2 +1,0 @@
-# fencerotator.lua
-

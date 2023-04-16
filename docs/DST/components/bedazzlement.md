@@ -1,2 +1,0 @@
-# bedazzlement.lua
-

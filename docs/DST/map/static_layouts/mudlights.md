@@ -1,2 +1,0 @@
-# mudlights.lua
-

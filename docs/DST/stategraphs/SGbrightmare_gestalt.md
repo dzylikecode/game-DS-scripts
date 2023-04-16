@@ -1,2 +1,0 @@
-# SGbrightmare_gestalt.lua
-

@@ -1,2 +1,0 @@
-# firehits.lua
-

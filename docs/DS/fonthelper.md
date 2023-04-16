@@ -1,2 +1,0 @@
-# fonthelper.lua
-

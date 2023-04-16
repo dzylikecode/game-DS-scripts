@@ -1,2 +1,0 @@
-# walkableplatformplayer.lua
-

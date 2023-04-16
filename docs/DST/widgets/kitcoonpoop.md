@@ -1,2 +1,0 @@
-# kitcoonpoop.lua
-

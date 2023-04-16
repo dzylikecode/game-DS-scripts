@@ -1,2 +1,0 @@
-# wandaagebadge.lua
-

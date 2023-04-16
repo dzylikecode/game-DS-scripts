@@ -1,2 +1,0 @@
-# spiderqueenbrain.lua
-

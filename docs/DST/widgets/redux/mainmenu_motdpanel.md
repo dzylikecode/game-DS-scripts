@@ -1,2 +1,0 @@
-# mainmenu_motdpanel.lua
-

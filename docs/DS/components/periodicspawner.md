@@ -1,2 +1,0 @@
-# periodicspawner.lua
-

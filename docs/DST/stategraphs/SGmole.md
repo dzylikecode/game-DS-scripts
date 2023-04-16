@@ -1,2 +1,0 @@
-# SGmole.lua
-

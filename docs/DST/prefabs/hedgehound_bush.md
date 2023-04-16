@@ -1,2 +1,0 @@
-# hedgehound_bush.lua
-

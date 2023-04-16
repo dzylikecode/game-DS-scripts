@@ -1,2 +1,0 @@
-# portablecookpot.lua
-

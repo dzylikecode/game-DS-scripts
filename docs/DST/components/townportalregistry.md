@@ -1,2 +1,0 @@
-# townportalregistry.lua
-

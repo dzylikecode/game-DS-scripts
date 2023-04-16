@@ -1,2 +1,0 @@
-# textlistpopupdialog.lua
-

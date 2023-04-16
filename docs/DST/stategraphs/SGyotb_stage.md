@@ -1,2 +1,0 @@
-# SGyotb_stage.lua
-

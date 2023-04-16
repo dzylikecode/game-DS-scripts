@@ -1,2 +1,0 @@
-# thulecite_pieces.lua
-

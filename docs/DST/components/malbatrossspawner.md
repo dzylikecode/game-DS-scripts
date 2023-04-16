@@ -1,2 +1,0 @@
-# malbatrossspawner.lua
-

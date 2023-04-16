@@ -1,2 +1,0 @@
-# SGlightcrab.lua
-

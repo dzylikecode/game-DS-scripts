@@ -1,2 +1,0 @@
-# SGboatcannon.lua
-

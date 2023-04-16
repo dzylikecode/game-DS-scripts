@@ -1,2 +1,0 @@
-# globalvariableoverrides.lua
-

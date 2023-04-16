@@ -1,2 +1,0 @@
-# cartography_prototyper.lua
-

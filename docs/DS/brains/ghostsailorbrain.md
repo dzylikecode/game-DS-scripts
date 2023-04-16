@@ -1,2 +1,0 @@
-# ghostsailorbrain.lua
-

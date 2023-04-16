@@ -1,2 +1,0 @@
-# yot_catcoonshrine.lua
-

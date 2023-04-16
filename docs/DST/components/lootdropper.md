@@ -1,2 +1,0 @@
-# lootdropper.lua
-

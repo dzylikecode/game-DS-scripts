@@ -1,2 +1,0 @@
-# torchfire_shadow.lua
-

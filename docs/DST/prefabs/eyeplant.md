@@ -1,2 +1,0 @@
-# eyeplant.lua
-

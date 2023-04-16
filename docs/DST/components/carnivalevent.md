@@ -1,2 +1,0 @@
-# carnivalevent.lua
-

@@ -1,2 +1,0 @@
-# icebox_summer.lua
-

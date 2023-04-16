@@ -1,2 +1,0 @@
-# SGRo_Bin.lua
-

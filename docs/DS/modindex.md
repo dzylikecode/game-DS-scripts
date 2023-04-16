@@ -1,2 +1,0 @@
-# modindex.lua
-

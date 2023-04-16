@@ -1,2 +1,0 @@
-# inkover_splat.lua
-

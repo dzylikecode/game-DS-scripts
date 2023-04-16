@@ -1,2 +1,0 @@
-# SGhermitcrab.lua
-

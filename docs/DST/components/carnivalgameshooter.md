@@ -1,2 +1,0 @@
-# carnivalgameshooter.lua
-

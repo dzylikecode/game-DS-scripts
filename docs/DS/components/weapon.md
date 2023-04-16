@@ -1,2 +1,0 @@
-# weapon.lua
-

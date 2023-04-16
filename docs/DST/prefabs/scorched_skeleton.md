@@ -1,2 +1,0 @@
-# scorched_skeleton.lua
-

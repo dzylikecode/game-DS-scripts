@@ -1,2 +1,0 @@
-# spawnlight_multiplayer.lua
-

@@ -1,2 +1,0 @@
-# SGstagehand.lua
-

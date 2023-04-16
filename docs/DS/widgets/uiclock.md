@@ -1,2 +1,0 @@
-# uiclock.lua
-

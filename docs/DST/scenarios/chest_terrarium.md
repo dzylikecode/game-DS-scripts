@@ -1,2 +1,0 @@
-# chest_terrarium.lua
-

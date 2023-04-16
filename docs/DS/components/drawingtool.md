@@ -1,2 +1,0 @@
-# drawingtool.lua
-

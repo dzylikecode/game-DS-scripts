@@ -1,2 +1,0 @@
-# coldfirepit.lua
-

@@ -1,2 +1,0 @@
-# lavaarena_portal.lua
-

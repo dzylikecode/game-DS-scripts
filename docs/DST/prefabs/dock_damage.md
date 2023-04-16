@@ -1,2 +1,0 @@
-# dock_damage.lua
-

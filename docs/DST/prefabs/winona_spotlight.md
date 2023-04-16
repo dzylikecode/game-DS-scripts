@@ -1,2 +1,0 @@
-# winona_spotlight.lua
-

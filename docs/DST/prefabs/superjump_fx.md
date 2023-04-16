@@ -1,2 +1,0 @@
-# superjump_fx.lua
-

@@ -1,2 +1,0 @@
-# pumpkin_lantern.lua
-

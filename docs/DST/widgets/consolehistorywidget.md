@@ -1,2 +1,0 @@
-# consolehistorywidget.lua
-

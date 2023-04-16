@@ -1,2 +1,0 @@
-# attackwall.lua
-

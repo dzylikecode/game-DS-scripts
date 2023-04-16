@@ -1,2 +1,0 @@
-# statueglommer.lua
-

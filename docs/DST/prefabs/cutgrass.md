@@ -1,2 +1,0 @@
-# cutgrass.lua
-

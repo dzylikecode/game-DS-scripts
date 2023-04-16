@@ -1,2 +1,0 @@
-# daywalkerbrain.lua
-

@@ -1,2 +1,0 @@
-# brinepool1.lua
-

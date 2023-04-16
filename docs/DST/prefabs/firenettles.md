@@ -1,2 +1,0 @@
-# firenettles.lua
-

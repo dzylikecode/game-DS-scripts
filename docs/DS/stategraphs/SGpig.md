@@ -1,2 +1,0 @@
-# SGpig.lua
-

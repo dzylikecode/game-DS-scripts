@@ -1,2 +1,0 @@
-# lightninggoatbrain.lua
-

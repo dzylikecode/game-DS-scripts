@@ -1,2 +1,0 @@
-# heatrock.lua
-

@@ -1,2 +1,0 @@
-# portal_home.lua
-

@@ -1,2 +1,0 @@
-# carnival_decor.lua
-

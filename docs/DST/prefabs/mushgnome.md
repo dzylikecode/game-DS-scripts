@@ -1,2 +1,0 @@
-# mushgnome.lua
-

@@ -1,2 +1,0 @@
-# shadowmeteor.lua
-

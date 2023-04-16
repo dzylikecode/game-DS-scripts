@@ -1,2 +1,0 @@
-# minisign.lua
-

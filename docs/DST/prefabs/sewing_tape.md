@@ -1,2 +1,0 @@
-# sewing_tape.lua
-

@@ -1,2 +1,0 @@
-# craftingmenu_skinselector.lua
-

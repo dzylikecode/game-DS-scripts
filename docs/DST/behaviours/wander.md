@@ -1,2 +1,0 @@
-# wander.lua
-

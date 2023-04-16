@@ -1,2 +1,0 @@
-# writeable_classified.lua
-

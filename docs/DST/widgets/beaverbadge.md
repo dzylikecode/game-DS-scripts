@@ -1,2 +1,0 @@
-# beaverbadge.lua
-

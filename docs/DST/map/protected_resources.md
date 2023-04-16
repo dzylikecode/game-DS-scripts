@@ -1,2 +1,0 @@
-# protected_resources.lua
-

@@ -1,2 +1,0 @@
-# wormlight_plant.lua
-

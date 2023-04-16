@@ -1,2 +1,0 @@
-# npc_talker.lua
-

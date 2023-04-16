@@ -1,2 +1,0 @@
-# festivaleventscreeninfo.lua
-

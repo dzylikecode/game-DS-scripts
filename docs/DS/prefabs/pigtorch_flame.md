@@ -1,2 +1,0 @@
-# pigtorch_flame.lua
-

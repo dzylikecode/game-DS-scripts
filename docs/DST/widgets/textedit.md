@@ -1,2 +1,0 @@
-# textedit.lua
-

@@ -1,2 +1,0 @@
-# SGticoon.lua
-

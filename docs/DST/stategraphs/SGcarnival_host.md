@@ -1,2 +1,0 @@
-# SGcarnival_host.lua
-

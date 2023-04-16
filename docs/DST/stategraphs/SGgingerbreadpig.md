@@ -1,2 +1,0 @@
-# SGgingerbreadpig.lua
-

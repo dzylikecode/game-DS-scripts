@@ -1,2 +1,0 @@
-# squidherd.lua
-

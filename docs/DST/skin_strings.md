@@ -1,2 +1,0 @@
-# skin_strings.lua
-

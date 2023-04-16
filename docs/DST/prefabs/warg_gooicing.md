@@ -1,2 +1,0 @@
-# warg_gooicing.lua
-

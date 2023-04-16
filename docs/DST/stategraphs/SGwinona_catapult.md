@@ -1,2 +1,0 @@
-# SGwinona_catapult.lua
-

@@ -1,2 +1,0 @@
-# ruinsrelic.lua
-

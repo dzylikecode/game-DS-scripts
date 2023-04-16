@@ -1,2 +1,0 @@
-# obituariespanel.lua
-

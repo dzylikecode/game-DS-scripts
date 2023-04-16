@@ -1,2 +1,0 @@
-# exitcavelight.lua
-

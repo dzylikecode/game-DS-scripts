@@ -1,2 +1,0 @@
-# pillow_common.lua
-

@@ -1,2 +1,0 @@
-# flotsamfisher.lua
-

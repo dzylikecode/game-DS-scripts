@@ -1,2 +1,0 @@
-# moondial.lua
-

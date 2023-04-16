@@ -1,2 +1,0 @@
-# shadowchesspieces.lua
-

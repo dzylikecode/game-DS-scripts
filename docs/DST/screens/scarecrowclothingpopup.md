@@ -1,2 +1,0 @@
-# scarecrowclothingpopup.lua
-

@@ -1,2 +1,0 @@
-# SGmoose.lua
-

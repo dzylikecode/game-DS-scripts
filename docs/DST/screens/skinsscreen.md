@@ -1,2 +1,0 @@
-# skinsscreen.lua
-

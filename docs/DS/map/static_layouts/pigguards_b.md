@@ -1,2 +1,0 @@
-# pigguards_b.lua
-

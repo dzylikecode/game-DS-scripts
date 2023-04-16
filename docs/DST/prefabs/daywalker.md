@@ -1,2 +1,0 @@
-# daywalker.lua
-

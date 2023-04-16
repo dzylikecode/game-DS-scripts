@@ -1,2 +1,0 @@
-# skilltreedata.lua
-

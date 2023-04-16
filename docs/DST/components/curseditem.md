@@ -1,2 +1,0 @@
-# curseditem.lua
-

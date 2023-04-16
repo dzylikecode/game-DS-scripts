@@ -1,2 +1,0 @@
-# chest_labyrinth.lua
-

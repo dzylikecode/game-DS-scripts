@@ -1,2 +1,0 @@
-# smallbirdbrain.lua
-

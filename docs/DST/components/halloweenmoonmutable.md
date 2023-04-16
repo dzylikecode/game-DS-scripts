@@ -1,2 +1,0 @@
-# halloweenmoonmutable.lua
-

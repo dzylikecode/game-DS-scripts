@@ -1,2 +1,0 @@
-# minotaurhorn.lua
-

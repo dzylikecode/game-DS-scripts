@@ -1,2 +1,0 @@
-# reflectivevest.lua
-

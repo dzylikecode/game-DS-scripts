@@ -1,2 +1,0 @@
-# specialslot.lua
-

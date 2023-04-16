@@ -1,2 +1,0 @@
-# winter_treestand.lua
-

@@ -1,2 +1,0 @@
-# amphibiouscreature.lua
-

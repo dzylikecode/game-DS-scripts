@@ -1,2 +1,0 @@
-# explosivehit.lua
-

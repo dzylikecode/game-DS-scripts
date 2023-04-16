@@ -1,2 +1,0 @@
-# atrium_rubble.lua
-

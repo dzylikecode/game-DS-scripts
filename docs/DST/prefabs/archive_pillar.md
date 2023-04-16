@@ -1,2 +1,0 @@
-# archive_pillar.lua
-

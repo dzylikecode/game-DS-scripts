@@ -1,2 +1,0 @@
-# wortox.lua
-

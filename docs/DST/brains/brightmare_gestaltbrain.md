@@ -1,2 +1,0 @@
-# brightmare_gestaltbrain.lua
-

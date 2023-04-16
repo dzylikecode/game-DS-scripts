@@ -1,2 +1,0 @@
-# waxwell.lua
-

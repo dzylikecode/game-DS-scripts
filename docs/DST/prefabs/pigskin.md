@@ -1,2 +1,0 @@
-# pigskin.lua
-

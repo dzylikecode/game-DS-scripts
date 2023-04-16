@@ -1,2 +1,0 @@
-# mandrake_inactive.lua
-

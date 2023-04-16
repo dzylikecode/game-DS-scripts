@@ -1,2 +1,0 @@
-# sisturn.lua
-

@@ -1,2 +1,0 @@
-# nightmarecreature.lua
-

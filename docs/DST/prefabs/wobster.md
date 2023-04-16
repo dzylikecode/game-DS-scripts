@@ -1,2 +1,0 @@
-# wobster.lua
-

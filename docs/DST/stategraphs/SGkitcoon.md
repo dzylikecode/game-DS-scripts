@@ -1,2 +1,0 @@
-# SGkitcoon.lua
-

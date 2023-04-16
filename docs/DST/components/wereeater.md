@@ -1,2 +1,0 @@
-# wereeater.lua
-

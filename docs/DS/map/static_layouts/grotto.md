@@ -1,2 +1,0 @@
-# grotto.lua
-

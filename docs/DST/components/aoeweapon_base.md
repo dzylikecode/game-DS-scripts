@@ -1,2 +1,0 @@
-# aoeweapon_base.lua
-

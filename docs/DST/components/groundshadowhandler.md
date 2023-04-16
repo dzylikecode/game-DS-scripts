@@ -1,2 +1,0 @@
-# groundshadowhandler.lua
-

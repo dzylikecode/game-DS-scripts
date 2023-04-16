@@ -1,2 +1,0 @@
-# SGstalker_minion.lua
-

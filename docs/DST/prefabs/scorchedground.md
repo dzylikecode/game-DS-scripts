@@ -1,2 +1,0 @@
-# scorchedground.lua
-

@@ -1,2 +1,0 @@
-# fossilized_fx.lua
-

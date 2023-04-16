@@ -1,2 +1,0 @@
-# ticoonbrain.lua
-

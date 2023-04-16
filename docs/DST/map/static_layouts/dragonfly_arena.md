@@ -1,2 +1,0 @@
-# dragonfly_arena.lua
-

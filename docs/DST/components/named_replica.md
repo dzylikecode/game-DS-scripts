@@ -1,2 +1,0 @@
-# named_replica.lua
-

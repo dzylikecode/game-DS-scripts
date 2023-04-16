@@ -1,2 +1,0 @@
-# gnarwail_horn.lua
-

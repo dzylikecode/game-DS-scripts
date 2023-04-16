@@ -1,2 +1,0 @@
-# flotsam.lua
-

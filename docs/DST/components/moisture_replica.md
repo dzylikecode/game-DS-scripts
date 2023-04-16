@@ -1,2 +1,0 @@
-# moisture_replica.lua
-

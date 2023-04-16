@@ -1,2 +1,0 @@
-# moviedialog.lua
-

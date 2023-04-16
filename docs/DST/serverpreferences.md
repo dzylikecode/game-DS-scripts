@@ -1,2 +1,0 @@
-# serverpreferences.lua
-

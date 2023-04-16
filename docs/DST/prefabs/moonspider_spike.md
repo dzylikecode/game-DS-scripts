@@ -1,2 +1,0 @@
-# moonspider_spike.lua
-

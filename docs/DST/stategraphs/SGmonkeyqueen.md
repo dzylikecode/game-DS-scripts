@@ -1,2 +1,0 @@
-# SGmonkeyqueen.lua
-

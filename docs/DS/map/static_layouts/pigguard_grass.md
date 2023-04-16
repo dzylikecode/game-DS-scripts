@@ -1,2 +1,0 @@
-# pigguard_grass.lua
-

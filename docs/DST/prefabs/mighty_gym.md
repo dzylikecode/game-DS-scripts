@@ -1,2 +1,0 @@
-# mighty_gym.lua
-

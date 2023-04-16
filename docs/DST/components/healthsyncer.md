@@ -1,2 +1,0 @@
-# healthsyncer.lua
-

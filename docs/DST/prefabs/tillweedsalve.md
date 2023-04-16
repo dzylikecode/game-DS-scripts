@@ -1,2 +1,0 @@
-# tillweedsalve.lua
-

@@ -1,2 +1,0 @@
-# beef_bell.lua
-

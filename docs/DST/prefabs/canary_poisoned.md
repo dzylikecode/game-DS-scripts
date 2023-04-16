@@ -1,2 +1,0 @@
-# canary_poisoned.lua
-

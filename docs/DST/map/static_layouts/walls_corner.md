@@ -1,2 +1,0 @@
-# walls_corner.lua
-

@@ -1,2 +1,0 @@
-# dapperness.lua
-

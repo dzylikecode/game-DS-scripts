@@ -1,2 +1,0 @@
-# SGwilson_client.lua
-

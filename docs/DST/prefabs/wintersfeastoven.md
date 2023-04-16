@@ -1,2 +1,0 @@
-# wintersfeastoven.lua
-

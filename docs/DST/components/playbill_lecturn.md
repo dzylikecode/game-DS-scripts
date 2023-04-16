@@ -1,2 +1,0 @@
-# playbill_lecturn.lua
-

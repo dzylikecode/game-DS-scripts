@@ -1,2 +1,0 @@
-# setpopupdialog.lua
-

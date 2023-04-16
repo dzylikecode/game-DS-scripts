@@ -1,2 +1,0 @@
-# light_rays.lua
-

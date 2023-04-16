@@ -1,2 +1,0 @@
-# skeleton_fisher.lua
-

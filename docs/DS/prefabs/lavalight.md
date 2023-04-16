@@ -1,2 +1,0 @@
-# lavalight.lua
-

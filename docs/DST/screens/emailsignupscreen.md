@@ -1,2 +1,0 @@
-# emailsignupscreen.lua
-

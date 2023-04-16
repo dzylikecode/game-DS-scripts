@@ -1,2 +1,0 @@
-# moonrelic.lua
-

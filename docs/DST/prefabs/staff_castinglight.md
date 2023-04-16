@@ -1,2 +1,0 @@
-# staff_castinglight.lua
-

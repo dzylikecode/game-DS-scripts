@@ -1,2 +1,0 @@
-# kitcoon_nametag.lua
-

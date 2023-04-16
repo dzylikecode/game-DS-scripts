@@ -1,2 +1,0 @@
-# SGpenguin.lua
-

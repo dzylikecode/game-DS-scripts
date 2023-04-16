@@ -1,2 +1,0 @@
-# ambientlighting.lua
-

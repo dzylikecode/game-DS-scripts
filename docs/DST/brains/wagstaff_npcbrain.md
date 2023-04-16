@@ -1,2 +1,0 @@
-# wagstaff_npcbrain.lua
-

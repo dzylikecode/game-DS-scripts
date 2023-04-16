@@ -1,2 +1,0 @@
-# carrot_spinner.lua
-

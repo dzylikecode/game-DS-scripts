@@ -1,2 +1,0 @@
-# shadowsubmissive.lua
-

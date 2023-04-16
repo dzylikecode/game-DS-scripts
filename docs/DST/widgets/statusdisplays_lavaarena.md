@@ -1,2 +1,0 @@
-# statusdisplays_lavaarena.lua
-

@@ -1,2 +1,0 @@
-# minigame_spectator.lua
-

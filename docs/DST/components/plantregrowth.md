@@ -1,2 +1,0 @@
-# plantregrowth.lua
-

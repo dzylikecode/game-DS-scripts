@@ -1,2 +1,0 @@
-# equipslotutil.lua
-

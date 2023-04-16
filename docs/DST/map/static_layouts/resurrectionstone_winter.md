@@ -1,2 +1,0 @@
-# resurrectionstone_winter.lua
-

@@ -1,2 +1,0 @@
-# bullkelp_plant.lua
-

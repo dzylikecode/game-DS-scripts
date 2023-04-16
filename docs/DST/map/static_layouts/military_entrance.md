@@ -1,2 +1,0 @@
-# military_entrance.lua
-

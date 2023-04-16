@@ -1,2 +1,0 @@
-# waxwell_shadowstriker.lua
-

@@ -1,2 +1,0 @@
-# fertilizerresearchable.lua
-

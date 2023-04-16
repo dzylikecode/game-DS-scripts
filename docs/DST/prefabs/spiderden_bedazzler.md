@@ -1,2 +1,0 @@
-# spiderden_bedazzler.lua
-

@@ -1,2 +1,0 @@
-# statusdisplays_quagmire.lua
-

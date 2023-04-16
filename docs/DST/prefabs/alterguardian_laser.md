@@ -1,2 +1,0 @@
-# alterguardian_laser.lua
-

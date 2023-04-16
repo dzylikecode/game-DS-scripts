@@ -1,2 +1,0 @@
-# shadowhandspawner.lua
-

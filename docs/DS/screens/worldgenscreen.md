@@ -1,2 +1,0 @@
-# worldgenscreen.lua
-

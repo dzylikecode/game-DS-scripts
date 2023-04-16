@@ -1,2 +1,0 @@
-# lucy_classified.lua
-

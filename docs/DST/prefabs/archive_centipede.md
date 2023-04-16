@@ -1,2 +1,0 @@
-# archive_centipede.lua
-

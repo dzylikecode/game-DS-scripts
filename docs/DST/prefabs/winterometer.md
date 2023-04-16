@@ -1,2 +1,0 @@
-# winterometer.lua
-

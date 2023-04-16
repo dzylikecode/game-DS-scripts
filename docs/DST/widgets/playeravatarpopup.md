@@ -1,2 +1,0 @@
-# playeravatarpopup.lua
-

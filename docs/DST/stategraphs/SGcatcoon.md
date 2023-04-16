@@ -1,2 +1,0 @@
-# SGcatcoon.lua
-

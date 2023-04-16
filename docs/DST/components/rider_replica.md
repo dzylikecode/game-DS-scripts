@@ -1,2 +1,0 @@
-# rider_replica.lua
-

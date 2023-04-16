@@ -1,2 +1,0 @@
-# cookbookdata.lua
-

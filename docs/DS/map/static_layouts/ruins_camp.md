@@ -1,2 +1,0 @@
-# ruins_camp.lua
-

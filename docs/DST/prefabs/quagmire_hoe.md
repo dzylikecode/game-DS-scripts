@@ -1,2 +1,0 @@
-# quagmire_hoe.lua
-

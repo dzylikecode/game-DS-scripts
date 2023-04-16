@@ -1,2 +1,0 @@
-# slurtle_shellpieces.lua
-

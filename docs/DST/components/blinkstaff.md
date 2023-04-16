@@ -1,2 +1,0 @@
-# blinkstaff.lua
-

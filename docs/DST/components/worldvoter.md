@@ -1,2 +1,0 @@
-# worldvoter.lua
-

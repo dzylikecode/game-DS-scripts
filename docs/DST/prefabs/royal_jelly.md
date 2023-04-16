@@ -1,2 +1,0 @@
-# royal_jelly.lua
-

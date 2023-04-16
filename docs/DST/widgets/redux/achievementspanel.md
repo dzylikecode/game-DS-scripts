@@ -1,2 +1,0 @@
-# achievementspanel.lua
-

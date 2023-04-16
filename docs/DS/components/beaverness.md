@@ -1,2 +1,0 @@
-# beaverness.lua
-

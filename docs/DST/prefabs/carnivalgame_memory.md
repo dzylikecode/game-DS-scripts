@@ -1,2 +1,0 @@
-# carnivalgame_memory.lua
-

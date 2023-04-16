@@ -1,2 +1,0 @@
-# inspirationbadge.lua
-

@@ -1,2 +1,0 @@
-# wobsterbrain.lua
-

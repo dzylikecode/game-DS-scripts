@@ -1,2 +1,0 @@
-# hawaiianshirt.lua
-

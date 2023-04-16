@@ -1,2 +1,0 @@
-# skeleton_mushjack.lua
-

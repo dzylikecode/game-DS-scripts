@@ -1,2 +1,0 @@
-# thunder_close.lua
-

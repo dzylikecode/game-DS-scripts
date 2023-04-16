@@ -1,2 +1,0 @@
-# walkingplankuser.lua
-

@@ -1,2 +1,0 @@
-# chum_aoe.lua
-

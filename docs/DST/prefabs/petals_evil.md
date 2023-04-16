@@ -1,2 +1,0 @@
-# petals_evil.lua
-

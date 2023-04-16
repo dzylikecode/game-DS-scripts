@@ -1,2 +1,0 @@
-# pollyrogerbrain.lua
-

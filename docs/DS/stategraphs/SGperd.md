@@ -1,2 +1,0 @@
-# SGperd.lua
-

@@ -1,2 +1,0 @@
-# animal_track.lua
-

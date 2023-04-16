@@ -1,2 +1,0 @@
-# penguinherd.lua
-

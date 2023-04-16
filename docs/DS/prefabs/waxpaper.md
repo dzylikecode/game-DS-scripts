@@ -1,2 +1,0 @@
-# waxpaper.lua
-

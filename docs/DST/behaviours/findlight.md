@@ -1,2 +1,0 @@
-# findlight.lua
-

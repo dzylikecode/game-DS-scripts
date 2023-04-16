@@ -1,2 +1,0 @@
-# gingerbreadhunter.lua
-

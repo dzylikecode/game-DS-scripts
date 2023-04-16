@@ -1,2 +1,0 @@
-# SGlightninggoat.lua
-

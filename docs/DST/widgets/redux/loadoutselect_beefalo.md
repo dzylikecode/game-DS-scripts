@@ -1,2 +1,0 @@
-# loadoutselect_beefalo.lua
-

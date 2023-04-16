@@ -1,2 +1,0 @@
-# SGeyeturret.lua
-

@@ -1,2 +1,0 @@
-# mushroom_farm.lua
-

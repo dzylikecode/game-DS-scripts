@@ -1,2 +1,0 @@
-# brightmare_gestaltinvaderbrain.lua
-

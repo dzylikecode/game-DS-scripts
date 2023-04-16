@@ -1,2 +1,0 @@
-# ovalportrait.lua
-

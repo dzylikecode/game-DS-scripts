@@ -1,2 +1,0 @@
-# maxwelltalker.lua
-

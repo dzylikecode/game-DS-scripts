@@ -1,2 +1,0 @@
-# mermwatchtower.lua
-

@@ -1,2 +1,0 @@
-# SGtallbird.lua
-

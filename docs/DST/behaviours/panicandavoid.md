@@ -1,2 +1,0 @@
-# panicandavoid.lua
-

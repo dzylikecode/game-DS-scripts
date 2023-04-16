@@ -1,2 +1,0 @@
-# sculpture_pieces.lua
-

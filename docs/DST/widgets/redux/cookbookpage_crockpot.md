@@ -1,2 +1,0 @@
-# cookbookpage_crockpot.lua
-

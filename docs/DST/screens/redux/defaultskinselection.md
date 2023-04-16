@@ -1,2 +1,0 @@
-# defaultskinselection.lua
-

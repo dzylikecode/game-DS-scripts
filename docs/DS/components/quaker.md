@@ -1,2 +1,0 @@
-# quaker.lua
-

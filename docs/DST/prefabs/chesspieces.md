@@ -1,2 +1,0 @@
-# chesspieces.lua
-

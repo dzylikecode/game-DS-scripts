@@ -1,2 +1,0 @@
-# spear_wathgrithr.lua
-

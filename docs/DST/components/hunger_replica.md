@@ -1,2 +1,0 @@
-# hunger_replica.lua
-

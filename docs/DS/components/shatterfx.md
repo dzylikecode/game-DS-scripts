@@ -1,2 +1,0 @@
-# shatterfx.lua
-

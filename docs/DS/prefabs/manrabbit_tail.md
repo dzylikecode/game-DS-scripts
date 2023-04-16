@@ -1,2 +1,0 @@
-# manrabbit_tail.lua
-

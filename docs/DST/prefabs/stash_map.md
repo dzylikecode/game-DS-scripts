@@ -1,2 +1,0 @@
-# stash_map.lua
-

@@ -1,2 +1,0 @@
-# pirate_stash.lua
-

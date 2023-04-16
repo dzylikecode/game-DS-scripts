@@ -1,2 +1,0 @@
-# groundcreepdefs.lua
-

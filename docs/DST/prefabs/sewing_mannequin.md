@@ -1,2 +1,0 @@
-# sewing_mannequin.lua
-

@@ -1,2 +1,0 @@
-# wordfilter.lua
-

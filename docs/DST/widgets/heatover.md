@@ -1,2 +1,0 @@
-# heatover.lua
-

@@ -1,2 +1,0 @@
-# torchfire_common.lua
-

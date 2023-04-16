@@ -1,2 +1,0 @@
-# waterplant_seed.lua
-

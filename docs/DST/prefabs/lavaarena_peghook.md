@@ -1,2 +1,0 @@
-# lavaarena_peghook.lua
-

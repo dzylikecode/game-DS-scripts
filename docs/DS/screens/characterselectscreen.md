@@ -1,2 +1,0 @@
-# characterselectscreen.lua
-

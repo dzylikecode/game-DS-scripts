@@ -1,2 +1,0 @@
-# characterbutton.lua
-

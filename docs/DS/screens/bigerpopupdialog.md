@@ -1,2 +1,0 @@
-# bigerpopupdialog.lua
-

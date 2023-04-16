@@ -1,2 +1,0 @@
-# magician_chest.lua
-

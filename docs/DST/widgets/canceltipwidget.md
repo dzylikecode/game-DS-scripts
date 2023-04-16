@@ -1,2 +1,0 @@
-# canceltipwidget.lua
-

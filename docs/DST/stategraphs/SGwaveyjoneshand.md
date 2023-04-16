@@ -1,2 +1,0 @@
-# SGwaveyjoneshand.lua
-

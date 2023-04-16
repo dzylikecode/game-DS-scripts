@@ -1,2 +1,0 @@
-# endgamedialog.lua
-

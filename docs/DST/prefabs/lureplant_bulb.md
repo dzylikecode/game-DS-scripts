@@ -1,2 +1,0 @@
-# lureplant_bulb.lua
-

@@ -1,2 +1,0 @@
-# townportaltalisman.lua
-

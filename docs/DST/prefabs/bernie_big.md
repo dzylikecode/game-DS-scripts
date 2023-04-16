@@ -1,2 +1,0 @@
-# bernie_big.lua
-

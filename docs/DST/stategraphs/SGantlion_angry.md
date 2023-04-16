@@ -1,2 +1,0 @@
-# SGantlion_angry.lua
-

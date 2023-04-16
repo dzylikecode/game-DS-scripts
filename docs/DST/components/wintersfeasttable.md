@@ -1,2 +1,0 @@
-# wintersfeasttable.lua
-

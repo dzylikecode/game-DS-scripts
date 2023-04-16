@@ -1,2 +1,0 @@
-# minifan.lua
-

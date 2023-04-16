@@ -1,2 +1,0 @@
-# SGcarnival_crowkid.lua
-

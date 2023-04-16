@@ -1,2 +1,0 @@
-# emotes.lua
-

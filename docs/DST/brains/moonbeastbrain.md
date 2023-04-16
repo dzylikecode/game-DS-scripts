@@ -1,2 +1,0 @@
-# moonbeastbrain.lua
-

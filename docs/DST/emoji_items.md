@@ -1,2 +1,0 @@
-# emoji_items.lua
-

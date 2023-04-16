@@ -1,2 +1,0 @@
-# moonglass_stalactites.lua
-

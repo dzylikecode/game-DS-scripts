@@ -1,2 +1,0 @@
-# sinkholespawner.lua
-

@@ -1,2 +1,0 @@
-# worldsettings_overrides.lua
-

@@ -1,2 +1,0 @@
-# firefx.lua
-

@@ -1,2 +1,0 @@
-# carnivaldecorranker.lua
-

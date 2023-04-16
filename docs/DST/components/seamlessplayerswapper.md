@@ -1,2 +1,0 @@
-# seamlessplayerswapper.lua
-

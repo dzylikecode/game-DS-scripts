@@ -1,2 +1,0 @@
-# SGdaywalker_imprisoned.lua
-

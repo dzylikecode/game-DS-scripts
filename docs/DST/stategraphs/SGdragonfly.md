@@ -1,2 +1,0 @@
-# SGdragonfly.lua
-

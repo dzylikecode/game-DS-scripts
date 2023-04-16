@@ -1,2 +1,0 @@
-# wake_small.lua
-

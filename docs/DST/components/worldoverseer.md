@@ -1,2 +1,0 @@
-# worldoverseer.lua
-

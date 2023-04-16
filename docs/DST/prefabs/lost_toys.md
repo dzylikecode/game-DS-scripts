@@ -1,2 +1,0 @@
-# lost_toys.lua
-

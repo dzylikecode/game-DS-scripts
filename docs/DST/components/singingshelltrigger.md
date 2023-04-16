@@ -1,2 +1,0 @@
-# singingshelltrigger.lua
-

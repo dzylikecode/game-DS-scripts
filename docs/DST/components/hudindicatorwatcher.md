@@ -1,2 +1,0 @@
-# hudindicatorwatcher.lua
-

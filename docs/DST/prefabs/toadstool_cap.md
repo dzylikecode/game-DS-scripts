@@ -1,2 +1,0 @@
-# toadstool_cap.lua
-

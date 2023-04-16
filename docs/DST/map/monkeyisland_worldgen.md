@@ -1,2 +1,0 @@
-# monkeyisland_worldgen.lua
-

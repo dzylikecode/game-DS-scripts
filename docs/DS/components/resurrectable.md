@@ -1,2 +1,0 @@
-# resurrectable.lua
-

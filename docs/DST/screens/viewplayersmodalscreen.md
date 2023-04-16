@@ -1,2 +1,0 @@
-# viewplayersmodalscreen.lua
-

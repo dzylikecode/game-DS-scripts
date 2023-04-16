@@ -1,2 +1,0 @@
-# walrus_camp.lua
-

@@ -1,2 +1,0 @@
-# netvars.lua
-

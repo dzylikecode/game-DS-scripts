@@ -1,2 +1,0 @@
-# healthregenbuff.lua
-

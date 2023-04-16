@@ -1,2 +1,0 @@
-# eventannouncer.lua
-

@@ -1,2 +1,0 @@
-# eyebone_ghost.lua
-

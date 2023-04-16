@@ -1,2 +1,0 @@
-# moonaltarrockidol.lua
-

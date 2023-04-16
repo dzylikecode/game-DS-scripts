@@ -1,2 +1,0 @@
-# SGtoadstool.lua
-

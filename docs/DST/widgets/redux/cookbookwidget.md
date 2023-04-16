@@ -1,2 +1,0 @@
-# cookbookwidget.lua
-

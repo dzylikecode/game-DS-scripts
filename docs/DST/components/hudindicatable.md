@@ -1,2 +1,0 @@
-# hudindicatable.lua
-

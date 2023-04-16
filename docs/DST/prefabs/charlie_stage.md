@@ -1,2 +1,0 @@
-# charlie_stage.lua
-

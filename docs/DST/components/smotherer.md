@@ -1,2 +1,0 @@
-# smotherer.lua
-

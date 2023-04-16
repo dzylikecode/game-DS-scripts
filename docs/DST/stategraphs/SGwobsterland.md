@@ -1,2 +1,0 @@
-# SGwobsterland.lua
-

@@ -1,2 +1,0 @@
-# mushgnome_spawner.lua
-

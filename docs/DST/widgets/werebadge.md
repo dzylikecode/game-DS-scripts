@@ -1,2 +1,0 @@
-# werebadge.lua
-

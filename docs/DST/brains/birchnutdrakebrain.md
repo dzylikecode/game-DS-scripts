@@ -1,2 +1,0 @@
-# birchnutdrakebrain.lua
-

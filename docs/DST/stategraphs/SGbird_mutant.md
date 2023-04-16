@@ -1,2 +1,0 @@
-# SGbird_mutant.lua
-

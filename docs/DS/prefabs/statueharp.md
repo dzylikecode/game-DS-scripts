@@ -1,2 +1,0 @@
-# statueharp.lua
-

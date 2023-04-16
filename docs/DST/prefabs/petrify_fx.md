@@ -1,2 +1,0 @@
-# petrify_fx.lua
-

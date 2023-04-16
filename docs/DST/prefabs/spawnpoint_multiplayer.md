@@ -1,2 +1,0 @@
-# spawnpoint_multiplayer.lua
-

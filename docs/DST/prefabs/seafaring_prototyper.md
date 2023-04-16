@@ -1,2 +1,0 @@
-# seafaring_prototyper.lua
-

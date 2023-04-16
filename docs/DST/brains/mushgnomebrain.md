@@ -1,2 +1,0 @@
-# mushgnomebrain.lua
-

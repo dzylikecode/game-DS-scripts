@@ -1,2 +1,0 @@
-# fogover.lua
-

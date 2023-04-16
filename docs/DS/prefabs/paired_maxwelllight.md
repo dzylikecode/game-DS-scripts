@@ -1,2 +1,0 @@
-# paired_maxwelllight.lua
-

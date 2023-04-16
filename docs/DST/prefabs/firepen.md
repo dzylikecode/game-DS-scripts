@@ -1,2 +1,0 @@
-# firepen.lua
-

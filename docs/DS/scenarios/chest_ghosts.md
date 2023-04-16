@@ -1,2 +1,0 @@
-# chest_ghosts.lua
-

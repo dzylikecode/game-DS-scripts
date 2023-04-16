@@ -1,2 +1,0 @@
-# schoolherd.lua
-

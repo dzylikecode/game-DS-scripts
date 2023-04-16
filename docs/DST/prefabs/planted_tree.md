@@ -1,2 +1,0 @@
-# planted_tree.lua
-

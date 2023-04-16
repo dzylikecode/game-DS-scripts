@@ -1,2 +1,0 @@
-# skinsutils.lua
-

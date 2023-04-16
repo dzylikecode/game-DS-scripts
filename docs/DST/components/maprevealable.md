@@ -1,2 +1,0 @@
-# maprevealable.lua
-

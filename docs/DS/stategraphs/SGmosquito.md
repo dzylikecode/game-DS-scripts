@@ -1,2 +1,0 @@
-# SGmosquito.lua
-

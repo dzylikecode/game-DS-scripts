@@ -1,2 +1,0 @@
-# firepit.lua
-

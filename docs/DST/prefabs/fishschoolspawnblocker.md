@@ -1,2 +1,0 @@
-# fishschoolspawnblocker.lua
-

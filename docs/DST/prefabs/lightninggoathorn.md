@@ -1,2 +1,0 @@
-# lightninggoathorn.lua
-

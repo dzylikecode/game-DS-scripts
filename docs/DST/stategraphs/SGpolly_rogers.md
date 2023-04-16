@@ -1,2 +1,0 @@
-# SGpolly_rogers.lua
-

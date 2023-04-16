@@ -1,2 +1,0 @@
-# modfilterbar.lua
-

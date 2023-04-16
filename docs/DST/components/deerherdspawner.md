@@ -1,2 +1,0 @@
-# deerherdspawner.lua
-

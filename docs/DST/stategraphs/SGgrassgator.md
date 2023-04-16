@@ -1,2 +1,0 @@
-# SGgrassgator.lua
-

@@ -1,2 +1,0 @@
-# resurrector.lua
-

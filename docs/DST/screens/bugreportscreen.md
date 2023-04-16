@@ -1,2 +1,0 @@
-# bugreportscreen.lua
-

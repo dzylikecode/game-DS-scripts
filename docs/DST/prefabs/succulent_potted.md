@@ -1,2 +1,0 @@
-# succulent_potted.lua
-

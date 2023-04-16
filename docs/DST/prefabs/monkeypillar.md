@@ -1,2 +1,0 @@
-# monkeypillar.lua
-

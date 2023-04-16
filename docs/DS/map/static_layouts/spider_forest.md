@@ -1,2 +1,0 @@
-# spider_forest.lua
-

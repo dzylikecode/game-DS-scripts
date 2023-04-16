@@ -1,2 +1,0 @@
-# cozy_bunnyman.lua
-

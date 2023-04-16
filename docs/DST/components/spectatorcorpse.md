@@ -1,2 +1,0 @@
-# spectatorcorpse.lua
-

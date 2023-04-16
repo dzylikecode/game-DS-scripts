@@ -1,2 +1,0 @@
-# cookiecutterdrill.lua
-

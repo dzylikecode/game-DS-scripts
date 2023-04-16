@@ -1,2 +1,0 @@
-# dock_woodposts.lua
-

@@ -1,2 +1,0 @@
-# announcementwidget.lua
-

@@ -1,2 +1,0 @@
-# halloween_ornaments.lua
-

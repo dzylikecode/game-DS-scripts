@@ -1,2 +1,0 @@
-# mindcontroller.lua
-

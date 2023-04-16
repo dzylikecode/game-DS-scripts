@@ -1,2 +1,0 @@
-# statueharp_hedgespawner.lua
-

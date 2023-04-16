@@ -1,2 +1,0 @@
-# avoidlight.lua
-

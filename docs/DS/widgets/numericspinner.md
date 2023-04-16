@@ -1,2 +1,0 @@
-# numericspinner.lua
-

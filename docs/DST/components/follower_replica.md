@@ -1,2 +1,0 @@
-# follower_replica.lua
-

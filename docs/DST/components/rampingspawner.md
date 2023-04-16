@@ -1,2 +1,0 @@
-# rampingspawner.lua
-

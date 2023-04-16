@@ -1,2 +1,0 @@
-# findclosest.lua
-

@@ -1,2 +1,0 @@
-# SGtentacle.lua
-

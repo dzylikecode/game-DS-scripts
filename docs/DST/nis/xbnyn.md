@@ -1,2 +1,0 @@
-# xbnyn.lua
-

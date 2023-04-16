@@ -1,2 +1,0 @@
-# moonstorm_static.lua
-

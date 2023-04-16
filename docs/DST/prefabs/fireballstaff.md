@@ -1,2 +1,0 @@
-# fireballstaff.lua
-

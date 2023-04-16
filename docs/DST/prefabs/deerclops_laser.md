@@ -1,2 +1,0 @@
-# deerclops_laser.lua
-

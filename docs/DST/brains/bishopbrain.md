@@ -1,2 +1,0 @@
-# bishopbrain.lua
-

@@ -1,2 +1,0 @@
-# houndstooth.lua
-

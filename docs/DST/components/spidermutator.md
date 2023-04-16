@@ -1,2 +1,0 @@
-# spidermutator.lua
-

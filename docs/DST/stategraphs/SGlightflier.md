@@ -1,2 +1,0 @@
-# SGlightflier.lua
-

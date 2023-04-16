@@ -1,2 +1,0 @@
-# moonspiderden.lua
-

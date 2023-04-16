@@ -1,2 +1,0 @@
-# palmcone_scale.lua
-

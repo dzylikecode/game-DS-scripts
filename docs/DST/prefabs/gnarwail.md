@@ -1,2 +1,0 @@
-# gnarwail.lua
-

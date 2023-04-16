@@ -1,2 +1,0 @@
-# SGanchor.lua
-

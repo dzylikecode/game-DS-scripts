@@ -1,2 +1,0 @@
-# bearger_fur.lua
-

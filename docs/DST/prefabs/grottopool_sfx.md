@@ -1,2 +1,0 @@
-# grottopool_sfx.lua
-

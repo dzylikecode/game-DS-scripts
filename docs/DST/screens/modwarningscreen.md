@@ -1,2 +1,0 @@
-# modwarningscreen.lua
-

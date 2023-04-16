@@ -1,2 +1,0 @@
-# storygen.lua
-

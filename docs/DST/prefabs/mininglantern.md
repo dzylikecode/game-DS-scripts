@@ -1,2 +1,0 @@
-# mininglantern.lua
-

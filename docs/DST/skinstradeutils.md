@@ -1,2 +1,0 @@
-# skinstradeutils.lua
-

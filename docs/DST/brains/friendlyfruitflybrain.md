@@ -1,2 +1,0 @@
-# friendlyfruitflybrain.lua
-

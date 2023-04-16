@@ -1,2 +1,0 @@
-# stageactingprop.lua
-

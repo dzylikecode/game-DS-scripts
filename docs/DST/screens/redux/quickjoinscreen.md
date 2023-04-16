@@ -1,2 +1,0 @@
-# quickjoinscreen.lua
-

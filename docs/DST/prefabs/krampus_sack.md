@@ -1,2 +1,0 @@
-# krampus_sack.lua
-

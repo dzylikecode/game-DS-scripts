@@ -1,2 +1,0 @@
-# SGrat_gym.lua
-

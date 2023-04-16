@@ -1,2 +1,0 @@
-# builtinusercommands.lua
-

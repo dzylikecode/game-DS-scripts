@@ -1,2 +1,0 @@
-# metaclass.lua
-

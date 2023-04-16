@@ -1,2 +1,0 @@
-# lighterfire_common.lua
-

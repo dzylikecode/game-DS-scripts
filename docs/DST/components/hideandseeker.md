@@ -1,2 +1,0 @@
-# hideandseeker.lua
-

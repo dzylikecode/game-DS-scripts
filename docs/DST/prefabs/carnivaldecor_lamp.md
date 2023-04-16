@@ -1,2 +1,0 @@
-# carnivaldecor_lamp.lua
-

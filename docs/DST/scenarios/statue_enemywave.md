@@ -1,2 +1,0 @@
-# statue_enemywave.lua
-

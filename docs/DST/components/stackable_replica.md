@@ -1,2 +1,0 @@
-# stackable_replica.lua
-

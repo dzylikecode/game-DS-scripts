@@ -1,2 +1,0 @@
-# characterselect.lua
-

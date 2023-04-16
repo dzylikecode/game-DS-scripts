@@ -1,2 +1,0 @@
-# glommerfuel.lua
-

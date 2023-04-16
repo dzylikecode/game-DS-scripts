@@ -1,2 +1,0 @@
-# carrat_ghostracer.lua
-

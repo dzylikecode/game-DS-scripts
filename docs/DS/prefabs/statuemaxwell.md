@@ -1,2 +1,0 @@
-# statuemaxwell.lua
-

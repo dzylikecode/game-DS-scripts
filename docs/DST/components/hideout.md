@@ -1,2 +1,0 @@
-# hideout.lua
-

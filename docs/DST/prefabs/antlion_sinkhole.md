@@ -1,2 +1,0 @@
-# antlion_sinkhole.lua
-

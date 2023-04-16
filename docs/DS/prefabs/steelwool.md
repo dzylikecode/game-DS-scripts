@@ -1,2 +1,0 @@
-# steelwool.lua
-

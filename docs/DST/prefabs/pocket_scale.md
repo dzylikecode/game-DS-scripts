@@ -1,2 +1,0 @@
-# pocket_scale.lua
-

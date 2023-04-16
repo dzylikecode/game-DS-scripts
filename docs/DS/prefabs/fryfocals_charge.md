@@ -1,2 +1,0 @@
-# fryfocals_charge.lua
-

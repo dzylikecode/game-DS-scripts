@@ -1,2 +1,0 @@
-# moonstorm_spark.lua
-

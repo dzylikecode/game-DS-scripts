@@ -1,2 +1,0 @@
-# playeravatardata.lua
-

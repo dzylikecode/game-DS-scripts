@@ -1,2 +1,0 @@
-# lavaarena_crowdstand.lua
-

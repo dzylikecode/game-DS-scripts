@@ -1,16 +1,23 @@
 {
   "dstutils.mapRules": [
     {
-      "mdDir": "docs/DS",
-      "cacheDir": "assets/cache/DS",
-      "codeDir": "code/DS",
+      "mdDir": "docs/DS/",
+      "cacheDir": "assets/cache/DS/",
+      "codeDir": "code/DS/",
       "exclude": ["README", "SUMMARY"],
       "ext": ".lua"
     },
     {
-      "mdDir": "docs/DST",
-      "cacheDir": "assets/cache/DST",
-      "codeDir": "code/DST",
+      "mdDir": "docs/DST/",
+      "cacheDir": "assets/cache/DST/",
+      "codeDir": "code/DST/",
+      "exclude": ["README", "SUMMARY"],
+      "ext": ".lua"
+    },
+    {
+      "mdDir": "docs/refDocs/",
+      "cacheDir": "assets/cache/refDocs/",
+      "codeDir": "code/",
       "exclude": ["README", "SUMMARY"],
       "ext": ".lua"
     }

@@ -1,2 +1,0 @@
-# mushtree_moon.lua
-

@@ -1,2 +1,0 @@
-# scarecrow.lua
-

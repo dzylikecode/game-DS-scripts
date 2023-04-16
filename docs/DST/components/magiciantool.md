@@ -1,2 +1,0 @@
-# magiciantool.lua
-

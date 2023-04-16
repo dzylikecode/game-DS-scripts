@@ -1,2 +1,0 @@
-# mermguardbrain.lua
-

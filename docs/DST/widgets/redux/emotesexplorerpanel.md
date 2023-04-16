@@ -1,2 +1,0 @@
-# emotesexplorerpanel.lua
-

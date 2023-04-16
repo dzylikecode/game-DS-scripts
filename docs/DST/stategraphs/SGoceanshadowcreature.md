@@ -1,2 +1,0 @@
-# SGoceanshadowcreature.lua
-

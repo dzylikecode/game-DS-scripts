@@ -1,2 +1,0 @@
-# followerherder.lua
-

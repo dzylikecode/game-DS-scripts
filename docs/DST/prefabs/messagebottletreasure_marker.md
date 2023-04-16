@@ -1,2 +1,0 @@
-# messagebottletreasure_marker.lua
-

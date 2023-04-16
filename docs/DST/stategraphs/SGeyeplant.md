@@ -1,2 +1,0 @@
-# SGeyeplant.lua
-

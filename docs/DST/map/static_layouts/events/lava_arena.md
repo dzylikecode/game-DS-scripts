@@ -1,2 +1,0 @@
-# lava_arena.lua
-

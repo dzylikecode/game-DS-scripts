@@ -1,2 +1,0 @@
-# shadowchanneler.lua
-

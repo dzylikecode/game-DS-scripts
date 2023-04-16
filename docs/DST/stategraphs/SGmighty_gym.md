@@ -1,2 +1,0 @@
-# SGmighty_gym.lua
-

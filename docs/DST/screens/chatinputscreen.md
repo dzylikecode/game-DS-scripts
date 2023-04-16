@@ -1,2 +1,0 @@
-# chatinputscreen.lua
-

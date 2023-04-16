@@ -1,2 +1,0 @@
-# worldresettimer.lua
-

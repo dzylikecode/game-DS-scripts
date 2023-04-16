@@ -1,2 +1,0 @@
-# skin_gifts.lua
-

@@ -1,2 +1,0 @@
-# goose_feather.lua
-

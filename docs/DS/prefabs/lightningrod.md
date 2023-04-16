@@ -1,2 +1,0 @@
-# lightningrod.lua
-

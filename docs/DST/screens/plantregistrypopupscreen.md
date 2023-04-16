@@ -1,2 +1,0 @@
-# plantregistrypopupscreen.lua
-

@@ -1,2 +1,0 @@
-# experiencecollector.lua
-

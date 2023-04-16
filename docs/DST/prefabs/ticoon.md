@@ -1,2 +1,0 @@
-# ticoon.lua
-

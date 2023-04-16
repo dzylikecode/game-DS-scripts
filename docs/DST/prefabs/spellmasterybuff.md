@@ -1,2 +1,0 @@
-# spellmasterybuff.lua
-

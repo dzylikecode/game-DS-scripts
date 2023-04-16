@@ -1,2 +1,0 @@
-# tallbirdnest.lua
-

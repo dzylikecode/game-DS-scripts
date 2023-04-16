@@ -1,2 +1,0 @@
-# plantspage.lua
-

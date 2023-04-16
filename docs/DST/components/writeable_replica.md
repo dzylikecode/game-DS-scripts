@@ -1,2 +1,0 @@
-# writeable_replica.lua
-

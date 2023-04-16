@@ -1,2 +1,0 @@
-# SGcritter_lunarmothling.lua
-

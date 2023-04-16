@@ -1,2 +1,0 @@
-# sanity_replica.lua
-

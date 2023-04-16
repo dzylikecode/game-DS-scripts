@@ -1,2 +1,0 @@
-# controllervotescreen.lua
-
